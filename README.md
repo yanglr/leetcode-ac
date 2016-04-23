@@ -1,4 +1,4 @@
 # LeetCodeOJ
 LeetCodeOJ - Solutions and Chinese Titles
 
-LeetCode中文title(持续更新)
+LeetCode题目中文翻译，中文title(持续更新)
