@@ -1,0 +1,124 @@
+#!/usr/bin/gnuplot -persist
+set terminal png
+set xlabel "Размер массива, чисел"
+set ylabel "Время сортировки, секунд"
+set key top left
+set style line 1 lt 1 lw 3 pt 6
+set style line 2 lt 2 lw 3 pt 6
+set style line 3 lt 3 lw 3 pt 6
+set style line 4 lt 4 lw 3 pt 6
+set style line 5 lt 5 lw 3 pt 6
+set style line 6 lt 6 lw 3 pt 6
+set style line 7 lt 7 lw 3 pt 6
+set style line 8 lt 8 lw 3 pt 6
+set style line 9 lt 9 lw 3 pt 6
+set style line 10 lt 1 lw 3 pt 4
+set style line 11 lt 2 lw 3 pt 4
+set style line 12 lt 3 lw 3 pt 4
+set style line 13 lt 4 lw 3 pt 4
+set style line 14 lt 5 lw 3 pt 4
+set style line 15 lt 6 lw 3 pt 4
+set style line 666 lt 8 pt 7
+
+
+set output "graph0-1000.png"
+set xrange [0:1000]
+set title "Время сортировки int'ов, не превышаюших размерность массива\nРазмер массива - до 1 тысячи элементов"
+
+plot "result_sort.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSort.txt" title "countingSort" with linespoints linestyle 8, \
+	"result_quickSort.txt" title "quickSort" with linespoints linestyle 2, \
+	"result_combSort.txt" title "combSort" with linespoints linestyle 3, \
+	"result_heapSort.txt" title "heapSort" with linespoints linestyle 9, \
+	"result_mergeSort.txt" title "mergeSort" with linespoints linestyle 4, \
+	"result_shellSort.txt" title "shellSort" with linespoints linestyle 5, \
+	"result_selectionSort.txt" title "selectionSort" with linespoints linestyle 7, \
+	"result_insertSort.txt" title "insertSort" with linespoints linestyle 6, \
+	"result_gnomeSort.txt" title "gnomeSort" with linespoints linestyle 10, \
+	"result_combinedBubbleSort.txt" title "combinedBubbleSort" with linespoints linestyle 11, \
+	"result_cocktailSort.txt" title "cocktailSort" with linespoints linestyle 12, \
+	"result_bubbleSort.txt" title "bubbleSort" with linespoints linestyle 13, \
+	"result_oddEvenSort.txt" title "oddEvenSort" with linespoints linestyle 14, \
+	"result_bubbleSortWithFlag.txt" title "bubbleSortWithFlag" with linespoints linestyle 15
+
+set output "graph1000-30000.png"
+set xrange [1000:30000]
+set title "Время сортировки int'ов, не превышаюших размерность массива\nРазмер массива - до 30 тысяч элементов"
+
+plot "result_sort.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSort.txt" title "countingSort" with linespoints linestyle 8, \
+	"result_quickSort.txt" title "quickSort" with linespoints linestyle 2, \
+	"result_combSort.txt" title "combSort" with linespoints linestyle 3, \
+	"result_heapSort.txt" title "heapSort" with linespoints linestyle 9, \
+	"result_mergeSort.txt" title "mergeSort" with linespoints linestyle 4
+
+set output "graph200000.png"
+set xrange [0:200000]
+set title "Время сортировки int'ов, не превышаюших размерность массива\nРазмер массива - до 200 тысяч элементов"
+
+plot "result_sort.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSort.txt" title "countingSort" with linespoints linestyle 8, \
+	"result_quickSort.txt" title "quickSort" with linespoints linestyle 2, \
+	"result_combSort.txt" title "combSort" with linespoints linestyle 3, \
+	"result_heapSort.txt" title "heapSort" with linespoints linestyle 9, \
+	"result_mergeSort.txt" title "mergeSort" with linespoints linestyle 4
+
+set output "graph2000000.png"
+set xrange [0:2000000]
+set title "Время сортировки int'ов, не превышаюших размерность массива\nРазмер массива - до 2 миллионов элементов"
+
+plot "result_sort.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSort.txt" title "countingSort" with linespoints linestyle 8, \
+	"result_quickSort.txt" title "quickSort" with linespoints linestyle 2
+
+
+
+set output "big_graph0-1000.png"
+set xrange [0:1000]
+set title "Время сортировки int'ов вплоть до максимально возможного значения\nРазмер массива - до 1 тысячи элементов"
+
+plot "result_sortbig.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSortbig.txt" title "countingSort - fail" with linespoints linestyle 666, \
+	"result_quickSortbig.txt" title "quickSort" with linespoints linestyle 2, \
+	"result_combSortbig.txt" title "combSort" with linespoints linestyle 3, \
+	"result_heapSortbig.txt" title "heapSort" with linespoints linestyle 9, \
+	"result_mergeSortbig.txt" title "mergeSort" with linespoints linestyle 4, \
+	"result_shellSortbig.txt" title "shellSort" with linespoints linestyle 5, \
+	"result_selectionSortbig.txt" title "selectionSort" with linespoints linestyle 7, \
+	"result_insertSortbig.txt" title "insertSort" with linespoints linestyle 6, \
+	"result_gnomeSortbig.txt" title "gnomeSort" with linespoints linestyle 10, \
+	"result_combinedBubbleSortbig.txt" title "combinedBubbleSort" with linespoints linestyle 11, \
+	"result_cocktailSortbig.txt" title "cocktailSort" with linespoints linestyle 12, \
+	"result_bubbleSortbig.txt" title "bubbleSort" with linespoints linestyle 13, \
+	"result_oddEvenSortbig.txt" title "oddEvenSort" with linespoints linestyle 14, \
+	"result_bubbleSortWithFlagbig.txt" title "bubbleSortWithFlag" with linespoints linestyle 15
+
+set output "big_graph1000-30000.png"
+set xrange [1000:30000]
+set title "Время сортировки int'ов вплоть до максимально возможного значения\nРазмер массива - до 30 тысяч элементов"
+
+plot "result_sortbig.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSortbig.txt" title "countingSort - fail" with linespoints linestyle 666, \
+	"result_quickSortbig.txt" title "quickSort" with linespoints linestyle 2, \
+	"result_combSortbig.txt" title "combSort" with linespoints linestyle 3, \
+	"result_heapSortbig.txt" title "heapSort" with linespoints linestyle 9, \
+	"result_mergeSortbig.txt" title "mergeSort" with linespoints linestyle 4
+
+set output "big_graph200000.png"
+set xrange [0:200000]
+set title "Время сортировки int'ов вплоть до максимально возможного значения\nРазмер массива - до 200 тысяч элементов"
+
+plot "result_sortbig.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSortbig.txt" title "countingSort - fail" with linespoints linestyle 666, \
+	"result_quickSortbig.txt" title "quickSort" with linespoints linestyle 2, \
+	"result_combSortbig.txt" title "combSort" with linespoints linestyle 3, \
+	"result_heapSortbig.txt" title "heapSort" with linespoints linestyle 9, \
+	"result_mergeSortbig.txt" title "mergeSort" with linespoints linestyle 4
+
+set output "big_graph2000000.png"
+set xrange [0:2000000]
+set title "Время сортировки int'ов вплоть до максимально возможного значения\nРазмер массива - до 2 миллионов элементов"
+
+plot "result_sortbig.txt" title "sort (native)" with linespoints linestyle 1, \
+	"result_countingSortbig.txt" title "countingSort - fail" with linespoints linestyle 666, \
+	"result_quickSortbig.txt" title "quickSort" with linespoints linestyle 2
