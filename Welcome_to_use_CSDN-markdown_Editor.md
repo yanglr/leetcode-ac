@@ -54,7 +54,7 @@ Pipe     | $1
 | Phone     |   12 元 |  12  |
 | Pipe      |    1 元 | 234  |
 
-###定义列表
+### 定义列表
 
 **Markdown　Extra**　定义列表语法：
 项目1
@@ -89,7 +89,7 @@ class SomeClass:
 ```
 
 ## 自定义字体颜色:
-<font color=0099FF>Hello</font>
+<font color=blue>Hello</font>
 
 ## 删除线
 ~~Hello~~
