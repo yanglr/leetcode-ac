@@ -88,8 +88,8 @@ class SomeClass:
 ... prompt'''
 ```
 
-## 自定义字体颜色:
-<font color=blue>Hello</font>
+## 自定义字体颜色(github中看不到颜色):
+<font color=0099FF>Hello</font>
 
 ## 删除线
 ~~Hello~~
