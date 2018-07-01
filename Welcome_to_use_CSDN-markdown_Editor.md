@@ -17,7 +17,7 @@
 
  - 加粗    `Ctrl + B` 
  - 斜体    `Ctrl + I` 
- - 引用    [`Ctrl + Q`][7]
+ - 引用    `Ctrl + Q`
  - 插入链接    `Ctrl + L`
  - 插入代码    `Ctrl + K`
  - 插入图片    `Ctrl + G`
@@ -164,7 +164,6 @@ cond(no)->op
 [4]: http://bramp.github.io/js-sequence-diagrams/
 [5]: http://adrai.github.io/flowchart.js/
 [6]: https://github.com/benweet/stackedit
-[7]: http://blog.csdn.net/lonelyrains
 
 ## 在csdn Markdown模式下的显示效果:
 https://blog.csdn.net/DYT_B/article/details/76572528
