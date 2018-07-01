@@ -84,6 +84,12 @@ class SomeClass:
 ... prompt'''
 ```
 
+## 自定义字体颜色:
+<font color=0099FF>Hello</font>
+
+## 删除线
+~~Hello~~
+
 ###脚注
 生成一个脚注[^footnote].
 [^footnote]: 这里是 **脚注** 的 *内容*.
@@ -131,7 +137,7 @@ cond(no)->op
 
 ## 离线写博客
 
-即使用户在没有网络的情况下，也可以通过本编辑器离线写博客（直接在曾经使用过的浏览器中输入[write.blog.csdn.net/mdeditor](http://write.blog.csdn.net/mdeditor)即可。**Markdown编辑器**使用浏览器离线存储将内容保存在本地。
+即使用户在没有网络的情况下，也可以通过本编辑器离线写博客（直接在曾经使用过的浏览器中输入[write.blog.csdn.net/mdeditor](http://write.blog.csdn.net/mdeditor) 即可。**Markdown编辑器**使用浏览器离线存储将内容保存在本地。
 
 用户写博客的过程中，内容实时保存在浏览器缓存中，在用户关闭浏览器或者其它异常情况下，内容不会丢失。用户再次打开浏览器时，会显示上次用户正在编辑的没有发表的内容。
 
