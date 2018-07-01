@@ -144,11 +144,11 @@ cond(no)->op
 ##浏览器兼容
 
  1. 目前，本编辑器对Chrome浏览器支持最为完整。建议大家使用较新版本的Chrome。
- 3. IE９以下不支持
- 4. IE９，１０，１１存在以下问题
+ 2. IE9以下不支持
+ 3. IE9, 10, 11中存在以下问题
     1. 不支持离线功能
-    1. IE9不支持文件导入导出
-    1. IE10不支持拖拽文件导入
+    2. IE9不支持文件导入导出
+    3. IE10不支持拖拽文件导入
 
 ---------
 
@@ -159,3 +159,6 @@ cond(no)->op
 [5]: http://adrai.github.io/flowchart.js/
 [6]: https://github.com/benweet/stackedit
 [7]: http://blog.csdn.net/lonelyrains
+
+## 在csdn Markdown模式下的显示效果:
+https://blog.csdn.net/DYT_B/article/details/76572528
