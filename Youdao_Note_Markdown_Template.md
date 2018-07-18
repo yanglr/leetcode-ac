@@ -2,7 +2,7 @@
 [toc] 
 <font size=4></font>
 
-把[【简明版】有道云笔记Markdown指南](http://note.youdao.com/iyoudao/?p=2411)的图片版用markdown重新敲了一遍，多少有些收获，也分享给大家。==
+抽空把[【简明版】有道云笔记Markdown指南](http://note.youdao.com/iyoudao/?p=2411)的图片版欢迎成了Markdown~
 
 
 
