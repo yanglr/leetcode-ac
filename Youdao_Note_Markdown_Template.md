@@ -352,4 +352,4 @@ Markdown模式继承了有道云笔记的优良传统，你每一次击键的内
 
 
 ## 在有道云笔记 - Markdown模式下的显示效果:
-<https://blog.csdn.net/lzuacm/article/details/81106221>
+<http://note.youdao.com/noteshare?id=6ec3c87769048bf2ba7df068f377e5a3&sub=131D97485A5E4AE5A1E2CBC0CF3E679C>
