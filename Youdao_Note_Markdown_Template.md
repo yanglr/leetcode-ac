@@ -351,4 +351,5 @@ Markdown模式继承了有道云笔记的优良传统，你每一次击键的内
 ![image](http://note.youdao.com/iyoudao/wp-content/uploads/2016/09/91.jpg)
 
 
-链接：https://www.jianshu.com/p/378a18851f31
+## 在有道云笔记 - Markdown模式下的显示效果:
+<https://blog.csdn.net/lzuacm/article/details/81106221>
