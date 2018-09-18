@@ -21,16 +21,27 @@
 ## 功能快捷键
 
 撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd>
+
 重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
+
 加粗：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
+
 斜体：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>
+
 标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
+
 删除线：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
+
 无序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
+
 有序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
+
 检查列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
+
 插入代码：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>
+
 插入链接：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>
+
 插入图片：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>
 
 
@@ -104,15 +115,23 @@ var foo = 'bar';
 
 ### 设定内容居中、居左、居右
 使用`:---------:`居中
+
 使用`:----------`居左
+
 使用`----------:`居右
+
 |     第一列     |         第二列 | 第三列         |
 | :------------: | -------------: | :------------- |
 | 第一列文本居中 | 第二列文本居右 | 第三列文本居左 |
 
 
+
 ### SmartyPants
+
 SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：
+
+
+
 |    TYPE   |ASCII                          |HTML                         
 |----------------|-------------------------------|-----------------------------|
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
@@ -120,7 +139,9 @@ SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
+
 ## 创建一个自定义列表
+
 Markdown
 :  Text-to-HTML conversion tool
 
@@ -134,6 +155,7 @@ Authors
 一个具有注脚的文本。[^2]
 
 [^2]: 注脚的解释
+
 
 
 ##  注释也是必不可少的
@@ -157,6 +179,7 @@ $$
 > 你可以找到更多关于的信息 **LaTeX** 数学表达式[here][1].
 
 
+
 ## 新的甘特图功能，丰富你的文章
 
 ```mermaid
@@ -170,6 +193,8 @@ gantt
         计划二               :         des4, after des3, 5d
 ```
 - 关于 **甘特图** 语法，参考 [这儿][2],
+
+
 
 ## UML 图表
 
@@ -198,6 +223,8 @@ C --> D
 ```
 
 - 关于 **Mermaid** 语法，参考 [这儿][3],
+
+
 
 ## FLowchart流程图
 
