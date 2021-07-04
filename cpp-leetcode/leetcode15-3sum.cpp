@@ -17,7 +17,7 @@ public:
 
         for (int i = 0; i < len - 2; i++)
         {
-            if (nums.front() > 0)
+            if (nums[i] > 0)
             {
                 break;
             }
