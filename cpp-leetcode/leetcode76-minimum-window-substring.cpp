@@ -14,7 +14,7 @@ public:
         }
 
         vector<int> gapMap(128, 0);
-        for (auto ch : t) // 先遍历字符串t来初始化gapMap
+        for (char ch : t) // 先遍历字符串t来初始化gapMap
         {
             gapMap[ch]++;
         }
