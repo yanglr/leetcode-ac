@@ -1,6 +1,6 @@
 /** 重要提示:
  * File name should be renamed to "Solution.java" when run locally.
- * Class name should be changed to "Main.java" (including test logic in bottom main()) when run in <https://www.onlinegdb.com>.
+ * Class name should be changed to "Main" (including test logic in bottom main()) when run in <https://www.onlinegdb.com>.
  */
 public class Solution
 {
