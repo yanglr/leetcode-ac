@@ -3,7 +3,7 @@
  * Class name should be changed to "Main" (including test logic in bottom main()) when run in <https://www.onlinegdb.com>.
  */
 public class Solution {
-    public final String minWindow(String s, String t) {
+    public String minWindow(String s, String t) {
         if (s == null || t == null || s.length() < t.length()) {
             return "";
         }
