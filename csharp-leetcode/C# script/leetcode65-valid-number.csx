@@ -15,7 +15,7 @@ public class Solution {
         if (newPart2 != String.Empty && newPart2 != null) {
             char ch = newPart2[0];
             if (ch == '.' || (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) 
-                return false; /* 检测类似 69e.60, 3.31ec250这样的数字 */
+                return false; /* 检测类似 69e.60, 3.31ec250这样的数字。字母检查也可使用Char.IsLetter(char) */
         }
 
         if (newPart2 != null) {
