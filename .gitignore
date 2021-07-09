@@ -7,7 +7,9 @@ Gemfile.lock
 .vs/
 _site/
 
-.idea
+# Java/idea J
+out/
+.class
 *.sqlite
 
 *.suo

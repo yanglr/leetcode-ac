@@ -1,40 +1,53 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <string>
 using namespace std;
 
 class Solution {
 public:
     string minWindow(string s, string t)
     {
-        vector<int> map(128, 0);
-        int remain = 0;
-        for (char ch : t)
-            map[ch]++; // map数组存着字符串 t 中各字母的数量。
-
-        remain = t.length();
-        int left = 0, right = 0, start = 0, minLen = INT_MAX;
-        while (right < s.length())
+        if (s.empty() || s == "" || t.empty() || t == "" || s.length() < t.length())
         {
-            char rch = s[right];
-            if (map[rch] > 0)
-                remain--;
-            map[rch]--;       //先把右边的字符加入窗口
-            if (remain == 0) //窗口中已经包含所需的全部字符
+            return "";
+        }
+
+        vector<int> gapMap(128, 0);
+        for (char ch : t) // 先遍历字符串t来初始化gapMap
+        {
+            gapMap[ch]++;
+        }
+
+        int right = 0, left = 0, gapSum = t.size(), start = 0, minLen = INT_MAX;
+        while (right < s.size())
+        {
+            char ch = s[right];
+            if (gapMap[ch] > 0)
             {
-                while (left < right && map[s[left]] < 0) //缩减窗口
+                gapMap[ch]--;
+                gapSum--;
+            }
+            else
+                gapMap[ch]--; /* 如果该字符不是需要的，加到map中，每出现一次累记1个-1 */
+
+            if (gapSum == 0)
+            {
+                while (left < right && gapMap[s[left]] < 0) /* 右移左边界, 依次扔掉当前的字符, gapMap中相应的值+1 */
                 {
-                    map[s[left++]]++;
-                }                     //此时窗口符合要求
-                if (right - left + 1 < minLen) //更新信息
+                    gapMap[s[left++]]++;
+                }
+                if (right - left + 1 < minLen) // 更新窗口长度
                 {
                     minLen = right - left + 1;
                     start = left;
                 }
-                map[s[left]]++; //左边界右移之前需要释放map[s[left]]
-                left++;
-                remain++;
+
+                // 当while循环结束, 即字符在gapMap中的值当为0且左边界继续右移时
+                gapMap[s[left++]]++;
+                gapSum++;
             }
+
             right++;
         }
         return minLen == INT_MAX ? "" : s.substr(start, minLen);
