@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace Leetcode539_ValidSquare
+namespace Leetcode593_ValidSquare
 {
     public class Solution
     {
