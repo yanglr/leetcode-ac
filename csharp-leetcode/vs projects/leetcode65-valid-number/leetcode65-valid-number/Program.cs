@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace LeetCode65_Valid_Number
+namespace leetcode65_valid_number
 {
     class Program
     {
