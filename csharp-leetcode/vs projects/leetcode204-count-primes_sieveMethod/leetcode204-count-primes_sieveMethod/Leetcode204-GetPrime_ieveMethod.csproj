@@ -7,7 +7,7 @@
     <ProjectGuid>{D10F2A83-BFF0-43DC-8D8B-CDC7A8B98686}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Leetcode204_GetPrime_ieveMethod</RootNamespace>
-    <AssemblyName>Leetcode204-GetPrime_ieveMethod</AssemblyName>
+    <AssemblyName>leetcode204—count-primes_sieveMethod</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
