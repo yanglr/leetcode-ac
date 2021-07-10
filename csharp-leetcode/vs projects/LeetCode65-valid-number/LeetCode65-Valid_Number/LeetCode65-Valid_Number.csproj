@@ -7,7 +7,7 @@
     <ProjectGuid>{9B192CE4-0D44-4EB2-B934-2D66E95E562E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>LeetCode65_Valid_Number</RootNamespace>
-    <AssemblyName>LeetCode65-Valid_Number</AssemblyName>
+    <AssemblyName>leetcode65-valid-number</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
