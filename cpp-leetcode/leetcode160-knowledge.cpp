@@ -21,7 +21,7 @@ int get_list_length(Node *list)
 }
 
 /* 先移动gapLen的距离 */
-Node* relocate_first_node(Node * list, int offset)
+Node* relocate_first_node(Node *list, int offset)
 {
     Node *p = list;
     int i;
