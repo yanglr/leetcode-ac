@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{89C53AC4-5C37-483B-822A-CA0FF0E7062D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Leetcode539_ValidSquare</RootNamespace>
-    <AssemblyName>Leetcode539-ValidSquare</AssemblyName>
+    <RootNamespace>leetcode593-valid-square-solution2</RootNamespace>
+    <AssemblyName>leetcode593-valid-square-solution2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

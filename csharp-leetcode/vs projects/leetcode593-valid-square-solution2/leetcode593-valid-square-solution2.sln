@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode539-ValidSquare", "Leetcode539-ValidSquare\Leetcode539-ValidSquare.csproj", "{89C53AC4-5C37-483B-822A-CA0FF0E7062D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leetcode593-valid-square-solution2", "leetcode593-valid-square-solution2\leetcode593-valid-square-solution2.csproj", "{89C53AC4-5C37-483B-822A-CA0FF0E7062D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
