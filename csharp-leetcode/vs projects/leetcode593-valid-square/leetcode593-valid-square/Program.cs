@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace leetcode593
+namespace leetcode593-valid-square
 {
     public class Solution
     {

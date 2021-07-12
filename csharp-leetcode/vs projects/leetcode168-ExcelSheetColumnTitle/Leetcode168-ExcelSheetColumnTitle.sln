@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode168-ExcelSheetColumnTitle", "Leetcode168-ExcelSheetColumnTitle\Leetcode168-ExcelSheetColumnTitle.csproj", "{5343E7DD-6F91-4FD1-AD9C-D92F6F976935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5343E7DD-6F91-4FD1-AD9C-D92F6F976935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5343E7DD-6F91-4FD1-AD9C-D92F6F976935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5343E7DD-6F91-4FD1-AD9C-D92F6F976935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5343E7DD-6F91-4FD1-AD9C-D92F6F976935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E557133-2016-41A9-99F5-C3AC512169E4}
+	EndGlobalSection
+EndGlobal
