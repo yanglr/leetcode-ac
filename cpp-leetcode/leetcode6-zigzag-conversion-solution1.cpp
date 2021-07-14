@@ -38,3 +38,15 @@ public:
         return res;
     }
 };
+
+// Test
+int main()
+{
+    Solution sol;
+    string s = "PAYPALISHIRING";
+    int numRows = 4;
+    auto res = sol.convert(s, numRows);
+    cout << res << endl;
+    
+    return 0;
+}
