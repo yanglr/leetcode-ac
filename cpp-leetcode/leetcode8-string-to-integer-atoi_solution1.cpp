@@ -1,6 +1,7 @@
 #include<algorithm>
 #include<string>
 #include<iostream>
+#include <cctype>    /* 含有isdigit、isalpha等函数 */
 using namespace std;
 
 class Solution {
