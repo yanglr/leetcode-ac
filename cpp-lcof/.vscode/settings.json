@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.vue": "vue",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "new": "cpp",
+        "unordered_map": "cpp"
+    }
+}
