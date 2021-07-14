@@ -7,7 +7,7 @@ class Solution
 public:
     bool judgeSquareSum(int c)
     {
-        for (int i = 0; c - 2 * i * i >= 0; i++)
+        for (long i = 0; c - 2 * i * i >= 0; i++)
         {
             int diff = c - i * i;
             if (IsPerfectSquare(diff))
