@@ -9,7 +9,7 @@ public:
     bool isValid(string s) {
         stack<char> st;
 
-        for(auto ch : s)
+        for(char ch : s)
         {
             if(ch == '(' || ch == '[' || ch == '{')
                 st.push(ch);
