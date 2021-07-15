@@ -1,5 +1,6 @@
 #include<algorithm>
 #include<string>
+#include<sstream>   /* 含有stringstream类 */
 #include<iostream>
 using namespace std;
 
