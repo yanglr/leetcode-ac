@@ -27,10 +27,13 @@ public:
                     {
                         vector<int> group{nums[i], nums[j], nums[left], nums[right]};
                         res.push_back(group);
+
                         while (left < right && nums[left] == nums[left + 1])
-                            left++;
+                            left++;   // 左侧遇到重复，跳过
                         while (left < right && nums[right] == nums[right - 1])
-                            right--;
+                            right--;  // 右侧遇到重复，跳过
+                        
+                        // 继续找下一组满足条件的
                         left++;
                         right--;
                     }
