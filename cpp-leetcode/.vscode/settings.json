@@ -5,6 +5,9 @@
         "string": "cpp",
         "vector": "cpp",
         "algorithm": "cpp",
-        "unordered_set": "cpp"
+        "unordered_set": "cpp",
+        "queue": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp"
     }
 }
