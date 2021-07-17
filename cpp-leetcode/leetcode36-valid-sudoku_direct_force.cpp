@@ -2,7 +2,6 @@
 #include <string>
 #include <vector>
 #include <set>       /* 使用set就够了，不一定需要unordered_set */
-#include <iterator>
 #include <iostream>
 using namespace std;
 
@@ -27,8 +26,8 @@ public:
                 else
                     st.insert(rowVec[k]);
             }
-            int uniqueRowChar = st.size();
-            if (uniqueRowChar + dotCount != 9)
+            int uniqueCharCount = st.size();
+            if (uniqueCharCount + dotCount != 9)
             {
                 isValid = false;
             }
@@ -48,8 +47,8 @@ public:
                 else
                     st.insert(board[k][i]);
             }
-            int uniqueRowChar = st.size();
-            if (uniqueRowChar + dotCount != 9)
+            int uniqueCharCount = st.size();
+            if (uniqueCharCount + dotCount != 9)
             {
                 isValid = false;
             }
