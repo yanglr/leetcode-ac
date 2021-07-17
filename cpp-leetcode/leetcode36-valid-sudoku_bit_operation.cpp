@@ -6,7 +6,7 @@ using namespace std;
 class Solution {
 public:
 	bool isValidSudoku(vector<vector<char>>& board) {
-		vector<int> row(9); //row[j]表示第j 行的9个数字的存在情况，同理与col, boxes
+		vector<int> row(9); // row[j]表示第j 行的9个数字各自的存在情况，同理于col, boxes
 		vector<int> col(9);
 		vector<int> boxes(9);
 
@@ -18,8 +18,8 @@ public:
 				if (board[i][j] == '.')
 					continue;
 
-				shiftCount = 1 << (board[i][j] - '0');  // 转为二进制，目标位为1，其他位均为0
-				// 每个格子若有数字，必为 1 ~ 9，转换成对应的整型数字，1 → 0001，2 → 0010，3→0100，4→1000 ... 				
+				shiftCount = 1 << (board[i][j] - '0');  // 转为二进制
+				/* 每个格子若有数字，必为 1 ~ 9，转换成对应的二进制数，1 → 0001，2 → 0010，3→0100，4→1000 ... 该方法适用于 遍历行/遍历列/遍历box  */			
 				int boxPos = (i / 3) * 3 + j / 3; //将大数独棋盘分成9个小棋盘，编号0~8
 
 				// 如果当前数字shiftCount在row[j] 或col[i] 或 boxes中已经存在，&运算后不为0，
