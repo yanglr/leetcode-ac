@@ -20,11 +20,12 @@ public:
         ListNode *fast = head;
         ListNode *slow = head;
         
+        // 让fast指针先走n步
         for (int i = 0; i < n; i++)
         {
             fast = fast -> next;
 
-            if (fast == NULL)
+            if (fast == NULL)  /* 此时刚好到tail节点, 需要删掉的恰好是head节点 */
             {
                 ListNode *newHead = head -> next;
                 delete head;
