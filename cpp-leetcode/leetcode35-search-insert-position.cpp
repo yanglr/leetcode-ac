@@ -21,8 +21,8 @@ public:
 int main()
 {
     Solution sol;
-    vector<int> nums = {4, 5, 6, 7, 0, 1, 2};
-    int target = 0;
+    vector<int> nums = {1, 3, 5, 6};
+    int target = 4;
     int res = sol.searchInsert(nums, target);
     cout << res << endl;
 
