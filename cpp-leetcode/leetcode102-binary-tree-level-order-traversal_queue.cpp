@@ -27,7 +27,7 @@ public:
         q.push({root});    /* queue与deque相比少了一种初始化方式 */
         vector<vector<int>> res;
 
-        while (!q.empty())
+        while (!q.empty())  /* q.size()会依次变成每一层的结点个数, 在 0,1,2 之间变化 */
         {
             vector<int> curLevel;
             for (int i = q.size(); i > 0; i--)
