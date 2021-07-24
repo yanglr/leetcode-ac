@@ -1,7 +1,9 @@
 # 算法刷题与练习
-LeetCode - Solutions
 
-各种编程语言的解法【原创】
+本仓库**leetcode-ac**的口号是: AC一时爽, 一直AC一直爽。
+
+欢迎关注本项目的同名公众号【玩转力扣】
+
 <br/>
 
 欢迎访问作者的个人网站: [极客中心](https://www.geekzl.com)
