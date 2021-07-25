@@ -29,6 +29,32 @@
 详情请看: [题解进度表](https://github.com/yanglr/leetcode-ac/blob/master/leetcode-ac-tracking.md)
 
 
+<br/>
+
+## 各语言代码所在位置
+
+C++代码:
+[cpp-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/cpp-leetcode)
+
+
+C#代码:
+[csharp-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/csharp-leetcode)
+
+
+Python代码:
+[python3-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/python3-leetcode)
+
+
+
+Java代码:
+[java-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode)
+
+
+Golang代码:
+[go-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/go-leetcode)
+
+<br/>
+
 ## LeetCode中文题大全
 
 [leetcode中文题1-400](https://github.com/yanglr/leetcode-ac/tree/master/中文题1-2000/leetcode1-400)
