@@ -31,6 +31,48 @@
 
 <br/>
 
+## 已完成的题解列表
+
+[轻松刷Leetcode系列 - 如何使用 VS code 的 Leetcode 插件刷题](https://zhuanlan.zhihu.com/p/85142574)
+
+[轻松刷LeetCode系列 - Leetcode9 - 回文数 Python版](https://geekplayers.com/python-leetcode9-palindrome-number.html)
+
+[轻松刷LeetCode系列 - Leetcode13 - 罗马数字转整数 Python版](https://geekplayers.com/python-leetcode13-roman-to-integer.html)
+
+[轻松刷Leetcode系列 - LeetCode38.外观数列(报数) C#版](https://zhuanlan.zhihu.com/p/86412518)
+
+[轻松刷LeetCode系列 Leetcode58 - 最后一个单词的长度 Python版](https://geekplayers.com/python-leetcode58-length-of-last-word.html)
+
+[轻松刷LeetCode系列 - LeetCode67 - 二进制数求和 Python版](https://geekplayers.com/python-leetcode67-add-binary.html)
+
+[轻松刷LeetCode系列 - Leetcode89 - 格雷码  Python版](https://geekplayers.com/python-leetcode89-gary-code.html)
+
+[轻松刷LeetCode系列 - LeetCode136 - 只出现一次的数  Python版](https://geekplayers.com/python-leetcode136-single-number.html)
+
+[轻松刷Leetcode系列 - Leetcode191.位1的个数 Python版](https://zhuanlan.zhihu.com/p/82539155)
+
+[轻松刷LeetCode系列 - LeetCode202 - 快乐数  Python版](https://geekplayers.com/python-leetcode202-happy-number.html)
+
+[轻松刷LeetCode系列 - LeetCode204 - 统计质数  Python版](https://geekplayers.com/python-leetcode204-count-primes.html)
+
+[轻松刷LeetCode系列 - LeetCode345 - 反转字符串中的元音字母  Python版](https://geekplayers.com/leetcode345-reverse-vowels-of-a-string.html)
+
+[轻松刷Leetcode系列 - LeetCode593.有效的正方形 C#版](https://zhuanlan.zhihu.com/p/89105960)
+
+[轻松刷Leetcode系列 - LeetCode633.平方数之和 C#版](https://zhuanlan.zhihu.com/p/87986301)
+
+[轻松刷LeetCode系列 - LeetCode645 - 错误的集合  Python版](https://geekplayers.com/python-leetcode645-set-mismatch.html)
+
+[轻松刷Leetcode系列 - leetcode728 - 自除数 C#版](https://zhuanlan.zhihu.com/p/86695886)
+
+[轻松刷LeetCode系列 - LeetCode976 - 三角形的最大周长 Python版](https://geekplayers.com/leetcode976-largest-perimeter-triangle.html)
+
+[轻松刷LeetCode系列 - LeetCode977 - 有序数组的平方  Python版](https://geekplayers.com/python-leetcode977-squares-of-a-sorted-array.html)
+
+
+
+<br/>
+
 ## 各语言代码所在位置
 
 C++代码:
