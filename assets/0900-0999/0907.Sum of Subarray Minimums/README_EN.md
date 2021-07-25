@@ -1,6 +1,6 @@
 # [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums)
 
-[中文文档](/solution/0900-0999/0907.Sum%20of%20Subarray%20Minimums/README.md)
+
 
 ## Description
 

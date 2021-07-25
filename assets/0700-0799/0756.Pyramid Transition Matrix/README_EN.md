@@ -1,6 +1,6 @@
 # [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix)
 
-[中文文档](/solution/0700-0799/0756.Pyramid%20Transition%20Matrix/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [621. Task Scheduler](https://leetcode.com/problems/task-scheduler)
 
-[中文文档](/solution/0600-0699/0621.Task%20Scheduler/README.md)
+
 
 ## Description
 

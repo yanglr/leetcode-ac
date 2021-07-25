@@ -1,6 +1,6 @@
 # [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers)
 
-[中文文档](/solution/1900-1999/1922.Count%20Good%20Numbers/README.md)
+
 
 ## Description
 

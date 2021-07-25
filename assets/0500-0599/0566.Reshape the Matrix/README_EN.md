@@ -1,6 +1,6 @@
 # [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)
 
-[中文文档](/solution/0500-0599/0566.Reshape%20the%20Matrix/README.md)
+
 
 ## Description
 

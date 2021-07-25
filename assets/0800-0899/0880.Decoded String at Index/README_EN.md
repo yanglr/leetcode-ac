@@ -1,6 +1,6 @@
 # [880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index)
 
-[中文文档](/solution/0800-0899/0880.Decoded%20String%20at%20Index/README.md)
+
 
 ## Description
 

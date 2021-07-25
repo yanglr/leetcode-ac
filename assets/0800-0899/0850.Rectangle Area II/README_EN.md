@@ -1,6 +1,6 @@
 # [850. Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii)
 
-[中文文档](/solution/0800-0899/0850.Rectangle%20Area%20II/README.md)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0850.Rectangle%20Area%20II/images/rectangle_area_ii_pic.png" style="width: 600px; height: 450px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0800-0899/0850.Rectangle%20Area%20II/images/rectangle_area_ii_pic.png" style="width: 600px; height: 450px;" />
 <pre>
 <strong>Input:</strong> rectangles = [[0,0,2,2],[1,0,2,3],[1,0,3,1]]
 <strong>Output:</strong> 6

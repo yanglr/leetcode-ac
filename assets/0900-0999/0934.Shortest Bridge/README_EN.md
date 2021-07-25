@@ -1,6 +1,6 @@
 # [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge)
 
-[中文文档](/solution/0900-0999/0934.Shortest%20Bridge/README.md)
+
 
 ## Description
 

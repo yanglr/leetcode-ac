@@ -1,6 +1,6 @@
 # [51. N-Queens](https://leetcode.com/problems/n-queens)
 
-[中文文档](/solution/0000-0099/0051.N-Queens/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0051.N-Queens/images/queens.jpg" style="width: 600px; height: 268px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0051.N-Queens/images/queens.jpg" style="width: 600px; height: 268px;" />
 <pre>
 <strong>Input:</strong> n = 4
 <strong>Output:</strong> [[&quot;.Q..&quot;,&quot;...Q&quot;,&quot;Q...&quot;,&quot;..Q.&quot;],[&quot;..Q.&quot;,&quot;Q...&quot;,&quot;...Q&quot;,&quot;.Q..&quot;]]

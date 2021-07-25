@@ -1,6 +1,6 @@
 # [483. Smallest Good Base](https://leetcode.com/problems/smallest-good-base)
 
-[中文文档](/solution/0400-0499/0483.Smallest%20Good%20Base/README.md)
+
 
 ## Description
 

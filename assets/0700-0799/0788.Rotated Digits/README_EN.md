@@ -1,6 +1,6 @@
 # [788. Rotated Digits](https://leetcode.com/problems/rotated-digits)
 
-[中文文档](/solution/0700-0799/0788.Rotated%20Digits/README.md)
+
 
 ## Description
 

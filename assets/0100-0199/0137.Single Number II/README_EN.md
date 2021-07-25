@@ -1,6 +1,6 @@
 # [137. Single Number II](https://leetcode.com/problems/single-number-ii)
 
-[中文文档](/solution/0100-0199/0137.Single%20Number%20II/README.md)
+
 
 ## Description
 

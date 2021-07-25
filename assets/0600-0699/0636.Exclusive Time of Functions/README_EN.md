@@ -1,6 +1,6 @@
 # [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions)
 
-[中文文档](/solution/0600-0699/0636.Exclusive%20Time%20of%20Functions/README.md)
+
 
 ## Description
 
@@ -16,7 +16,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0600-0699/0636.Exclusive%20Time%20of%20Functions/images/diag1b.png" style="width: 550px; height: 239px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0600-0699/0636.Exclusive%20Time%20of%20Functions/images/diag1b.png" style="width: 550px; height: 239px;" />
 <pre>
 <strong>Input:</strong> n = 2, logs = [&quot;0:start:0&quot;,&quot;1:start:2&quot;,&quot;1:end:5&quot;,&quot;0:end:6&quot;]
 <strong>Output:</strong> [3,4]

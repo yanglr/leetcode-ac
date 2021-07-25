@@ -1,6 +1,6 @@
 # [1169. Invalid Transactions](https://leetcode.com/problems/invalid-transactions)
 
-[中文文档](/solution/1100-1199/1169.Invalid%20Transactions/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [481. Magical String](https://leetcode.com/problems/magical-string)
 
-[中文文档](/solution/0400-0499/0481.Magical%20String/README.md)
+
 
 ## Description
 

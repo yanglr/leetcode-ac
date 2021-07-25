@@ -1,6 +1,6 @@
 # [1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree)
 
-[中文文档](/solution/1100-1199/1120.Maximum%20Average%20Subtree/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 <p><strong>Example 1:</strong></p>
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1100-1199/1120.Maximum%20Average%20Subtree/images/1308_example_1.png" style="width: 132px; height: 123px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1100-1199/1120.Maximum%20Average%20Subtree/images/1308_example_1.png" style="width: 132px; height: 123px;" /></p>
 
 <pre>
 <strong>Input: </strong><span id="example-input-1-1">[5,6,1]</span>

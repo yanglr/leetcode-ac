@@ -1,6 +1,6 @@
 # [591. Tag Validator](https://leetcode.com/problems/tag-validator)
 
-[中文文档](/solution/0500-0599/0591.Tag%20Validator/README.md)
+
 
 ## Description
 

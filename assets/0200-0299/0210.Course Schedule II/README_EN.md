@@ -1,6 +1,6 @@
 # [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii)
 
-[中文文档](/solution/0200-0299/0210.Course%20Schedule%20II/README.md)
+
 
 ## Description
 

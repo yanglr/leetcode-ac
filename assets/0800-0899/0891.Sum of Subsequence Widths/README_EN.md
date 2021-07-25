@@ -1,6 +1,6 @@
 # [891. Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths)
 
-[中文文档](/solution/0800-0899/0891.Sum%20of%20Subsequence%20Widths/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array)
 
-[中文文档](/solution/1900-1999/1929.Concatenation%20of%20Array/README.md)
+
 
 ## Description
 

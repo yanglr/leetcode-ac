@@ -1,6 +1,6 @@
 # [1096. Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii)
 
-[中文文档](/solution/1000-1099/1096.Brace%20Expansion%20II/README.md)
+
 
 ## Description
 

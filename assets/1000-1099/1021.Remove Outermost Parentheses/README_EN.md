@@ -1,6 +1,6 @@
 # [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)
 
-[中文文档](/solution/1000-1099/1021.Remove%20Outermost%20Parentheses/README.md)
+
 
 ## Description
 

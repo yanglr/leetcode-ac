@@ -1,6 +1,6 @@
 # [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses)
 
-[中文文档](/solution/1100-1199/1136.Parallel%20Courses/README.md)
+
 
 ## Description
 
@@ -20,7 +20,7 @@
 
 <p><strong>Example 1:</strong></p>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1100-1199/1136.Parallel%20Courses/images/course1graph.jpg" style="width: 222px; height: 222px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1100-1199/1136.Parallel%20Courses/images/course1graph.jpg" style="width: 222px; height: 222px;" />
 
 <pre>
 
@@ -36,7 +36,7 @@
 
 <p><strong>Example 2:</strong></p>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1100-1199/1136.Parallel%20Courses/images/course2graph.jpg" style="width: 222px; height: 222px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1100-1199/1136.Parallel%20Courses/images/course2graph.jpg" style="width: 222px; height: 222px;" />
 
 <pre>
 

@@ -1,6 +1,6 @@
 # [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array)
 
-[中文文档](/solution/1100-1199/1146.Snapshot%20Array/README.md)
+
 
 ## Description
 

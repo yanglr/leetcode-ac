@@ -1,6 +1,6 @@
 # [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop)
 
-[中文文档](/solution/0400-0499/0457.Circular%20Array%20Loop/README.md)
+
 
 ## Description
 

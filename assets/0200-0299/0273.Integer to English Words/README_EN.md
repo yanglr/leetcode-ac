@@ -1,6 +1,6 @@
 # [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words)
 
-[中文文档](/solution/0200-0299/0273.Integer%20to%20English%20Words/README.md)
+
 
 ## Description
 

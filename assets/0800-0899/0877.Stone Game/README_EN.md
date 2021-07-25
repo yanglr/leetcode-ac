@@ -1,6 +1,6 @@
 # [877. Stone Game](https://leetcode.com/problems/stone-game)
 
-[中文文档](/solution/0800-0899/0877.Stone%20Game/README.md)
+
 
 ## Description
 

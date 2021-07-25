@@ -1,6 +1,6 @@
 # [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
 
-[中文文档](/solution/0200-0299/0225.Implement%20Stack%20using%20Queues/README.md)
+
 
 ## Description
 

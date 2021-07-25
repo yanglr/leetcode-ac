@@ -1,6 +1,6 @@
 # [120. Triangle](https://leetcode.com/problems/triangle)
 
-[中文文档](/solution/0100-0199/0120.Triangle/README.md)
+
 
 ## Description
 

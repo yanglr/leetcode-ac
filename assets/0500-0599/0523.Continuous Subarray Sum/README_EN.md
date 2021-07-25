@@ -1,6 +1,6 @@
 # [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum)
 
-[中文文档](/solution/0500-0599/0523.Continuous%20Subarray%20Sum/README.md)
+
 
 ## Description
 

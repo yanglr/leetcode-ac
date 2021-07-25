@@ -1,6 +1,6 @@
 # [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium)
 
-[中文文档](/solution/0600-0699/0601.Human%20Traffic%20of%20Stadium/README.md)
+
 
 ## Description
 

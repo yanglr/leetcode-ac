@@ -1,6 +1,6 @@
 # [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 
-[中文文档](/solution/0400-0499/0442.Find%20All%20Duplicates%20in%20an%20Array/README.md)
+
 
 ## Description
 

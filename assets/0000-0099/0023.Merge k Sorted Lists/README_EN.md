@@ -1,6 +1,6 @@
 # [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)
 
-[中文文档](/solution/0000-0099/0023.Merge%20k%20Sorted%20Lists/README.md)
+
 
 ## Description
 

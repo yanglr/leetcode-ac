@@ -1,6 +1,6 @@
 # [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold)
 
-[中文文档](/solution/1200-1299/1219.Path%20with%20Maximum%20Gold/README.md)
+
 
 ## Description
 

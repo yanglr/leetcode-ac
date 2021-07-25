@@ -1,6 +1,6 @@
 # [494. Target Sum](https://leetcode.com/problems/target-sum)
 
-[中文文档](/solution/0400-0499/0494.Target%20Sum/README.md)
+
 
 ## Description
 

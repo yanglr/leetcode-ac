@@ -1,6 +1,6 @@
 # [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
 
-[中文文档](/solution/1500-1599/1512.Number%20of%20Good%20Pairs/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree)
 
-[中文文档](/solution/0600-0699/0655.Print%20Binary%20Tree/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 
-[中文文档](/solution/0300-0399/0367.Valid%20Perfect%20Square/README.md)
+
 
 ## Description
 

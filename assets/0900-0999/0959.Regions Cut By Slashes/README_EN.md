@@ -1,6 +1,6 @@
 # [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)
 
-[中文文档](/solution/0900-0999/0959.Regions%20Cut%20By%20Slashes/README.md)
+
 
 ## Description
 
@@ -68,7 +68,7 @@
 
 <strong>Explanation: </strong>The 2x2 grid is as follows:
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/1.png" style="width: 82px; height: 82px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/1.png" style="width: 82px; height: 82px;" />
 
 </pre>
 
@@ -96,7 +96,7 @@
 
 <strong>Explanation: </strong>The 2x2 grid is as follows:
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/2.png" style="width: 82px; height: 82px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/2.png" style="width: 82px; height: 82px;" />
 
 </pre>
 
@@ -126,7 +126,7 @@
 
 The 2x2 grid is as follows:
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/3.png" style="width: 82px; height: 82px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/3.png" style="width: 82px; height: 82px;" />
 
 </pre>
 
@@ -156,7 +156,7 @@ The 2x2 grid is as follows:
 
 The 2x2 grid is as follows:
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/4.png" style="width: 82px; height: 82px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/4.png" style="width: 82px; height: 82px;" />
 
 </pre>
 
@@ -184,7 +184,7 @@ The 2x2 grid is as follows:
 
 <strong>Explanation: </strong>The 2x2 grid is as follows:
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/5.png" style="width: 82px; height: 82px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0959.Regions%20Cut%20By%20Slashes/images/5.png" style="width: 82px; height: 82px;" />
 
 </pre>
 

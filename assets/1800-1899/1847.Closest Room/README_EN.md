@@ -1,6 +1,6 @@
 # [1847. Closest Room](https://leetcode.com/problems/closest-room)
 
-[中文文档](/solution/1800-1899/1847.Closest%20Room/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
 
-[中文文档](/solution/0000-0099/0035.Search%20Insert%20Position/README.md)
+
 
 ## Description
 

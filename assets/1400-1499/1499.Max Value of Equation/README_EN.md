@@ -1,6 +1,6 @@
 # [1499. Max Value of Equation](https://leetcode.com/problems/max-value-of-equation)
 
-[中文文档](/solution/1400-1499/1499.Max%20Value%20of%20Equation/README.md)
+
 
 ## Description
 

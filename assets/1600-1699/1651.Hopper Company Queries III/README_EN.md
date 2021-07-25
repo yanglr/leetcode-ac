@@ -1,6 +1,6 @@
 # [1651. Hopper Company Queries III](https://leetcode.com/problems/hopper-company-queries-iii)
 
-[中文文档](/solution/1600-1699/1651.Hopper%20Company%20Queries%20III/README.md)
+
 
 ## Description
 

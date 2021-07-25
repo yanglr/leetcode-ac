@@ -1,6 +1,6 @@
 # [1271. Hexspeak](https://leetcode.com/problems/hexspeak)
 
-[中文文档](/solution/1200-1299/1271.Hexspeak/README.md)
+
 
 ## Description
 

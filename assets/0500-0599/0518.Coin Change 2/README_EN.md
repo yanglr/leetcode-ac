@@ -1,6 +1,6 @@
 # [518. Coin Change 2](https://leetcode.com/problems/coin-change-2)
 
-[中文文档](/solution/0500-0599/0518.Coin%20Change%202/README.md)
+
 
 ## Description
 

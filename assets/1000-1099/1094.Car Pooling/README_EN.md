@@ -1,6 +1,6 @@
 # [1094. Car Pooling](https://leetcode.com/problems/car-pooling)
 
-[中文文档](/solution/1000-1099/1094.Car%20Pooling/README.md)
+
 
 ## Description
 

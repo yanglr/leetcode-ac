@@ -1,6 +1,6 @@
 # [436. Find Right Interval](https://leetcode.com/problems/find-right-interval)
 
-[中文文档](/solution/0400-0499/0436.Find%20Right%20Interval/README.md)
+
 
 ## Description
 

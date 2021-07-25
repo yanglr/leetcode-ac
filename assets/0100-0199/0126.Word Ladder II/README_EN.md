@@ -1,6 +1,6 @@
 # [126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii)
 
-[中文文档](/solution/0100-0199/0126.Word%20Ladder%20II/README.md)
+
 
 ## Description
 

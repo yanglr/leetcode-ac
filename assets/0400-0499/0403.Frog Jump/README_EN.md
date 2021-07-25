@@ -1,6 +1,6 @@
 # [403. Frog Jump](https://leetcode.com/problems/frog-jump)
 
-[中文文档](/solution/0400-0499/0403.Frog%20Jump/README.md)
+
 
 ## Description
 

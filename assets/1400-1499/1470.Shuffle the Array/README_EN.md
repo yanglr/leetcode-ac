@@ -1,6 +1,6 @@
 # [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)
 
-[中文文档](/solution/1400-1499/1470.Shuffle%20the%20Array/README.md)
+
 
 ## Description
 

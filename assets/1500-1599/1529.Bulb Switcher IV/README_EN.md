@@ -1,6 +1,6 @@
 # [1529. Bulb Switcher IV](https://leetcode.com/problems/bulb-switcher-iv)
 
-[中文文档](/solution/1500-1599/1529.Bulb%20Switcher%20IV/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling)
 
-[中文文档](/solution/0700-0799/0790.Domino%20and%20Tromino%20Tiling/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost)
 
-[中文文档](/solution/1700-1799/1774.Closest%20Dessert%20Cost/README.md)
+
 
 ## Description
 

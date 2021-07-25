@@ -1,6 +1,6 @@
 # [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)
 
-[中文文档](/solution/1300-1399/1323.Maximum%2069%20Number/README.md)
+
 
 ## Description
 

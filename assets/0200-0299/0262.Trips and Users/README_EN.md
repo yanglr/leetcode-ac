@@ -1,6 +1,6 @@
 # [262. Trips and Users](https://leetcode.com/problems/trips-and-users)
 
-[中文文档](/solution/0200-0299/0262.Trips%20and%20Users/README.md)
+
 
 ## Description
 

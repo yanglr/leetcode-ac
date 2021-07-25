@@ -1,6 +1,6 @@
 # [1090. Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels)
 
-[中文文档](/solution/1000-1099/1090.Largest%20Values%20From%20Labels/README.md)
+
 
 ## Description
 

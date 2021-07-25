@@ -1,6 +1,6 @@
 # [927. Three Equal Parts](https://leetcode.com/problems/three-equal-parts)
 
-[中文文档](/solution/0900-0999/0927.Three%20Equal%20Parts/README.md)
+
 
 ## Description
 

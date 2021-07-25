@@ -1,6 +1,6 @@
 # [822. Card Flipping Game](https://leetcode.com/problems/card-flipping-game)
 
-[中文文档](/solution/0800-0899/0822.Card%20Flipping%20Game/README.md)
+
 
 ## Description
 

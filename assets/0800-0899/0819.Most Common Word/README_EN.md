@@ -1,6 +1,6 @@
 # [819. Most Common Word](https://leetcode.com/problems/most-common-word)
 
-[中文文档](/solution/0800-0899/0819.Most%20Common%20Word/README.md)
+
 
 ## Description
 

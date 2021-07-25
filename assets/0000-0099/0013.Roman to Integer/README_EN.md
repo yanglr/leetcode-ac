@@ -1,6 +1,6 @@
 # [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 
-[中文文档](/solution/0000-0099/0013.Roman%20to%20Integer/README.md)
+
 
 ## Description
 

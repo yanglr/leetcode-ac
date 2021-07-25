@@ -1,6 +1,6 @@
 # [458. Poor Pigs](https://leetcode.com/problems/poor-pigs)
 
-[中文文档](/solution/0400-0499/0458.Poor%20Pigs/README.md)
+
 
 ## Description
 

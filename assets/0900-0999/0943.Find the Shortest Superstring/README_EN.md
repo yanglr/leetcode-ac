@@ -1,6 +1,6 @@
 # [943. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring)
 
-[中文文档](/solution/0900-0999/0943.Find%20the%20Shortest%20Superstring/README.md)
+
 
 ## Description
 

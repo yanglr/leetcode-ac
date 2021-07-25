@@ -1,6 +1,6 @@
 # [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2)
 
-[中文文档](/solution/0800-0899/0869.Reordered%20Power%20of%202/README.md)
+
 
 ## Description
 

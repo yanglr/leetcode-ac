@@ -1,6 +1,6 @@
 # [868. Binary Gap](https://leetcode.com/problems/binary-gap)
 
-[中文文档](/solution/0800-0899/0868.Binary%20Gap/README.md)
+
 
 ## Description
 

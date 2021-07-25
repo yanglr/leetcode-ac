@@ -1,6 +1,6 @@
 # [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
 
-[中文文档](/solution/0400-0499/0416.Partition%20Equal%20Subset%20Sum/README.md)
+
 
 ## Description
 

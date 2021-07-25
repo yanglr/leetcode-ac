@@ -1,6 +1,6 @@
 # [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)
 
-[中文文档](/solution/0800-0899/0841.Keys%20and%20Rooms/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [553. Optimal Division](https://leetcode.com/problems/optimal-division)
 
-[中文文档](/solution/0500-0599/0553.Optimal%20Division/README.md)
+
 
 ## Description
 

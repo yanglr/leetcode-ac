@@ -1,6 +1,6 @@
 # [1073. Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)
 
-[中文文档](/solution/1000-1099/1073.Adding%20Two%20Negabinary%20Numbers/README.md)
+
 
 ## Description
 

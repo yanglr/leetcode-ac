@@ -1,6 +1,6 @@
 # [18. 4Sum](https://leetcode.com/problems/4sum)
 
-[中文文档](/solution/0000-0099/0018.4Sum/README.md)
+
 
 ## Description
 

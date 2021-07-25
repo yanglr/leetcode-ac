@@ -1,6 +1,6 @@
 # [911. Online Election](https://leetcode.com/problems/online-election)
 
-[中文文档](/solution/0900-0999/0911.Online%20Election/README.md)
+
 
 ## Description
 

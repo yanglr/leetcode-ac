@@ -1,6 +1,6 @@
 # [66. Plus One](https://leetcode.com/problems/plus-one)
 
-[中文文档](/solution/0000-0099/0066.Plus%20One/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)
 
-[中文文档](/solution/0700-0799/0786.K-th%20Smallest%20Prime%20Fraction/README.md)
+
 
 ## Description
 

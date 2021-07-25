@@ -1,6 +1,6 @@
 # [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)
 
-[中文文档](/solution/0600-0699/0657.Robot%20Return%20to%20Origin/README.md)
+
 
 ## Description
 

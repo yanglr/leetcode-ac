@@ -1,6 +1,6 @@
 # [565. Array Nesting](https://leetcode.com/problems/array-nesting)
 
-[中文文档](/solution/0500-0599/0565.Array%20Nesting/README.md)
+
 
 ## Description
 

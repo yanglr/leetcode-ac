@@ -1,6 +1,6 @@
 # [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
 
-[中文文档](/solution/0100-0199/0116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/README.md)
+
 
 ## Description
 
@@ -39,7 +39,7 @@ struct Node {
 
 <p><strong>Example 1:</strong></p>
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0100-0199/0116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/images/116_sample.png" style="width: 640px; height: 218px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0100-0199/0116.Populating%20Next%20Right%20Pointers%20in%20Each%20Node/images/116_sample.png" style="width: 640px; height: 218px;" /></p>
 
 <pre>
 

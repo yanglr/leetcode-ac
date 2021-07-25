@@ -1,6 +1,6 @@
 # [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)
 
-[中文文档](/solution/0300-0399/0349.Intersection%20of%20Two%20Arrays/README.md)
+
 
 ## Description
 

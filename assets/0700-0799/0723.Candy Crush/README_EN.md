@@ -1,6 +1,6 @@
 # [723. Candy Crush](https://leetcode.com/problems/candy-crush)
 
-[中文文档](/solution/0700-0799/0723.Candy%20Crush/README.md)
+
 
 ## Description
 
@@ -51,7 +51,7 @@ board =
 
 <b>Explanation:</b> 
 
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0700-0799/0723.Candy%20Crush/images/candy_crush_example_2.png" style="width: 777px; height: 532px;" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0700-0799/0723.Candy%20Crush/images/candy_crush_example_2.png" style="width: 777px; height: 532px;" />
 
 </pre>
 

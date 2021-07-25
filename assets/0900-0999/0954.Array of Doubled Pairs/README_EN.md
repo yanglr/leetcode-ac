@@ -1,6 +1,6 @@
 # [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs)
 
-[中文文档](/solution/0900-0999/0954.Array%20of%20Doubled%20Pairs/README.md)
+
 
 ## Description
 

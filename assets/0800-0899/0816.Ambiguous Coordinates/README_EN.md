@@ -1,6 +1,6 @@
 # [816. Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates)
 
-[中文文档](/solution/0800-0899/0816.Ambiguous%20Coordinates/README.md)
+
 
 ## Description
 

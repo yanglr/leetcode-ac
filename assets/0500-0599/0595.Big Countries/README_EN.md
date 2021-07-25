@@ -1,6 +1,6 @@
 # [595. Big Countries](https://leetcode.com/problems/big-countries)
 
-[中文文档](/solution/0500-0599/0595.Big%20Countries/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)
 
-[中文文档](/solution/1000-1099/1015.Smallest%20Integer%20Divisible%20by%20K/README.md)
+
 
 ## Description
 

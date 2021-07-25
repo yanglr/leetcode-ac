@@ -1,6 +1,6 @@
 # [197. Rising Temperature](https://leetcode.com/problems/rising-temperature)
 
-[中文文档](/solution/0100-0199/0197.Rising%20Temperature/README.md)
+
 
 ## Description
 

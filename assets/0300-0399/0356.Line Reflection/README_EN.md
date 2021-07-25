@@ -1,6 +1,6 @@
 # [356. Line Reflection](https://leetcode.com/problems/line-reflection)
 
-[中文文档](/solution/0300-0399/0356.Line%20Reflection/README.md)
+
 
 ## Description
 
@@ -13,7 +13,7 @@ Could you do better than O(<i>n</i><sup>2</sup>) ?</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0300-0399/0356.Line%20Reflection/images/356_example_1.png" style="width: 389px; height: 340px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0300-0399/0356.Line%20Reflection/images/356_example_1.png" style="width: 389px; height: 340px;" />
 <pre>
 <strong>Input:</strong> points = [[1,1],[-1,1]]
 <strong>Output:</strong> true
@@ -21,7 +21,7 @@ Could you do better than O(<i>n</i><sup>2</sup>) ?</p>
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0300-0399/0356.Line%20Reflection/images/356_example_2.png" style="width: 300px; height: 294px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0300-0399/0356.Line%20Reflection/images/356_example_2.png" style="width: 300px; height: 294px;" />
 <pre>
 <strong>Input:</strong> points = [[1,1],[-1,-1]]
 <strong>Output:</strong> false

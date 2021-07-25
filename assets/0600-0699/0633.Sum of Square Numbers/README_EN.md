@@ -1,6 +1,6 @@
 # [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)
 
-[中文文档](/solution/0600-0699/0633.Sum%20of%20Square%20Numbers/README.md)
+
 
 ## Description
 
@@ -52,7 +52,7 @@
 
 ## Solutions
 
-![](https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0600-0699/0633.Sum%20of%20Square%20Numbers/images/table.png)
+![](https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0600-0699/0633.Sum%20of%20Square%20Numbers/images/table.png)
 
 The picture above shows the relationship between `a`, `b`, and `c`. This question is actually looking up `c` in this table
 

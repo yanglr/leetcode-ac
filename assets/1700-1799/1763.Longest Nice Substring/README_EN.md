@@ -1,6 +1,6 @@
 # [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring)
 
-[中文文档](/solution/1700-1799/1763.Longest%20Nice%20Substring/README.md)
+
 
 ## Description
 

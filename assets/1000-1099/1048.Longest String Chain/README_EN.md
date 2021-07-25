@@ -1,6 +1,6 @@
 # [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain)
 
-[中文文档](/solution/1000-1099/1048.Longest%20String%20Chain/README.md)
+
 
 ## Description
 

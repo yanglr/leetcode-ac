@@ -1,6 +1,6 @@
 # [500. Keyboard Row](https://leetcode.com/problems/keyboard-row)
 
-[中文文档](/solution/0500-0599/0500.Keyboard%20Row/README.md)
+
 
 ## Description
 
@@ -13,7 +13,7 @@
 	<li>the second row consists of the characters <code>&quot;asdfghjkl&quot;</code>, and</li>
 	<li>the third row consists of the characters <code>&quot;zxcvbnm&quot;</code>.</li>
 </ul>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0500.Keyboard%20Row/images/keyboard.png" style="width: 800px; max-width: 600px; height: 267px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0500.Keyboard%20Row/images/keyboard.png" style="width: 800px; max-width: 600px; height: 267px;" />
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 

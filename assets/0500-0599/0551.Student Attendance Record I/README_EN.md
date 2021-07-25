@@ -1,6 +1,6 @@
 # [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)
 
-[中文文档](/solution/0500-0599/0551.Student%20Attendance%20Record%20I/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)
 
-[中文文档](/solution/0800-0899/0874.Walking%20Robot%20Simulation/README.md)
+
 
 ## Description
 

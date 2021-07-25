@@ -1,6 +1,6 @@
 # [887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop)
 
-[中文文档](/solution/0800-0899/0887.Super%20Egg%20Drop/README.md)
+
 
 ## Description
 

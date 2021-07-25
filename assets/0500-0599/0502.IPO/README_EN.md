@@ -1,6 +1,6 @@
 # [502. IPO](https://leetcode.com/problems/ipo)
 
-[中文文档](/solution/0500-0599/0502.IPO/README.md)
+
 
 ## Description
 

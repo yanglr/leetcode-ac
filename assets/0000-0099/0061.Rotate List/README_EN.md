@@ -1,6 +1,6 @@
 # [61. Rotate List](https://leetcode.com/problems/rotate-list)
 
-[中文文档](/solution/0000-0099/0061.Rotate%20List/README.md)
+
 
 ## Description
 
@@ -8,14 +8,14 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0061.Rotate%20List/images/rotate1.jpg" style="width: 600px; height: 254px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0061.Rotate%20List/images/rotate1.jpg" style="width: 600px; height: 254px;" />
 <pre>
 <strong>Input:</strong> head = [1,2,3,4,5], k = 2
 <strong>Output:</strong> [4,5,1,2,3]
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0061.Rotate%20List/images/roate2.jpg" style="width: 472px; height: 542px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0061.Rotate%20List/images/roate2.jpg" style="width: 472px; height: 542px;" />
 <pre>
 <strong>Input:</strong> head = [0,1,2], k = 4
 <strong>Output:</strong> [2,0,1]

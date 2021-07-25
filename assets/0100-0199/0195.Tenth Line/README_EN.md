@@ -1,6 +1,6 @@
 # [195. Tenth Line](https://leetcode.com/problems/tenth-line)
 
-[中文文档](/solution/0100-0199/0195.Tenth%20Line/README.md)
+
 
 ## Description
 

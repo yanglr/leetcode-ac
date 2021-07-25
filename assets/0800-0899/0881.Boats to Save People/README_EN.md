@@ -1,6 +1,6 @@
 # [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people)
 
-[中文文档](/solution/0800-0899/0881.Boats%20to%20Save%20People/README.md)
+
 
 ## Description
 

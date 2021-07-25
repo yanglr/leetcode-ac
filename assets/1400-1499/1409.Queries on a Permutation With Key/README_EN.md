@@ -1,6 +1,6 @@
 # [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key)
 
-[中文文档](/solution/1400-1499/1409.Queries%20on%20a%20Permutation%20With%20Key/README.md)
+
 
 ## Description
 

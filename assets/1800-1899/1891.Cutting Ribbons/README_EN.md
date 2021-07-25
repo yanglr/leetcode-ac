@@ -1,6 +1,6 @@
 # [1891. Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons)
 
-[中文文档](/solution/1800-1899/1891.Cutting%20Ribbons/README.md)
+
 
 ## Description
 

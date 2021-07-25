@@ -1,6 +1,6 @@
 # [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree)
 
-[中文文档](/solution/0600-0699/0662.Maximum%20Width%20of%20Binary%20Tree/README.md)
+
 
 ## Description
 

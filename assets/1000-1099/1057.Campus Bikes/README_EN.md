@@ -1,6 +1,6 @@
 # [1057. Campus Bikes](https://leetcode.com/problems/campus-bikes)
 
-[中文文档](/solution/1000-1099/1057.Campus%20Bikes/README.md)
+
 
 ## Description
 
@@ -28,7 +28,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1000-1099/1057.Campus%20Bikes/images/1261_example_1_v2.png" style="width: 264px; height: 264px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1000-1099/1057.Campus%20Bikes/images/1261_example_1_v2.png" style="width: 264px; height: 264px;" /></p>
 
 
 
@@ -50,7 +50,7 @@ Worker 1 grabs Bike 0 as they are closest (without ties), and Worker 0 is assign
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1000-1099/1057.Campus%20Bikes/images/1261_example_2_v2.png" style="width: 264px; height: 264px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1000-1099/1057.Campus%20Bikes/images/1261_example_2_v2.png" style="width: 264px; height: 264px;" /></p>
 
 
 

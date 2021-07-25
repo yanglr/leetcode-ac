@@ -1,6 +1,6 @@
 # [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 
-[中文文档](/solution/0100-0199/0199.Binary%20Tree%20Right%20Side%20View/README.md)
+
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0100-0199/0199.Binary%20Tree%20Right%20Side%20View/images/tree.jpg" style="width: 401px; height: 301px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0100-0199/0199.Binary%20Tree%20Right%20Side%20View/images/tree.jpg" style="width: 401px; height: 301px;" />
 <pre>
 <strong>Input:</strong> root = [1,2,3,null,5,null,4]
 <strong>Output:</strong> [1,3,4]

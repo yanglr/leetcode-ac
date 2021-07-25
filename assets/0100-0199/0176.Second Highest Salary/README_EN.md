@@ -1,6 +1,6 @@
 # [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
 
-[中文文档](/solution/0100-0199/0176.Second%20Highest%20Salary/README.md)
+
 
 ## Description
 

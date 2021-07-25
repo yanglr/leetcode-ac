@@ -1,6 +1,6 @@
 # [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
 
-[中文文档](/solution/0700-0799/0778.Swim%20in%20Rising%20Water/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1140. Stone Game II](https://leetcode.com/problems/stone-game-ii)
 
-[中文文档](/solution/1100-1199/1140.Stone%20Game%20II/README.md)
+
 
 ## Description
 

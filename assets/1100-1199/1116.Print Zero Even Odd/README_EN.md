@@ -1,6 +1,6 @@
 # [1116. Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd)
 
-[中文文档](/solution/1100-1199/1116.Print%20Zero%20Even%20Odd/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1531. String Compression II](https://leetcode.com/problems/string-compression-ii)
 
-[中文文档](/solution/1500-1599/1531.String%20Compression%20II/README.md)
+
 
 ## Description
 

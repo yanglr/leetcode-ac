@@ -1,6 +1,6 @@
 # [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)
 
-[中文文档](/solution/0900-0999/0929.Unique%20Email%20Addresses/README.md)
+
 
 ## Description
 

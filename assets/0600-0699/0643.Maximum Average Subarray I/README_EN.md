@@ -1,6 +1,6 @@
 # [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)
 
-[中文文档](/solution/0600-0699/0643.Maximum%20Average%20Subarray%20I/README.md)
+
 
 ## Description
 

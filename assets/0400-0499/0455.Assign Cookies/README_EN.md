@@ -1,6 +1,6 @@
 # [455. Assign Cookies](https://leetcode.com/problems/assign-cookies)
 
-[中文文档](/solution/0400-0499/0455.Assign%20Cookies/README.md)
+
 
 ## Description
 

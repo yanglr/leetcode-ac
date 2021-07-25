@@ -1,6 +1,6 @@
 # [321. Create Maximum Number](https://leetcode.com/problems/create-maximum-number)
 
-[中文文档](/solution/0300-0399/0321.Create%20Maximum%20Number/README.md)
+
 
 ## Description
 

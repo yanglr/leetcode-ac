@@ -1,6 +1,6 @@
 # [1224. Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency)
 
-[中文文档](/solution/1200-1299/1224.Maximum%20Equal%20Frequency/README.md)
+
 
 ## Description
 

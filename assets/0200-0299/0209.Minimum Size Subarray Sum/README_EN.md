@@ -1,6 +1,6 @@
 # [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)
 
-[中文文档](/solution/0200-0299/0209.Minimum%20Size%20Subarray%20Sum/README.md)
+
 
 ## Description
 

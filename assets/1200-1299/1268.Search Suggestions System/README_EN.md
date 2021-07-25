@@ -1,6 +1,6 @@
 # [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system)
 
-[中文文档](/solution/1200-1299/1268.Search%20Suggestions%20System/README.md)
+
 
 ## Description
 

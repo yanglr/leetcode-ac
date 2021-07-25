@@ -1,6 +1,6 @@
 # [193. Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers)
 
-[中文文档](/solution/0100-0199/0193.Valid%20Phone%20Numbers/README.md)
+
 
 ## Description
 

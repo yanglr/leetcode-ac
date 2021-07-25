@@ -1,6 +1,6 @@
 # [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters)
 
-[中文文档](/solution/1800-1899/1898.Maximum%20Number%20of%20Removable%20Characters/README.md)
+
 
 ## Description
 

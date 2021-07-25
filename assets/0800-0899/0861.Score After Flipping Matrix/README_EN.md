@@ -1,6 +1,6 @@
 # [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix)
 
-[中文文档](/solution/0800-0899/0861.Score%20After%20Flipping%20Matrix/README.md)
+
 
 ## Description
 

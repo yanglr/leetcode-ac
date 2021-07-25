@@ -1,6 +1,6 @@
 # [932. Beautiful Array](https://leetcode.com/problems/beautiful-array)
 
-[中文文档](/solution/0900-0999/0932.Beautiful%20Array/README.md)
+
 
 ## Description
 

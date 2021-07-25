@@ -1,6 +1,6 @@
 # [50. Pow(x, n)](https://leetcode.com/problems/powx-n)
 
-[中文文档](/solution/0000-0099/0050.Pow%28x%2C%20n%29/README.md)
+
 
 ## Description
 

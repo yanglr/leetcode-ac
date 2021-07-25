@@ -1,6 +1,6 @@
 # [803. Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit)
 
-[中文文档](/solution/0800-0899/0803.Bricks%20Falling%20When%20Hit/README.md)
+
 
 ## Description
 

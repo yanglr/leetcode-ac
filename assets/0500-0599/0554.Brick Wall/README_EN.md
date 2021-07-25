@@ -1,6 +1,6 @@
 # [554. Brick Wall](https://leetcode.com/problems/brick-wall)
 
-[中文文档](/solution/0500-0599/0554.Brick%20Wall/README.md)
+
 
 ## Description
 
@@ -38,7 +38,7 @@
 
 <b>Explanation:</b> 
 
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0554.Brick%20Wall/images/brick_wall.png" style="width: 100%; max-width: 350px" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0554.Brick%20Wall/images/brick_wall.png" style="width: 100%; max-width: 350px" />
 
 </pre>
 

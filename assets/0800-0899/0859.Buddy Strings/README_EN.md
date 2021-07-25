@@ -1,6 +1,6 @@
 # [859. Buddy Strings](https://leetcode.com/problems/buddy-strings)
 
-[中文文档](/solution/0800-0899/0859.Buddy%20Strings/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum)
 
-[中文文档](/solution/0800-0899/0829.Consecutive%20Numbers%20Sum/README.md)
+
 
 ## Description
 

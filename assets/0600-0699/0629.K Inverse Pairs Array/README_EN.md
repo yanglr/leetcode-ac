@@ -1,6 +1,6 @@
 # [629. K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array)
 
-[中文文档](/solution/0600-0699/0629.K%20Inverse%20Pairs%20Array/README.md)
+
 
 ## Description
 

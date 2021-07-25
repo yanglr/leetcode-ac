@@ -1,6 +1,6 @@
 # [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string)
 
-[中文文档](/solution/1400-1499/1405.Longest%20Happy%20String/README.md)
+
 
 ## Description
 

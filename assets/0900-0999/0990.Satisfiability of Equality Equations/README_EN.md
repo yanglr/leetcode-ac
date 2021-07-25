@@ -1,6 +1,6 @@
 # [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)
 
-[中文文档](/solution/0900-0999/0990.Satisfiability%20of%20Equality%20Equations/README.md)
+
 
 ## Description
 

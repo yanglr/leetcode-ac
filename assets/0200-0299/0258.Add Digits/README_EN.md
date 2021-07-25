@@ -1,6 +1,6 @@
 # [258. Add Digits](https://leetcode.com/problems/add-digits)
 
-[中文文档](/solution/0200-0299/0258.Add%20Digits/README.md)
+
 
 ## Description
 

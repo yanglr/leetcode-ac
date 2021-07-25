@@ -1,6 +1,6 @@
 # [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens)
 
-[中文文档](/solution/0900-0999/0948.Bag%20of%20Tokens/README.md)
+
 
 ## Description
 

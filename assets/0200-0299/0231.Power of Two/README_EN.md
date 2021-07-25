@@ -1,6 +1,6 @@
 # [231. Power of Two](https://leetcode.com/problems/power-of-two)
 
-[中文文档](/solution/0200-0299/0231.Power%20of%20Two/README.md)
+
 
 ## Description
 

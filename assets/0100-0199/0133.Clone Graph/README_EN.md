@@ -1,6 +1,6 @@
 # [133. Clone Graph](https://leetcode.com/problems/clone-graph)
 
-[中文文档](/solution/0100-0199/0133.Clone%20Graph/README.md)
+
 
 ## Description
 
@@ -51,7 +51,7 @@ class Node {
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0100-0199/0133.Clone%20Graph/images/133_clone_graph_question.png" style="width: 500px; height: 550px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0100-0199/0133.Clone%20Graph/images/133_clone_graph_question.png" style="width: 500px; height: 550px;" />
 <pre>
 <strong>Input:</strong> adjList = [[2,4],[1,3],[2,4],[1,3]]
 <strong>Output:</strong> [[2,4],[1,3],[2,4],[1,3]]
@@ -63,7 +63,7 @@ class Node {
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0100-0199/0133.Clone%20Graph/images/graph.png" style="width: 163px; height: 148px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0100-0199/0133.Clone%20Graph/images/graph.png" style="width: 163px; height: 148px;" />
 <pre>
 <strong>Input:</strong> adjList = [[]]
 <strong>Output:</strong> [[]]
@@ -79,7 +79,7 @@ class Node {
 </pre>
 
 <p><strong>Example 4:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0100-0199/0133.Clone%20Graph/images/graph-1.png" style="width: 272px; height: 133px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0100-0199/0133.Clone%20Graph/images/graph-1.png" style="width: 272px; height: 133px;" />
 <pre>
 <strong>Input:</strong> adjList = [[2],[1]]
 <strong>Output:</strong> [[2],[1]]

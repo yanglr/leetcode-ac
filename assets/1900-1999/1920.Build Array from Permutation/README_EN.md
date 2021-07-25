@@ -1,6 +1,6 @@
 # [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation)
 
-[中文文档](/solution/1900-1999/1920.Build%20Array%20from%20Permutation/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [213. House Robber II](https://leetcode.com/problems/house-robber-ii)
 
-[中文文档](/solution/0200-0299/0213.House%20Robber%20II/README.md)
+
 
 ## Description
 

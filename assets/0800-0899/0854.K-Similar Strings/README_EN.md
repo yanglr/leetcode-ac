@@ -1,6 +1,6 @@
 # [854. K-Similar Strings](https://leetcode.com/problems/k-similar-strings)
 
-[中文文档](/solution/0800-0899/0854.K-Similar%20Strings/README.md)
+
 
 ## Description
 

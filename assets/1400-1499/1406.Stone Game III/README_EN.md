@@ -1,6 +1,6 @@
 # [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii)
 
-[中文文档](/solution/1400-1499/1406.Stone%20Game%20III/README.md)
+
 
 ## Description
 

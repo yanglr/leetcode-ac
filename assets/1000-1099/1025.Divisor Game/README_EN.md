@@ -1,6 +1,6 @@
 # [1025. Divisor Game](https://leetcode.com/problems/divisor-game)
 
-[中文文档](/solution/1000-1099/1025.Divisor%20Game/README.md)
+
 
 ## Description
 

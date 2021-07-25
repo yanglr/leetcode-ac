@@ -1,6 +1,6 @@
 # [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)
 
-[中文文档](/solution/1000-1099/1029.Two%20City%20Scheduling/README.md)
+
 
 ## Description
 

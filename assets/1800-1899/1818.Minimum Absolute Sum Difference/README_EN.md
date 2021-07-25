@@ -1,6 +1,6 @@
 # [1818. Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference)
 
-[中文文档](/solution/1800-1899/1818.Minimum%20Absolute%20Sum%20Difference/README.md)
+
 
 ## Description
 

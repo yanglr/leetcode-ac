@@ -1,6 +1,6 @@
 # [665. Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)
 
-[中文文档](/solution/0600-0699/0665.Non-decreasing%20Array/README.md)
+
 
 ## Description
 

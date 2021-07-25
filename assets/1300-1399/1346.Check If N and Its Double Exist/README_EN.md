@@ -1,6 +1,6 @@
 # [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)
 
-[中文文档](/solution/1300-1399/1346.Check%20If%20N%20and%20Its%20Double%20Exist/README.md)
+
 
 ## Description
 

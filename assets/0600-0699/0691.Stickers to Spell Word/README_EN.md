@@ -1,6 +1,6 @@
 # [691. Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word)
 
-[中文文档](/solution/0600-0699/0691.Stickers%20to%20Spell%20Word/README.md)
+
 
 ## Description
 

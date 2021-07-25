@@ -1,6 +1,6 @@
 # [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)
 
-[中文文档](/solution/0400-0499/0459.Repeated%20Substring%20Pattern/README.md)
+
 
 ## Description
 

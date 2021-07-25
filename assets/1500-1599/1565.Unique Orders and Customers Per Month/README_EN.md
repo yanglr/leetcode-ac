@@ -1,6 +1,6 @@
 # [1565. Unique Orders and Customers Per Month](https://leetcode.com/problems/unique-orders-and-customers-per-month)
 
-[中文文档](/solution/1500-1599/1565.Unique%20Orders%20and%20Customers%20Per%20Month/README.md)
+
 
 ## Description
 

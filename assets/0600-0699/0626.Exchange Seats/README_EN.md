@@ -1,6 +1,6 @@
 # [626. Exchange Seats](https://leetcode.com/problems/exchange-seats)
 
-[中文文档](/solution/0600-0699/0626.Exchange%20Seats/README.md)
+
 
 ## Description
 

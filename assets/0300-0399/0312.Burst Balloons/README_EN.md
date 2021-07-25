@@ -1,6 +1,6 @@
 # [312. Burst Balloons](https://leetcode.com/problems/burst-balloons)
 
-[中文文档](/solution/0300-0399/0312.Burst%20Balloons/README.md)
+
 
 ## Description
 

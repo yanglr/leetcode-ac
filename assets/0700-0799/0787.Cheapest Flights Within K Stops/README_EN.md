@@ -1,6 +1,6 @@
 # [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 
-[中文文档](/solution/0700-0799/0787.Cheapest%20Flights%20Within%20K%20Stops/README.md)
+
 
 ## Description
 
@@ -16,7 +16,7 @@ src = 0, dst = 2, k = 1
 <strong>Output:</strong> 200
 <strong>Explanation:</strong> 
 The graph looks like this:
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0700-0799/0787.Cheapest%20Flights%20Within%20K%20Stops/images/995.png" style="height:180px; width:246px" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0700-0799/0787.Cheapest%20Flights%20Within%20K%20Stops/images/995.png" style="height:180px; width:246px" />
 
 The cheapest price from city <code>0</code> to city <code>2</code> with at most 1 stop costs 200, as marked red in the picture.</pre>
 
@@ -28,7 +28,7 @@ src = 0, dst = 2, k = 0
 <strong>Output:</strong> 500
 <strong>Explanation:</strong> 
 The graph looks like this:
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0700-0799/0787.Cheapest%20Flights%20Within%20K%20Stops/images/995.png" style="height:180px; width:246px" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0700-0799/0787.Cheapest%20Flights%20Within%20K%20Stops/images/995.png" style="height:180px; width:246px" />
 
 The cheapest price from city <code>0</code> to city <code>2</code> with at most 0 stop costs 500, as marked blue in the picture.
 </pre>

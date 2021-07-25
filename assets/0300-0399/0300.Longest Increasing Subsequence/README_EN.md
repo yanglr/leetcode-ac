@@ -1,6 +1,6 @@
 # [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 
-[中文文档](/solution/0300-0399/0300.Longest%20Increasing%20Subsequence/README.md)
+
 
 ## Description
 

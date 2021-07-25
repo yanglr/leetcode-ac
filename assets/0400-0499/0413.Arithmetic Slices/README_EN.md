@@ -1,6 +1,6 @@
 # [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)
 
-[中文文档](/solution/0400-0499/0413.Arithmetic%20Slices/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [956. Tallest Billboard](https://leetcode.com/problems/tallest-billboard)
 
-[中文文档](/solution/0900-0999/0956.Tallest%20Billboard/README.md)
+
 
 ## Description
 

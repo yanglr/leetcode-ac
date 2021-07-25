@@ -1,6 +1,6 @@
 # [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack)
 
-[中文文档](/solution/0800-0899/0895.Maximum%20Frequency%20Stack/README.md)
+
 
 ## Description
 

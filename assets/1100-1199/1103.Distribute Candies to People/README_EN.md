@@ -1,6 +1,6 @@
 # [1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people)
 
-[中文文档](/solution/1100-1199/1103.Distribute%20Candies%20to%20People/README.md)
+
 
 ## Description
 

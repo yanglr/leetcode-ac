@@ -1,6 +1,6 @@
 # [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string)
 
-[中文文档](/solution/1400-1499/1417.Reformat%20The%20String/README.md)
+
 
 ## Description
 

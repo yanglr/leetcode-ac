@@ -1,6 +1,6 @@
 # [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters)
 
-[中文文档](/solution/0300-0399/0316.Remove%20Duplicate%20Letters/README.md)
+
 
 ## Description
 

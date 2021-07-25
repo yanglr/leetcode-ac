@@ -1,6 +1,6 @@
 # [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)
 
-[中文文档](/solution/0000-0099/0069.Sqrt%28x%29/README.md)
+
 
 ## Description
 

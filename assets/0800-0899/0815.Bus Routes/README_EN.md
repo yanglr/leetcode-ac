@@ -1,6 +1,6 @@
 # [815. Bus Routes](https://leetcode.com/problems/bus-routes)
 
-[中文文档](/solution/0800-0899/0815.Bus%20Routes/README.md)
+
 
 ## Description
 

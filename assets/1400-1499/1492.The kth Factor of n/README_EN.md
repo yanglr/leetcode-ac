@@ -1,6 +1,6 @@
 # [1492. The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)
 
-[中文文档](/solution/1400-1499/1492.The%20kth%20Factor%20of%20n/README.md)
+
 
 ## Description
 

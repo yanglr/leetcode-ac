@@ -1,6 +1,6 @@
 # [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)
 
-[中文文档](/solution/0300-0399/0354.Russian%20Doll%20Envelopes/README.md)
+
 
 ## Description
 

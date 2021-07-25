@@ -1,6 +1,6 @@
 # [1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)
 
-[中文文档](/solution/1000-1099/1052.Grumpy%20Bookstore%20Owner/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great)
 
-[中文文档](/solution/1500-1599/1544.Make%20The%20String%20Great/README.md)
+
 
 ## Description
 

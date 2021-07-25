@@ -1,6 +1,6 @@
 # [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 
-[中文文档](/solution/0200-0299/0205.Isomorphic%20Strings/README.md)
+
 
 ## Description
 

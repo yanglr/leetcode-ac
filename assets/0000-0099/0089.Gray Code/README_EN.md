@@ -1,6 +1,6 @@
 # [89. Gray Code](https://leetcode.com/problems/gray-code)
 
-[中文文档](/solution/0000-0099/0089.Gray%20Code/README.md)
+
 
 ## Description
 

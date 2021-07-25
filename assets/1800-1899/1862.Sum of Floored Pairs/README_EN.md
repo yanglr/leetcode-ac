@@ -1,6 +1,6 @@
 # [1862. Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs)
 
-[中文文档](/solution/1800-1899/1862.Sum%20of%20Floored%20Pairs/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [491. Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences)
 
-[中文文档](/solution/0400-0499/0491.Increasing%20Subsequences/README.md)
+
 
 ## Description
 

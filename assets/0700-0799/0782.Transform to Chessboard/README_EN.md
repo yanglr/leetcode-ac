@@ -1,6 +1,6 @@
 # [782. Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard)
 
-[中文文档](/solution/0700-0799/0782.Transform%20to%20Chessboard/README.md)
+
 
 ## Description
 

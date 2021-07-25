@@ -1,6 +1,6 @@
 # [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs)
 
-[中文文档](/solution/0300-0399/0336.Palindrome%20Pairs/README.md)
+
 
 ## Description
 

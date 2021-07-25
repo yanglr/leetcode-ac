@@ -1,6 +1,6 @@
 # [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
 
-[中文文档](/solution/0500-0599/0509.Fibonacci%20Number/README.md)
+
 
 ## Description
 

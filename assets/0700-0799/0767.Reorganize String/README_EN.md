@@ -1,6 +1,6 @@
 # [767. Reorganize String](https://leetcode.com/problems/reorganize-string)
 
-[中文文档](/solution/0700-0799/0767.Reorganize%20String/README.md)
+
 
 ## Description
 

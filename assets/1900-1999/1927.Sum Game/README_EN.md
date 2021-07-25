@@ -1,6 +1,6 @@
 # [1927. Sum Game](https://leetcode.com/problems/sum-game)
 
-[中文文档](/solution/1900-1999/1927.Sum%20Game/README.md)
+
 
 ## Description
 

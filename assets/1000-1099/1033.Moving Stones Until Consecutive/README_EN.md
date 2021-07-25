@@ -1,6 +1,6 @@
 # [1033. Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)
 
-[中文文档](/solution/1000-1099/1033.Moving%20Stones%20Until%20Consecutive/README.md)
+
 
 ## Description
 

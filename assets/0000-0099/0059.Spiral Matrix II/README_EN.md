@@ -1,6 +1,6 @@
 # [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)
 
-[中文文档](/solution/0000-0099/0059.Spiral%20Matrix%20II/README.md)
+
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0059.Spiral%20Matrix%20II/images/spiraln.jpg" style="width: 242px; height: 242px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0059.Spiral%20Matrix%20II/images/spiraln.jpg" style="width: 242px; height: 242px;" />
 <pre>
 <strong>Input:</strong> n = 3
 <strong>Output:</strong> [[1,2,3],[8,9,4],[7,6,5]]

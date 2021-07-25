@@ -1,6 +1,6 @@
 # [1227. Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability)
 
-[中文文档](/solution/1200-1299/1227.Airplane%20Seat%20Assignment%20Probability/README.md)
+
 
 ## Description
 

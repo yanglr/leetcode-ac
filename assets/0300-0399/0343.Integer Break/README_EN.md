@@ -1,6 +1,6 @@
 # [343. Integer Break](https://leetcode.com/problems/integer-break)
 
-[中文文档](/solution/0300-0399/0343.Integer%20Break/README.md)
+
 
 ## Description
 

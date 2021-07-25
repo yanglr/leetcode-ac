@@ -1,6 +1,6 @@
 # [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii)
 
-[中文文档](/solution/0500-0599/0556.Next%20Greater%20Element%20III/README.md)
+
 
 ## Description
 

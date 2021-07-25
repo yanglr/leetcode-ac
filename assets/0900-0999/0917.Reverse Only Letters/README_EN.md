@@ -1,6 +1,6 @@
 # [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)
 
-[中文文档](/solution/0900-0999/0917.Reverse%20Only%20Letters/README.md)
+
 
 ## Description
 

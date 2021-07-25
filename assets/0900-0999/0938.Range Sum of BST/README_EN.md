@@ -1,6 +1,6 @@
 # [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 
-[中文文档](/solution/0900-0999/0938.Range%20Sum%20of%20BST/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 <p><strong>Example 1:</strong></p>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0938.Range%20Sum%20of%20BST/images/bst1.jpg" style="width: 400px; height: 222px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0938.Range%20Sum%20of%20BST/images/bst1.jpg" style="width: 400px; height: 222px;" />
 
 <pre>
 
@@ -26,7 +26,7 @@
 
 <p><strong>Example 2:</strong></p>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0938.Range%20Sum%20of%20BST/images/bst2.jpg" style="width: 400px; height: 335px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0938.Range%20Sum%20of%20BST/images/bst2.jpg" style="width: 400px; height: 335px;" />
 
 <pre>
 

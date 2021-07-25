@@ -1,6 +1,6 @@
 # [46. Permutations](https://leetcode.com/problems/permutations)
 
-[中文文档](/solution/0000-0099/0046.Permutations/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree)
 
-[中文文档](/solution/0300-0399/0333.Largest%20BST%20Subtree/README.md)
+
 
 ## Description
 
@@ -20,7 +20,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0300-0399/0333.Largest%20BST%20Subtree/images/tmp.jpg" style="width: 571px; height: 302px;" /></strong></p>
+<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0300-0399/0333.Largest%20BST%20Subtree/images/tmp.jpg" style="width: 571px; height: 302px;" /></strong></p>
 
 <pre>
 <strong>Input:</strong> root = [10,5,15,1,8,null,7]

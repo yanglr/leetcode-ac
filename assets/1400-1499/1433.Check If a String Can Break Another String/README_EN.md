@@ -1,6 +1,6 @@
 # [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)
 
-[中文文档](/solution/1400-1499/1433.Check%20If%20a%20String%20Can%20Break%20Another%20String/README.md)
+
 
 ## Description
 

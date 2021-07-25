@@ -1,6 +1,6 @@
 # [229. Majority Element II](https://leetcode.com/problems/majority-element-ii)
 
-[中文文档](/solution/0200-0299/0229.Majority%20Element%20II/README.md)
+
 
 ## Description
 

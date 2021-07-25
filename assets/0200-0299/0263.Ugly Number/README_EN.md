@@ -1,6 +1,6 @@
 # [263. Ugly Number](https://leetcode.com/problems/ugly-number)
 
-[中文文档](/solution/0200-0299/0263.Ugly%20Number/README.md)
+
 
 ## Description
 

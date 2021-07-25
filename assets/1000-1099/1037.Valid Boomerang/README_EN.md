@@ -1,6 +1,6 @@
 # [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang)
 
-[中文文档](/solution/1000-1099/1037.Valid%20Boomerang/README.md)
+
 
 ## Description
 

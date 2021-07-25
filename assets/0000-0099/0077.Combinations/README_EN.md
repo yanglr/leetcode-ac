@@ -1,6 +1,6 @@
 # [77. Combinations](https://leetcode.com/problems/combinations)
 
-[中文文档](/solution/0000-0099/0077.Combinations/README.md)
+
 
 ## Description
 

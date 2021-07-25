@@ -1,6 +1,6 @@
 # [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)
 
-[中文文档](/solution/1000-1099/1004.Max%20Consecutive%20Ones%20III/README.md)
+
 
 ## Description
 

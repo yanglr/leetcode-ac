@@ -1,6 +1,6 @@
 # [1825. Finding MK Average](https://leetcode.com/problems/finding-mk-average)
 
-[中文文档](/solution/1800-1899/1825.Finding%20MK%20Average/README.md)
+
 
 ## Description
 

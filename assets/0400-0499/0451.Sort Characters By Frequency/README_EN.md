@@ -1,6 +1,6 @@
 # [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
 
-[中文文档](/solution/0400-0499/0451.Sort%20Characters%20By%20Frequency/README.md)
+
 
 ## Description
 

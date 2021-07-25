@@ -1,6 +1,6 @@
 # [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference)
 
-[中文文档](/solution/1200-1299/1200.Minimum%20Absolute%20Difference/README.md)
+
 
 ## Description
 

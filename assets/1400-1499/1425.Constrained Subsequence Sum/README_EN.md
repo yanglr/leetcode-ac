@@ -1,6 +1,6 @@
 # [1425. Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum)
 
-[中文文档](/solution/1400-1499/1425.Constrained%20Subsequence%20Sum/README.md)
+
 
 ## Description
 

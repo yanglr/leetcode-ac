@@ -1,6 +1,6 @@
 # [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest)
 
-[中文文档](/solution/0000-0099/0016.3Sum%20Closest/README.md)
+
 
 ## Description
 

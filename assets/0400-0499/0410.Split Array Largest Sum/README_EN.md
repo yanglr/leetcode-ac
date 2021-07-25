@@ -1,6 +1,6 @@
 # [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
 
-[中文文档](/solution/0400-0499/0410.Split%20Array%20Largest%20Sum/README.md)
+
 
 ## Description
 

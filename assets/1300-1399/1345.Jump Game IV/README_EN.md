@@ -1,6 +1,6 @@
 # [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv)
 
-[中文文档](/solution/1300-1399/1345.Jump%20Game%20IV/README.md)
+
 
 ## Description
 

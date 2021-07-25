@@ -1,6 +1,6 @@
 # [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)
 
-[中文文档](/solution/0700-0799/0779.K-th%20Symbol%20in%20Grammar/README.md)
+
 
 ## Description
 

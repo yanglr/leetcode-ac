@@ -1,6 +1,6 @@
 # [1860. Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak)
 
-[中文文档](/solution/1800-1899/1860.Incremental%20Memory%20Leak/README.md)
+
 
 ## Description
 

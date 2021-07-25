@@ -1,6 +1,6 @@
 # [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words)
 
-[中文文档](/solution/1500-1599/1592.Rearrange%20Spaces%20Between%20Words/README.md)
+
 
 ## Description
 

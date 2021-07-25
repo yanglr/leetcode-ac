@@ -1,6 +1,6 @@
 # [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array)
 
-[中文文档](/solution/0800-0899/0845.Longest%20Mountain%20in%20Array/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)
 
-[中文文档](/solution/0800-0899/0804.Unique%20Morse%20Code%20Words/README.md)
+
 
 ## Description
 

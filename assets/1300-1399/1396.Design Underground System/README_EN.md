@@ -1,6 +1,6 @@
 # [1396. Design Underground System](https://leetcode.com/problems/design-underground-system)
 
-[中文文档](/solution/1300-1399/1396.Design%20Underground%20System/README.md)
+
 
 ## Description
 

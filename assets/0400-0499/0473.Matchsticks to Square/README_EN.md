@@ -1,6 +1,6 @@
 # [473. Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)
 
-[中文文档](/solution/0400-0499/0473.Matchsticks%20to%20Square/README.md)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0400-0499/0473.Matchsticks%20to%20Square/images/matchsticks1-grid.jpg" style="width: 253px; height: 253px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0400-0499/0473.Matchsticks%20to%20Square/images/matchsticks1-grid.jpg" style="width: 253px; height: 253px;" />
 <pre>
 <strong>Input:</strong> matchsticks = [1,1,2,2,2]
 <strong>Output:</strong> true

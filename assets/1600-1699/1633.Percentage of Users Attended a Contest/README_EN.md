@@ -1,6 +1,6 @@
 # [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest)
 
-[中文文档](/solution/1600-1699/1633.Percentage%20of%20Users%20Attended%20a%20Contest/README.md)
+
 
 ## Description
 

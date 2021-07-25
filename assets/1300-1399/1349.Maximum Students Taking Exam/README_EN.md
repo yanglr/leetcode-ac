@@ -1,6 +1,6 @@
 # [1349. Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam)
 
-[中文文档](/solution/1300-1399/1349.Maximum%20Students%20Taking%20Exam/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img height="200" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1300-1399/1349.Maximum%20Students%20Taking%20Exam/images/image.png" width="339" />
+<img height="200" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1300-1399/1349.Maximum%20Students%20Taking%20Exam/images/image.png" width="339" />
 <pre>
 <strong>Input:</strong> seats = [[&quot;#&quot;,&quot;.&quot;,&quot;#&quot;,&quot;#&quot;,&quot;.&quot;,&quot;#&quot;],
 &nbsp;               [&quot;.&quot;,&quot;#&quot;,&quot;#&quot;,&quot;#&quot;,&quot;#&quot;,&quot;.&quot;],

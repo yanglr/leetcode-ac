@@ -1,6 +1,6 @@
 # [475. Heaters](https://leetcode.com/problems/heaters)
 
-[中文文档](/solution/0400-0499/0475.Heaters/README.md)
+
 
 ## Description
 

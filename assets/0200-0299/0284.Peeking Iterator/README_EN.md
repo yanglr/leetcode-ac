@@ -1,6 +1,6 @@
 # [284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator)
 
-[中文文档](/solution/0200-0299/0284.Peeking%20Iterator/README.md)
+
 
 ## Description
 

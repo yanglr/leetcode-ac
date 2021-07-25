@@ -1,6 +1,6 @@
 # [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)
 
-[中文文档](/solution/0900-0999/0962.Maximum%20Width%20Ramp/README.md)
+
 
 ## Description
 

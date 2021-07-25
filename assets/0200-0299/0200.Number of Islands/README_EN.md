@@ -1,6 +1,6 @@
 # [200. Number of Islands](https://leetcode.com/problems/number-of-islands)
 
-[中文文档](/solution/0200-0299/0200.Number%20of%20Islands/README.md)
+
 
 ## Description
 

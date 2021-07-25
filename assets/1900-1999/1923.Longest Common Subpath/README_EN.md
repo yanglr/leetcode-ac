@@ -1,6 +1,6 @@
 # [1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath)
 
-[中文文档](/solution/1900-1999/1923.Longest%20Common%20Subpath/README.md)
+
 
 ## Description
 

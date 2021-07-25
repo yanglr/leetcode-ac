@@ -1,6 +1,6 @@
 # [75. Sort Colors](https://leetcode.com/problems/sort-colors)
 
-[中文文档](/solution/0000-0099/0075.Sort%20Colors/README.md)
+
 
 ## Description
 

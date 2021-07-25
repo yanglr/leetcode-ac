@@ -1,6 +1,6 @@
 # [731. My Calendar II](https://leetcode.com/problems/my-calendar-ii)
 
-[中文文档](/solution/0700-0799/0731.My%20Calendar%20II/README.md)
+
 
 ## Description
 

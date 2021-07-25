@@ -1,6 +1,6 @@
 # [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii)
 
-[中文文档](/solution/1300-1399/1306.Jump%20Game%20III/README.md)
+
 
 ## Description
 

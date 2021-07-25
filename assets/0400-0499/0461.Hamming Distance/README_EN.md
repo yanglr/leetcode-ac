@@ -1,6 +1,6 @@
 # [461. Hamming Distance](https://leetcode.com/problems/hamming-distance)
 
-[中文文档](/solution/0400-0499/0461.Hamming%20Distance/README.md)
+
 
 ## Description
 

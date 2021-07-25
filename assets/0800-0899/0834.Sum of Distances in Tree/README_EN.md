@@ -1,6 +1,6 @@
 # [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)
 
-[中文文档](/solution/0800-0899/0834.Sum%20of%20Distances%20in%20Tree/README.md)
+
 
 ## Description
 

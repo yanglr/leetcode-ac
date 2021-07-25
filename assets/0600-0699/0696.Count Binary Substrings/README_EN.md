@@ -1,6 +1,6 @@
 # [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)
 
-[中文文档](/solution/0600-0699/0696.Count%20Binary%20Substrings/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [519. Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix)
 
-[中文文档](/solution/0500-0599/0519.Random%20Flip%20Matrix/README.md)
+
 
 ## Description
 

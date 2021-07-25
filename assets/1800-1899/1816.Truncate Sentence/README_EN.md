@@ -1,6 +1,6 @@
 # [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence)
 
-[中文文档](/solution/1800-1899/1816.Truncate%20Sentence/README.md)
+
 
 ## Description
 

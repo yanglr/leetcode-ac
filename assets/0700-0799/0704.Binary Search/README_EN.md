@@ -1,6 +1,6 @@
 # [704. Binary Search](https://leetcode.com/problems/binary-search)
 
-[中文文档](/solution/0700-0799/0704.Binary%20Search/README.md)
+
 
 ## Description
 

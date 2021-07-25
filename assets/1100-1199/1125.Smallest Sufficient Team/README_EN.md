@@ -1,6 +1,6 @@
 # [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team)
 
-[中文文档](/solution/1100-1199/1125.Smallest%20Sufficient%20Team/README.md)
+
 
 ## Description
 

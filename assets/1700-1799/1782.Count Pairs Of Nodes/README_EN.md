@@ -1,6 +1,6 @@
 # [1782. Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes)
 
-[中文文档](/solution/1700-1799/1782.Count%20Pairs%20Of%20Nodes/README.md)
+
 
 ## Description
 
@@ -19,7 +19,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1700-1799/1782.Count%20Pairs%20Of%20Nodes/images/screenshot-from-2021-02-11-23-07-35.png" style="width: 310px; height: 278px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1700-1799/1782.Count%20Pairs%20Of%20Nodes/images/screenshot-from-2021-02-11-23-07-35.png" style="width: 310px; height: 278px;" />
 <pre>
 <strong>Input:</strong> n = 4, edges = [[1,2],[2,4],[1,3],[2,3],[2,1]], queries = [2,3]
 <strong>Output:</strong> [6,5]

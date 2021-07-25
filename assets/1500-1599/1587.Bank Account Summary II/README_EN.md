@@ -1,6 +1,6 @@
 # [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)
 
-[中文文档](/solution/1500-1599/1587.Bank%20Account%20Summary%20II/README.md)
+
 
 ## Description
 

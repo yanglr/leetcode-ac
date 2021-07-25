@@ -1,6 +1,6 @@
 # [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)
 
-[中文文档](/solution/0900-0999/0922.Sort%20Array%20By%20Parity%20II/README.md)
+
 
 ## Description
 

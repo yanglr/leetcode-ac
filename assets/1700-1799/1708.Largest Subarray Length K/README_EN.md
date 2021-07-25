@@ -1,6 +1,6 @@
 # [1708. Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k)
 
-[中文文档](/solution/1700-1799/1708.Largest%20Subarray%20Length%20K/README.md)
+
 
 ## Description
 

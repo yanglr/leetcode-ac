@@ -1,6 +1,6 @@
 # [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list)
 
-[中文文档](/solution/1000-1099/1019.Next%20Greater%20Node%20In%20Linked%20List/README.md)
+
 
 ## Description
 

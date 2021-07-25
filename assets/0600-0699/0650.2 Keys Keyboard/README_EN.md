@@ -1,6 +1,6 @@
 # [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)
 
-[中文文档](/solution/0600-0699/0650.2%20Keys%20Keyboard/README.md)
+
 
 ## Description
 

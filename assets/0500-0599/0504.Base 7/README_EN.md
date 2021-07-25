@@ -1,6 +1,6 @@
 # [504. Base 7](https://leetcode.com/problems/base-7)
 
-[中文文档](/solution/0500-0599/0504.Base%207/README.md)
+
 
 ## Description
 

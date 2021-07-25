@@ -1,6 +1,6 @@
 # [542. 01 Matrix](https://leetcode.com/problems/01-matrix)
 
-[中文文档](/solution/0500-0599/0542.01%20Matrix/README.md)
+
 
 ## Description
 

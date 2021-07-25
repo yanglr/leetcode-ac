@@ -1,6 +1,6 @@
 # [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement)
 
-[中文文档](/solution/0500-0599/0526.Beautiful%20Arrangement/README.md)
+
 
 ## Description
 

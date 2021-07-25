@@ -1,6 +1,6 @@
 # [1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network)
 
-[中文文档](/solution/1100-1199/1192.Critical%20Connections%20in%20a%20Network/README.md)
+
 
 ## Description
 
@@ -13,7 +13,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1100-1199/1192.Critical%20Connections%20in%20a%20Network/images/1537_ex1_2.png" style="width: 198px; height: 248px;" /></strong></p>
+<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1100-1199/1192.Critical%20Connections%20in%20a%20Network/images/1537_ex1_2.png" style="width: 198px; height: 248px;" /></strong></p>
 
 <pre>
 <strong>Input:</strong> n = 4, connections = [[0,1],[1,2],[2,0],[1,3]]

@@ -1,6 +1,6 @@
 # [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
 
-[中文文档](/solution/0700-0799/0724.Find%20Pivot%20Index/README.md)
+
 
 ## Description
 

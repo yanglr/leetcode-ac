@@ -1,6 +1,6 @@
 # [1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum)
 
-[中文文档](/solution/1000-1099/1043.Partition%20Array%20for%20Maximum%20Sum/README.md)
+
 
 ## Description
 

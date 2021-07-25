@@ -1,6 +1,6 @@
 # [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique)
 
-[中文文档](/solution/1400-1499/1487.Making%20File%20Names%20Unique/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1583. Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends)
 
-[中文文档](/solution/1500-1599/1583.Count%20Unhappy%20Friends/README.md)
+
 
 ## Description
 

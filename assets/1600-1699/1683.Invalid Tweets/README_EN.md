@@ -1,6 +1,6 @@
 # [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets)
 
-[中文文档](/solution/1600-1699/1683.Invalid%20Tweets/README.md)
+
 
 ## Description
 

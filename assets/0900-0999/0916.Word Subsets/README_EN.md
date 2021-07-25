@@ -1,6 +1,6 @@
 # [916. Word Subsets](https://leetcode.com/problems/word-subsets)
 
-[中文文档](/solution/0900-0999/0916.Word%20Subsets/README.md)
+
 
 ## Description
 

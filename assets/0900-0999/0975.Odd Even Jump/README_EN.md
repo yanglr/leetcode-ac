@@ -1,6 +1,6 @@
 # [975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump)
 
-[中文文档](/solution/0900-0999/0975.Odd%20Even%20Jump/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray)
 
-[中文文档](/solution/0900-0999/0918.Maximum%20Sum%20Circular%20Subarray/README.md)
+
 
 ## Description
 

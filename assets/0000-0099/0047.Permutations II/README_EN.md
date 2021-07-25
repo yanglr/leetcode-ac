@@ -1,6 +1,6 @@
 # [47. Permutations II](https://leetcode.com/problems/permutations-ii)
 
-[中文文档](/solution/0000-0099/0047.Permutations%20II/README.md)
+
 
 ## Description
 

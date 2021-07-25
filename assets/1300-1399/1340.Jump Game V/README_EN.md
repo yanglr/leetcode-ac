@@ -1,6 +1,6 @@
 # [1340. Jump Game V](https://leetcode.com/problems/jump-game-v)
 
-[中文文档](/solution/1300-1399/1340.Jump%20Game%20V/README.md)
+
 
 ## Description
 
@@ -31,7 +31,7 @@
 
 <p><strong>Example 1:</strong></p>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1300-1399/1340.Jump%20Game%20V/images/meta-chart.jpeg" style="width: 633px; height: 419px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1300-1399/1340.Jump%20Game%20V/images/meta-chart.jpeg" style="width: 633px; height: 419px;" />
 
 <pre>
 

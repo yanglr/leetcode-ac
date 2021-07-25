@@ -1,6 +1,6 @@
 # [1390. Four Divisors](https://leetcode.com/problems/four-divisors)
 
-[中文文档](/solution/1300-1399/1390.Four%20Divisors/README.md)
+
 
 ## Description
 

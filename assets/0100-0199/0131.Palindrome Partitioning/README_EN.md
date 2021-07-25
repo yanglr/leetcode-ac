@@ -1,6 +1,6 @@
 # [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
 
-[中文文档](/solution/0100-0199/0131.Palindrome%20Partitioning/README.md)
+
 
 ## Description
 

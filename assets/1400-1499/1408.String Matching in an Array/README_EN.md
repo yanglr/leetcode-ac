@@ -1,6 +1,6 @@
 # [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array)
 
-[中文文档](/solution/1400-1499/1408.String%20Matching%20in%20an%20Array/README.md)
+
 
 ## Description
 

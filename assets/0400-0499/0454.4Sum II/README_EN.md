@@ -1,6 +1,6 @@
 # [454. 4Sum II](https://leetcode.com/problems/4sum-ii)
 
-[中文文档](/solution/0400-0499/0454.4Sum%20II/README.md)
+
 
 ## Description
 

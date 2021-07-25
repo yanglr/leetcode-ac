@@ -1,6 +1,6 @@
 # [1436. Destination City](https://leetcode.com/problems/destination-city)
 
-[中文文档](/solution/1400-1499/1436.Destination%20City/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)
 
-[中文文档](/solution/0900-0999/0930.Binary%20Subarrays%20With%20Sum/README.md)
+
 
 ## Description
 

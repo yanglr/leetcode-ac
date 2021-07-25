@@ -1,6 +1,6 @@
 # [761. Special Binary String](https://leetcode.com/problems/special-binary-string)
 
-[中文文档](/solution/0700-0799/0761.Special%20Binary%20String/README.md)
+
 
 ## Description
 

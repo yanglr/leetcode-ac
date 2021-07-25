@@ -1,6 +1,6 @@
 # [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders)
 
-[中文文档](/solution/0900-0999/0909.Snakes%20and%20Ladders/README.md)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 <pre>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0909.Snakes%20and%20Ladders/images/snakes.png" style="width: 254px; height: 200px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0909.Snakes%20and%20Ladders/images/snakes.png" style="width: 254px; height: 200px;" />
 
 </pre>
 

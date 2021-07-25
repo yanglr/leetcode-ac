@@ -1,6 +1,6 @@
 # [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors)
 
-[中文文档](/solution/0800-0899/0823.Binary%20Trees%20With%20Factors/README.md)
+
 
 ## Description
 

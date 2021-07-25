@@ -1,6 +1,6 @@
 # [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet)
 
-[中文文档](/solution/1800-1899/1899.Merge%20Triplets%20to%20Form%20Target%20Triplet/README.md)
+
 
 ## Description
 

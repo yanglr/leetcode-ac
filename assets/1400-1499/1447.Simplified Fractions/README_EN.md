@@ -1,6 +1,6 @@
 # [1447. Simplified Fractions](https://leetcode.com/problems/simplified-fractions)
 
-[中文文档](/solution/1400-1499/1447.Simplified%20Fractions/README.md)
+
 
 ## Description
 

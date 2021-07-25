@@ -1,6 +1,6 @@
 # [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)
 
-[中文文档](/solution/0200-0299/0222.Count%20Complete%20Tree%20Nodes/README.md)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0200-0299/0222.Count%20Complete%20Tree%20Nodes/images/complete.jpg" style="width: 372px; height: 302px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0200-0299/0222.Count%20Complete%20Tree%20Nodes/images/complete.jpg" style="width: 372px; height: 302px;" />
 <pre>
 <strong>Input:</strong> root = [1,2,3,4,5,6]
 <strong>Output:</strong> 6

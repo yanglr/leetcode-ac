@@ -1,6 +1,6 @@
 # [1092. Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)
 
-[中文文档](/solution/1000-1099/1092.Shortest%20Common%20Supersequence/README.md)
+
 
 ## Description
 

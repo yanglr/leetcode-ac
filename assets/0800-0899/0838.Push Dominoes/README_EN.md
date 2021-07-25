@@ -1,6 +1,6 @@
 # [838. Push Dominoes](https://leetcode.com/problems/push-dominoes)
 
-[中文文档](/solution/0800-0899/0838.Push%20Dominoes/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0838.Push%20Dominoes/images/domino.png" style="height: 160px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0800-0899/0838.Push%20Dominoes/images/domino.png" style="height: 160px;" /></p>
 
 
 

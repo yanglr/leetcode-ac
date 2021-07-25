@@ -1,6 +1,6 @@
 # [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching)
 
-[中文文档](/solution/0000-0099/0044.Wildcard%20Matching/README.md)
+
 
 ## Description
 

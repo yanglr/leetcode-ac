@@ -1,6 +1,6 @@
 # [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island)
 
-[中文文档](/solution/0600-0699/0695.Max%20Area%20of%20Island/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [155. Min Stack](https://leetcode.com/problems/min-stack)
 
-[中文文档](/solution/0100-0199/0155.Min%20Stack/README.md)
+
 
 ## Description
 

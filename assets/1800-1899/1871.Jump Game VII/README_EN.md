@@ -1,6 +1,6 @@
 # [1871. Jump Game VII](https://leetcode.com/problems/jump-game-vii)
 
-[中文文档](/solution/1800-1899/1871.Jump%20Game%20VII/README.md)
+
 
 ## Description
 

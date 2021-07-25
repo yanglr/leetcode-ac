@@ -1,6 +1,6 @@
 # [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)
 
-[中文文档](/solution/0400-0499/0406.Queue%20Reconstruction%20by%20Height/README.md)
+
 
 ## Description
 

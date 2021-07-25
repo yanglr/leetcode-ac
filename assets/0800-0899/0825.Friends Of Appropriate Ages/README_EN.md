@@ -1,6 +1,6 @@
 # [825. Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages)
 
-[中文文档](/solution/0800-0899/0825.Friends%20Of%20Appropriate%20Ages/README.md)
+
 
 ## Description
 

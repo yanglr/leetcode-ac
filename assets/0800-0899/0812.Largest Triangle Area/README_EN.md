@@ -1,6 +1,6 @@
 # [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area)
 
-[中文文档](/solution/0800-0899/0812.Largest%20Triangle%20Area/README.md)
+
 
 ## Description
 
@@ -24,7 +24,7 @@ The five points are show in the figure below. The red triangle is the largest.
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0812.Largest%20Triangle%20Area/images/1027.png" style="height:328px; width:400px" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0800-0899/0812.Largest%20Triangle%20Area/images/1027.png" style="height:328px; width:400px" /></p>
 
 
 

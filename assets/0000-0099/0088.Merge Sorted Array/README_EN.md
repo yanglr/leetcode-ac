@@ -1,6 +1,6 @@
 # [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 
-[中文文档](/solution/0000-0099/0088.Merge%20Sorted%20Array/README.md)
+
 
 ## Description
 

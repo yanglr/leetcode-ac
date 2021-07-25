@@ -1,6 +1,6 @@
 # [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array)
 
-[中文文档](/solution/1100-1199/1122.Relative%20Sort%20Array/README.md)
+
 
 ## Description
 

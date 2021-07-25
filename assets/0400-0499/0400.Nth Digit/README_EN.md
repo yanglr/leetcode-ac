@@ -1,6 +1,6 @@
 # [400. Nth Digit](https://leetcode.com/problems/nth-digit)
 
-[中文文档](/solution/0400-0499/0400.Nth%20Digit/README.md)
+
 
 ## Description
 

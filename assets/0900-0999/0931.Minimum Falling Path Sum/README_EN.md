@@ -1,6 +1,6 @@
 # [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)
 
-[中文文档](/solution/0900-0999/0931.Minimum%20Falling%20Path%20Sum/README.md)
+
 
 ## Description
 

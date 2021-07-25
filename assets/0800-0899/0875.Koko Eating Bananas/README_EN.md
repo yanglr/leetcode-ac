@@ -1,6 +1,6 @@
 # [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)
 
-[中文文档](/solution/0800-0899/0875.Koko%20Eating%20Bananas/README.md)
+
 
 ## Description
 

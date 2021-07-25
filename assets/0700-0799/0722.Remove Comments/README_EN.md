@@ -1,6 +1,6 @@
 # [722. Remove Comments](https://leetcode.com/problems/remove-comments)
 
-[中文文档](/solution/0700-0799/0722.Remove%20Comments/README.md)
+
 
 ## Description
 

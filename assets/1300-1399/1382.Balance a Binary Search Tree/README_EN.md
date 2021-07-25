@@ -1,6 +1,6 @@
 # [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
 
-[中文文档](/solution/1300-1399/1382.Balance%20a%20Binary%20Search%20Tree/README.md)
+
 
 ## Description
 
@@ -22,7 +22,7 @@
 
 
 
-<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1300-1399/1382.Balance%20a%20Binary%20Search%20Tree/images/1515_ex1.png" style="width: 250px; height: 248px;" /><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1300-1399/1382.Balance%20a%20Binary%20Search%20Tree/images/1515_ex1_out.png" style="width: 200px; height: 200px;" /></strong></p>
+<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1300-1399/1382.Balance%20a%20Binary%20Search%20Tree/images/1515_ex1.png" style="width: 250px; height: 248px;" /><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1300-1399/1382.Balance%20a%20Binary%20Search%20Tree/images/1515_ex1_out.png" style="width: 200px; height: 200px;" /></strong></p>
 
 
 

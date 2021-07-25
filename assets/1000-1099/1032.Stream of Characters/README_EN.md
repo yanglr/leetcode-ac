@@ -1,6 +1,6 @@
 # [1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters)
 
-[中文文档](/solution/1000-1099/1032.Stream%20of%20Characters/README.md)
+
 
 ## Description
 

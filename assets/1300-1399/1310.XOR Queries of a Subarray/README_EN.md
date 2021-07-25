@@ -1,6 +1,6 @@
 # [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray)
 
-[中文文档](/solution/1300-1399/1310.XOR%20Queries%20of%20a%20Subarray/README.md)
+
 
 ## Description
 

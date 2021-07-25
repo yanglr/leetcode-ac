@@ -1,6 +1,6 @@
 # [274. H-Index](https://leetcode.com/problems/h-index)
 
-[中文文档](/solution/0200-0299/0274.H-Index/README.md)
+
 
 ## Description
 

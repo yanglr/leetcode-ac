@@ -1,6 +1,6 @@
 # [178. Rank Scores](https://leetcode.com/problems/rank-scores)
 
-[中文文档](/solution/0100-0199/0178.Rank%20Scores/README.md)
+
 
 ## Description
 

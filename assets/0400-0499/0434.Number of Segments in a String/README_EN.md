@@ -1,6 +1,6 @@
 # [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)
 
-[中文文档](/solution/0400-0499/0434.Number%20of%20Segments%20in%20a%20String/README.md)
+
 
 ## Description
 

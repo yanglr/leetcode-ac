@@ -1,6 +1,6 @@
 # [525. Contiguous Array](https://leetcode.com/problems/contiguous-array)
 
-[中文文档](/solution/0500-0599/0525.Contiguous%20Array/README.md)
+
 
 ## Description
 

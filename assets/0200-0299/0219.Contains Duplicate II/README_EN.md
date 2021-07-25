@@ -1,6 +1,6 @@
 # [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)
 
-[中文文档](/solution/0200-0299/0219.Contains%20Duplicate%20II/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically)
 
-[中文文档](/solution/1300-1399/1324.Print%20Words%20Vertically/README.md)
+
 
 ## Description
 

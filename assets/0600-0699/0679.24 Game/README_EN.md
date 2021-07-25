@@ -1,6 +1,6 @@
 # [679. 24 Game](https://leetcode.com/problems/24-game)
 
-[中文文档](/solution/0600-0699/0679.24%20Game/README.md)
+
 
 ## Description
 

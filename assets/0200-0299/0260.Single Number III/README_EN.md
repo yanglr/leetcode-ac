@@ -1,6 +1,6 @@
 # [260. Single Number III](https://leetcode.com/problems/single-number-iii)
 
-[中文文档](/solution/0200-0299/0260.Single%20Number%20III/README.md)
+
 
 ## Description
 

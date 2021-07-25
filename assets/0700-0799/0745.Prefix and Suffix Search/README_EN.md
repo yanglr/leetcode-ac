@@ -1,6 +1,6 @@
 # [745. Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)
 
-[中文文档](/solution/0700-0799/0745.Prefix%20and%20Suffix%20Search/README.md)
+
 
 ## Description
 

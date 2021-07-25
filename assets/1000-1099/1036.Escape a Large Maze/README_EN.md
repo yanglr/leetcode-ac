@@ -1,6 +1,6 @@
 # [1036. Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze)
 
-[中文文档](/solution/1000-1099/1036.Escape%20a%20Large%20Maze/README.md)
+
 
 ## Description
 

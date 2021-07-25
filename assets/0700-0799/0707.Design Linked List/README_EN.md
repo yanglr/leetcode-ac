@@ -1,6 +1,6 @@
 # [707. Design Linked List](https://leetcode.com/problems/design-linked-list)
 
-[中文文档](/solution/0700-0799/0707.Design%20Linked%20List/README.md)
+
 
 ## Description
 

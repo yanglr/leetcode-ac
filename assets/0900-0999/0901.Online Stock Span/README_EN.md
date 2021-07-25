@@ -1,6 +1,6 @@
 # [901. Online Stock Span](https://leetcode.com/problems/online-stock-span)
 
-[中文文档](/solution/0900-0999/0901.Online%20Stock%20Span/README.md)
+
 
 ## Description
 

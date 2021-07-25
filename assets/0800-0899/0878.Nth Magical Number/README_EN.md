@@ -1,6 +1,6 @@
 # [878. Nth Magical Number](https://leetcode.com/problems/nth-magical-number)
 
-[中文文档](/solution/0800-0899/0878.Nth%20Magical%20Number/README.md)
+
 
 ## Description
 

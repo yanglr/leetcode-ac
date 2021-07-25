@@ -1,6 +1,6 @@
 # [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations)
 
-[中文文档](/solution/1400-1499/1441.Build%20an%20Array%20With%20Stack%20Operations/README.md)
+
 
 ## Description
 

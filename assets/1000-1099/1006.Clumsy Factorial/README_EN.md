@@ -1,6 +1,6 @@
 # [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial)
 
-[中文文档](/solution/1000-1099/1006.Clumsy%20Factorial/README.md)
+
 
 ## Description
 

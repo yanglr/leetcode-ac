@@ -1,6 +1,6 @@
 # [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 
-[中文文档](/solution/0200-0299/0239.Sliding%20Window%20Maximum/README.md)
+
 
 ## Description
 

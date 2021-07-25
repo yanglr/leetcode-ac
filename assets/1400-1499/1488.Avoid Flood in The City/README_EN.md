@@ -1,6 +1,6 @@
 # [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city)
 
-[中文文档](/solution/1400-1499/1488.Avoid%20Flood%20in%20The%20City/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [68. Text Justification](https://leetcode.com/problems/text-justification)
 
-[中文文档](/solution/0000-0099/0068.Text%20Justification/README.md)
+
 
 ## Description
 

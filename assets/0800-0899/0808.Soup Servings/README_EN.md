@@ -1,6 +1,6 @@
 # [808. Soup Servings](https://leetcode.com/problems/soup-servings)
 
-[中文文档](/solution/0800-0899/0808.Soup%20Servings/README.md)
+
 
 ## Description
 

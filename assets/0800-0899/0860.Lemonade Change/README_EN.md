@@ -1,6 +1,6 @@
 # [860. Lemonade Change](https://leetcode.com/problems/lemonade-change)
 
-[中文文档](/solution/0800-0899/0860.Lemonade%20Change/README.md)
+
 
 ## Description
 

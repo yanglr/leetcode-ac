@@ -1,6 +1,6 @@
 # [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference)
 
-[中文文档](/solution/0500-0599/0539.Minimum%20Time%20Difference/README.md)
+
 
 ## Description
 

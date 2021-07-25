@@ -1,6 +1,6 @@
 # [794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state)
 
-[中文文档](/solution/0700-0799/0794.Valid%20Tic-Tac-Toe%20State/README.md)
+
 
 ## Description
 

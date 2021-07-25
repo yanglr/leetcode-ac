@@ -1,6 +1,6 @@
 # [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples)
 
-[中文文档](/solution/1900-1999/1925.Count%20Square%20Sum%20Triples/README.md)
+
 
 ## Description
 

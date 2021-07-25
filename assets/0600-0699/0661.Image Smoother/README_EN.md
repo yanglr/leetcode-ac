@@ -1,6 +1,6 @@
 # [661. Image Smoother](https://leetcode.com/problems/image-smoother)
 
-[中文文档](/solution/0600-0699/0661.Image%20Smoother/README.md)
+
 
 ## Description
 

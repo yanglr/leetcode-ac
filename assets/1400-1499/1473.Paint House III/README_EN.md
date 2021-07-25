@@ -1,6 +1,6 @@
 # [1473. Paint House III](https://leetcode.com/problems/paint-house-iii)
 
-[中文文档](/solution/1400-1499/1473.Paint%20House%20III/README.md)
+
 
 ## Description
 

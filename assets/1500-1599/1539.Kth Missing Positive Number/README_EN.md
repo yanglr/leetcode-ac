@@ -1,6 +1,6 @@
 # [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)
 
-[中文文档](/solution/1500-1599/1539.Kth%20Missing%20Positive%20Number/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities)
 
-[中文文档](/solution/1000-1099/1079.Letter%20Tile%20Possibilities/README.md)
+
 
 ## Description
 

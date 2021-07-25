@@ -1,6 +1,6 @@
 # [690. Employee Importance](https://leetcode.com/problems/employee-importance)
 
-[中文文档](/solution/0600-0699/0690.Employee%20Importance/README.md)
+
 
 ## Description
 

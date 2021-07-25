@@ -1,6 +1,6 @@
 # [780. Reaching Points](https://leetcode.com/problems/reaching-points)
 
-[中文文档](/solution/0700-0799/0780.Reaching%20Points/README.md)
+
 
 ## Description
 

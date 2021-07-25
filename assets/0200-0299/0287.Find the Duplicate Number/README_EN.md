@@ -1,6 +1,6 @@
 # [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
 
-[中文文档](/solution/0200-0299/0287.Find%20the%20Duplicate%20Number/README.md)
+
 
 ## Description
 

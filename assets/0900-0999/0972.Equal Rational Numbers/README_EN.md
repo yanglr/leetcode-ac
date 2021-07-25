@@ -1,6 +1,6 @@
 # [972. Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers)
 
-[中文文档](/solution/0900-0999/0972.Equal%20Rational%20Numbers/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst)
 
-[中文文档](/solution/0400-0499/0449.Serialize%20and%20Deserialize%20BST/README.md)
+
 
 ## Description
 

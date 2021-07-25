@@ -1,6 +1,6 @@
 # [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
 
-[中文文档](/solution/0900-0999/0997.Find%20the%20Town%20Judge/README.md)
+
 
 ## Description
 

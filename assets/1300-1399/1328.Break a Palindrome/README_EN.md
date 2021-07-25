@@ -1,6 +1,6 @@
 # [1328. Break a Palindrome](https://leetcode.com/problems/break-a-palindrome)
 
-[中文文档](/solution/1300-1399/1328.Break%20a%20Palindrome/README.md)
+
 
 ## Description
 

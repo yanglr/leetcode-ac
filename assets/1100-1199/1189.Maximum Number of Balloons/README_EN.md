@@ -1,6 +1,6 @@
 # [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)
 
-[中文文档](/solution/1100-1199/1189.Maximum%20Number%20of%20Balloons/README.md)
+
 
 ## Description
 
@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1100-1199/1189.Maximum%20Number%20of%20Balloons/images/1536_ex1_upd.jpeg" style="width: 132px; height: 35px;" /></strong></p>
+<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1100-1199/1189.Maximum%20Number%20of%20Balloons/images/1536_ex1_upd.jpeg" style="width: 132px; height: 35px;" /></strong></p>
 
 <pre>
 <strong>Input:</strong> text = &quot;nlaebolko&quot;
@@ -20,7 +20,7 @@
 
 <p><strong>Example 2:</strong></p>
 
-<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1100-1199/1189.Maximum%20Number%20of%20Balloons/images/1536_ex2_upd.jpeg" style="width: 267px; height: 35px;" /></strong></p>
+<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1100-1199/1189.Maximum%20Number%20of%20Balloons/images/1536_ex2_upd.jpeg" style="width: 267px; height: 35px;" /></strong></p>
 
 <pre>
 <strong>Input:</strong> text = &quot;loonbalxballpoon&quot;

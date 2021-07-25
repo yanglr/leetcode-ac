@@ -1,6 +1,6 @@
 # [344. Reverse String](https://leetcode.com/problems/reverse-string)
 
-[中文文档](/solution/0300-0399/0344.Reverse%20String/README.md)
+
 
 ## Description
 

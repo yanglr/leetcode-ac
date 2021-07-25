@@ -1,6 +1,6 @@
 # [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps)
 
-[中文文档](/solution/1200-1299/1202.Smallest%20String%20With%20Swaps/README.md)
+
 
 ## Description
 

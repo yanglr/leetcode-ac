@@ -1,6 +1,6 @@
 # [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
 
-[中文文档](/solution/0300-0399/0392.Is%20Subsequence/README.md)
+
 
 ## Description
 

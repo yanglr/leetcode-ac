@@ -1,6 +1,6 @@
 # [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 
-[中文文档](/solution/0000-0099/0070.Climbing%20Stairs/README.md)
+
 
 ## Description
 

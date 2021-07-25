@@ -1,6 +1,6 @@
 # [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)
 
-[中文文档](/solution/0200-0299/0214.Shortest%20Palindrome/README.md)
+
 
 ## Description
 

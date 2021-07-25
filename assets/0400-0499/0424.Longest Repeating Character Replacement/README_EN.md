@@ -1,6 +1,6 @@
 # [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement)
 
-[中文文档](/solution/0400-0499/0424.Longest%20Repeating%20Character%20Replacement/README.md)
+
 
 ## Description
 

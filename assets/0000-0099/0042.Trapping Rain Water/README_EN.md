@@ -1,6 +1,6 @@
 # [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
 
-[中文文档](/solution/0000-0099/0042.Trapping%20Rain%20Water/README.md)
+
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0042.Trapping%20Rain%20Water/images/rainwatertrap.png" style="width: 412px; height: 161px;" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0042.Trapping%20Rain%20Water/images/rainwatertrap.png" style="width: 412px; height: 161px;" />
 <pre>
 <strong>Input:</strong> height = [0,1,0,2,1,0,1,3,2,1,2,1]
 <strong>Output:</strong> 6

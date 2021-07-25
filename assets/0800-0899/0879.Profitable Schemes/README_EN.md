@@ -1,6 +1,6 @@
 # [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes)
 
-[中文文档](/solution/0800-0899/0879.Profitable%20Schemes/README.md)
+
 
 ## Description
 

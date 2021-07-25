@@ -1,6 +1,6 @@
 # [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 
-[中文文档](/solution/0000-0099/0053.Maximum%20Subarray/README.md)
+
 
 ## Description
 

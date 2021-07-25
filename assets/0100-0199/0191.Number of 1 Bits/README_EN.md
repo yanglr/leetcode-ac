@@ -1,6 +1,6 @@
 # [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 
-[中文文档](/solution/0100-0199/0191.Number%20of%201%20Bits/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)
 
-[中文文档](/solution/0700-0799/0725.Split%20Linked%20List%20in%20Parts/README.md)
+
 
 ## Description
 

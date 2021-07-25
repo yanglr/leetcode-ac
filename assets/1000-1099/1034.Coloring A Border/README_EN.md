@@ -1,6 +1,6 @@
 # [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border)
 
-[中文文档](/solution/1000-1099/1034.Coloring%20A%20Border/README.md)
+
 
 ## Description
 

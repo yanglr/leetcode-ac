@@ -1,6 +1,6 @@
 # [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings)
 
-[中文文档](/solution/1400-1499/1400.Construct%20K%20Palindrome%20Strings/README.md)
+
 
 ## Description
 

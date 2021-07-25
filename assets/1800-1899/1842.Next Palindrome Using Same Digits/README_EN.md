@@ -1,6 +1,6 @@
 # [1842. Next Palindrome Using Same Digits](https://leetcode.com/problems/next-palindrome-using-same-digits)
 
-[中文文档](/solution/1800-1899/1842.Next%20Palindrome%20Using%20Same%20Digits/README.md)
+
 
 ## Description
 

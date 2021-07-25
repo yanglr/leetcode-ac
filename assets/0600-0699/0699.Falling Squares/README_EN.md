@@ -1,6 +1,6 @@
 # [699. Falling Squares](https://leetcode.com/problems/falling-squares)
 
-[中文文档](/solution/0600-0699/0699.Falling%20Squares/README.md)
+
 
 ## Description
 

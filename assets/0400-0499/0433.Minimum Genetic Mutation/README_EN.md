@@ -1,6 +1,6 @@
 # [433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation)
 
-[中文文档](/solution/0400-0499/0433.Minimum%20Genetic%20Mutation/README.md)
+
 
 ## Description
 

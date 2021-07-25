@@ -1,6 +1,6 @@
 # [576. Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)
 
-[中文文档](/solution/0500-0599/0576.Out%20of%20Boundary%20Paths/README.md)
+
 
 ## Description
 
@@ -24,7 +24,7 @@
 
 <b>Explanation:</b>
 
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0576.Out%20of%20Boundary%20Paths/images/out_of_boundary_paths_1.png" style="width: 100%; max-width: 400px" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0576.Out%20of%20Boundary%20Paths/images/out_of_boundary_paths_1.png" style="width: 100%; max-width: 400px" />
 
 </pre>
 
@@ -42,7 +42,7 @@
 
 <b>Explanation:</b>
 
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0576.Out%20of%20Boundary%20Paths/images/out_of_boundary_paths_2.png" style="width: 100%; max-width: 400px" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0576.Out%20of%20Boundary%20Paths/images/out_of_boundary_paths_2.png" style="width: 100%; max-width: 400px" />
 
 </pre>
 

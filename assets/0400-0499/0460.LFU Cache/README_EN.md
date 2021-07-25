@@ -1,6 +1,6 @@
 # [460. LFU Cache](https://leetcode.com/problems/lfu-cache)
 
-[中文文档](/solution/0400-0499/0460.LFU%20Cache/README.md)
+
 
 ## Description
 

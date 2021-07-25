@@ -1,6 +1,6 @@
 # [593. Valid Square](https://leetcode.com/problems/valid-square)
 
-[中文文档](/solution/0500-0599/0593.Valid%20Square/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name)
 
-[中文文档](/solution/0900-0999/0925.Long%20Pressed%20Name/README.md)
+
 
 ## Description
 

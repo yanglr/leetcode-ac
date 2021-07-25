@@ -1,6 +1,6 @@
 # [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers)
 
-[中文文档](/solution/0900-0999/0992.Subarrays%20with%20K%20Different%20Integers/README.md)
+
 
 ## Description
 

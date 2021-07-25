@@ -1,6 +1,6 @@
 # [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)
 
-[中文文档](/solution/0000-0099/0064.Minimum%20Path%20Sum/README.md)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0064.Minimum%20Path%20Sum/images/minpath.jpg" style="width: 242px; height: 242px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0064.Minimum%20Path%20Sum/images/minpath.jpg" style="width: 242px; height: 242px;" />
 <pre>
 <strong>Input:</strong> grid = [[1,3,1],[1,5,1],[4,2,1]]
 <strong>Output:</strong> 7

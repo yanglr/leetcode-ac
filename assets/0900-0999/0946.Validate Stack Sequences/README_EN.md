@@ -1,6 +1,6 @@
 # [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences)
 
-[中文文档](/solution/0900-0999/0946.Validate%20Stack%20Sequences/README.md)
+
 
 ## Description
 

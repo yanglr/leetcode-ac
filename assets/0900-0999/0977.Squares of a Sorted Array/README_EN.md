@@ -1,6 +1,6 @@
 # [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 
-[中文文档](/solution/0900-0999/0977.Squares%20of%20a%20Sorted%20Array/README.md)
+
 
 ## Description
 

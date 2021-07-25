@@ -1,6 +1,6 @@
 # [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)
 
-[中文文档](/solution/0800-0899/0806.Number%20of%20Lines%20To%20Write%20String/README.md)
+
 
 ## Description
 

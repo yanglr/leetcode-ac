@@ -1,6 +1,6 @@
 # [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island)
 
-[中文文档](/solution/1500-1599/1568.Minimum%20Number%20of%20Days%20to%20Disconnect%20Island/README.md)
+
 
 ## Description
 
@@ -15,7 +15,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1500-1599/1568.Minimum%20Number%20of%20Days%20to%20Disconnect%20Island/images/1926_island.png" style="width: 498px; height: 139px;" /></strong></p>
+<p><strong><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1500-1599/1568.Minimum%20Number%20of%20Days%20to%20Disconnect%20Island/images/1926_island.png" style="width: 498px; height: 139px;" /></strong></p>
 
 <pre>
 <strong>Input:</strong> grid = [[0,1,1,0],[0,1,1,0],[0,0,0,0]]

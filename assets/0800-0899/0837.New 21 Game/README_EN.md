@@ -1,6 +1,6 @@
 # [837. New 21 Game](https://leetcode.com/problems/new-21-game)
 
-[中文文档](/solution/0800-0899/0837.New%2021%20Game/README.md)
+
 
 ## Description
 

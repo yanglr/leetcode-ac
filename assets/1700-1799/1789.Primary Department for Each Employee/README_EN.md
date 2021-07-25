@@ -1,6 +1,6 @@
 # [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee)
 
-[中文文档](/solution/1700-1799/1789.Primary%20Department%20for%20Each%20Employee/README.md)
+
 
 ## Description
 

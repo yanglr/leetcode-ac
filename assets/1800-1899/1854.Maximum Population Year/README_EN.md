@@ -1,6 +1,6 @@
 # [1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year)
 
-[中文文档](/solution/1800-1899/1854.Maximum%20Population%20Year/README.md)
+
 
 ## Description
 

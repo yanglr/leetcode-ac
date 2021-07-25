@@ -1,6 +1,6 @@
 # [292. Nim Game](https://leetcode.com/problems/nim-game)
 
-[中文文档](/solution/0200-0299/0292.Nim%20Game/README.md)
+
 
 ## Description
 

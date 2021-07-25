@@ -1,6 +1,6 @@
 # [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number)
 
-[中文文档](/solution/0400-0499/0414.Third%20Maximum%20Number/README.md)
+
 
 ## Description
 

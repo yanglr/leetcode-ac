@@ -1,6 +1,6 @@
 # [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix)
 
-[中文文档](/solution/0800-0899/0867.Transpose%20Matrix/README.md)
+
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 <p>The <strong>transpose</strong> of a matrix is the matrix flipped over its main diagonal, switching the matrix&#39;s row and column indices.</p>
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0867.Transpose%20Matrix/images/hint_transpose.png" style="width: 600px; height: 197px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0800-0899/0867.Transpose%20Matrix/images/hint_transpose.png" style="width: 600px; height: 197px;" /></p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>

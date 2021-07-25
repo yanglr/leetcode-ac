@@ -1,6 +1,6 @@
 # [463. Island Perimeter](https://leetcode.com/problems/island-perimeter)
 
-[中文文档](/solution/0400-0499/0463.Island%20Perimeter/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0400-0499/0463.Island%20Perimeter/images/island.png" style="width: 221px; height: 213px;" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0400-0499/0463.Island%20Perimeter/images/island.png" style="width: 221px; height: 213px;" />
 <pre>
 <strong>Input:</strong> grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]
 <strong>Output:</strong> 16

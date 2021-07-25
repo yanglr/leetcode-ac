@@ -1,6 +1,6 @@
 # [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence)
 
-[中文文档](/solution/1400-1499/1451.Rearrange%20Words%20in%20a%20Sentence/README.md)
+
 
 ## Description
 

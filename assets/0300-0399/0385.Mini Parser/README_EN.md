@@ -1,6 +1,6 @@
 # [385. Mini Parser](https://leetcode.com/problems/mini-parser)
 
-[中文文档](/solution/0300-0399/0385.Mini%20Parser/README.md)
+
 
 ## Description
 

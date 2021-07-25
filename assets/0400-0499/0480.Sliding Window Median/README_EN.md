@@ -1,6 +1,6 @@
 # [480. Sliding Window Median](https://leetcode.com/problems/sliding-window-median)
 
-[中文文档](/solution/0400-0499/0480.Sliding%20Window%20Median/README.md)
+
 
 ## Description
 

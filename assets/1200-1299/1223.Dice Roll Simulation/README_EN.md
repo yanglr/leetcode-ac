@@ -1,6 +1,6 @@
 # [1223. Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation)
 
-[中文文档](/solution/1200-1299/1223.Dice%20Roll%20Simulation/README.md)
+
 
 ## Description
 

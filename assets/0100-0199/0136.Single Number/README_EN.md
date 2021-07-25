@@ -1,6 +1,6 @@
 # [136. Single Number](https://leetcode.com/problems/single-number)
 
-[中文文档](/solution/0100-0199/0136.Single%20Number/README.md)
+
 
 ## Description
 

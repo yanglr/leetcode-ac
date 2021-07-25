@@ -1,6 +1,6 @@
 # [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)
 
-[中文文档](/solution/0200-0299/0299.Bulls%20and%20Cows/README.md)
+
 
 ## Description
 

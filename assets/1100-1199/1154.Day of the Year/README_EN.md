@@ -1,6 +1,6 @@
 # [1154. Day of the Year](https://leetcode.com/problems/day-of-the-year)
 
-[中文文档](/solution/1100-1199/1154.Day%20of%20the%20Year/README.md)
+
 
 ## Description
 

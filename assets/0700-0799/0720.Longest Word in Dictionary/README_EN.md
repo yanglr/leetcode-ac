@@ -1,6 +1,6 @@
 # [720. Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
 
-[中文文档](/solution/0700-0799/0720.Longest%20Word%20in%20Dictionary/README.md)
+
 
 ## Description
 

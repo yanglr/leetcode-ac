@@ -1,6 +1,6 @@
 # [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal)
 
-[中文文档](/solution/0100-0199/0166.Fraction%20to%20Recurring%20Decimal/README.md)
+
 
 ## Description
 

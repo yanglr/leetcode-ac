@@ -1,6 +1,6 @@
 # [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence)
 
-[中文文档](/solution/1800-1899/1859.Sorting%20the%20Sentence/README.md)
+
 
 ## Description
 

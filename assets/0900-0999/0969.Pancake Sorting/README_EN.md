@@ -1,6 +1,6 @@
 # [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting)
 
-[中文文档](/solution/0900-0999/0969.Pancake%20Sorting/README.md)
+
 
 ## Description
 

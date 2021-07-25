@@ -1,6 +1,6 @@
 # [919. Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter)
 
-[中文文档](/solution/0900-0999/0919.Complete%20Binary%20Tree%20Inserter/README.md)
+
 
 ## Description
 

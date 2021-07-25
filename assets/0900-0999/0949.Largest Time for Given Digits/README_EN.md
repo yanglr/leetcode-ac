@@ -1,6 +1,6 @@
 # [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits)
 
-[中文文档](/solution/0900-0999/0949.Largest%20Time%20for%20Given%20Digits/README.md)
+
 
 ## Description
 

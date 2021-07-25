@@ -1,6 +1,6 @@
 # [1392. Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix)
 
-[中文文档](/solution/1300-1399/1392.Longest%20Happy%20Prefix/README.md)
+
 
 ## Description
 

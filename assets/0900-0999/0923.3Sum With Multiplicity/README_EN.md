@@ -1,6 +1,6 @@
 # [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)
 
-[中文文档](/solution/0900-0999/0923.3Sum%20With%20Multiplicity/README.md)
+
 
 ## Description
 

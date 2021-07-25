@@ -1,6 +1,6 @@
 # [204. Count Primes](https://leetcode.com/problems/count-primes)
 
-[中文文档](/solution/0200-0299/0204.Count%20Primes/README.md)
+
 
 ## Description
 

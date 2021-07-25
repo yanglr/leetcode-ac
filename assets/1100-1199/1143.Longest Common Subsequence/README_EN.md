@@ -1,6 +1,6 @@
 # [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
 
-[中文文档](/solution/1100-1199/1143.Longest%20Common%20Subsequence/README.md)
+
 
 ## Description
 

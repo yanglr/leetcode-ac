@@ -1,6 +1,6 @@
 # [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
 
-[中文文档](/solution/0000-0099/0096.Unique%20Binary%20Search%20Trees/README.md)
+
 
 ## Description
 
@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0096.Unique%20Binary%20Search%20Trees/images/uniquebstn3.jpg" style="width: 600px; height: 148px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0096.Unique%20Binary%20Search%20Trees/images/uniquebstn3.jpg" style="width: 600px; height: 148px;" />
 <pre>
 <strong>Input:</strong> n = 3
 <strong>Output:</strong> 5

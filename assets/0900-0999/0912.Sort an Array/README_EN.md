@@ -1,6 +1,6 @@
 # [912. Sort an Array](https://leetcode.com/problems/sort-an-array)
 
-[中文文档](/solution/0900-0999/0912.Sort%20an%20Array/README.md)
+
 
 ## Description
 

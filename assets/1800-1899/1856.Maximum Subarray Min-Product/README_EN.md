@@ -1,6 +1,6 @@
 # [1856. Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product)
 
-[中文文档](/solution/1800-1899/1856.Maximum%20Subarray%20Min-Product/README.md)
+
 
 ## Description
 

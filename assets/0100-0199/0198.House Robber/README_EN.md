@@ -1,6 +1,6 @@
 # [198. House Robber](https://leetcode.com/problems/house-robber)
 
-[中文文档](/solution/0100-0199/0198.House%20Robber/README.md)
+
 
 ## Description
 

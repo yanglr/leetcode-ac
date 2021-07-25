@@ -1,6 +1,6 @@
 # [1393. Capital GainLoss](https://leetcode.com/problems/capital-gainloss)
 
-[中文文档](/solution/1300-1399/1393.Capital%20GainLoss/README.md)
+
 
 ## Description
 

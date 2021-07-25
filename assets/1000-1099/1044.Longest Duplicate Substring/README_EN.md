@@ -1,6 +1,6 @@
 # [1044. Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring)
 
-[中文文档](/solution/1000-1099/1044.Longest%20Duplicate%20Substring/README.md)
+
 
 ## Description
 

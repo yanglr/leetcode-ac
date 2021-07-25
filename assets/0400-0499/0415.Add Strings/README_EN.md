@@ -1,6 +1,6 @@
 # [415. Add Strings](https://leetcode.com/problems/add-strings)
 
-[中文文档](/solution/0400-0499/0415.Add%20Strings/README.md)
+
 
 ## Description
 

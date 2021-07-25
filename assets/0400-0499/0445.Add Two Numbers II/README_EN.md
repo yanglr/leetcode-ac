@@ -1,6 +1,6 @@
 # [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii)
 
-[中文文档](/solution/0400-0499/0445.Add%20Two%20Numbers%20II/README.md)
+
 
 ## Description
 
@@ -10,7 +10,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0400-0499/0445.Add%20Two%20Numbers%20II/images/sumii-linked-list.jpg" style="width: 523px; height: 342px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0400-0499/0445.Add%20Two%20Numbers%20II/images/sumii-linked-list.jpg" style="width: 523px; height: 342px;" />
 <pre>
 <strong>Input:</strong> l1 = [7,2,4,3], l2 = [5,6,4]
 <strong>Output:</strong> [7,8,0,7]

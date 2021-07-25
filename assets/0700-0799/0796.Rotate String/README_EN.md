@@ -1,6 +1,6 @@
 # [796. Rotate String](https://leetcode.com/problems/rotate-string)
 
-[中文文档](/solution/0700-0799/0796.Rotate%20String/README.md)
+
 
 ## Description
 

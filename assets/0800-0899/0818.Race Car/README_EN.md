@@ -1,6 +1,6 @@
 # [818. Race Car](https://leetcode.com/problems/race-car)
 
-[中文文档](/solution/0800-0899/0818.Race%20Car/README.md)
+
 
 ## Description
 

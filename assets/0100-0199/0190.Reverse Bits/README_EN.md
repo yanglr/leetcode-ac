@@ -1,6 +1,6 @@
 # [190. Reverse Bits](https://leetcode.com/problems/reverse-bits)
 
-[中文文档](/solution/0100-0199/0190.Reverse%20Bits/README.md)
+
 
 ## Description
 

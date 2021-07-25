@@ -1,6 +1,6 @@
 # [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query)
 
-[中文文档](/solution/1800-1899/1829.Maximum%20XOR%20for%20Each%20Query/README.md)
+
 
 ## Description
 

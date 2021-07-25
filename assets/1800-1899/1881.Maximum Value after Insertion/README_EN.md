@@ -1,6 +1,6 @@
 # [1881. Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion)
 
-[中文文档](/solution/1800-1899/1881.Maximum%20Value%20after%20Insertion/README.md)
+
 
 ## Description
 

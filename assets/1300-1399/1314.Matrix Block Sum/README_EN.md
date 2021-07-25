@@ -1,6 +1,6 @@
 # [1314. Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)
 
-[中文文档](/solution/1300-1399/1314.Matrix%20Block%20Sum/README.md)
+
 
 ## Description
 

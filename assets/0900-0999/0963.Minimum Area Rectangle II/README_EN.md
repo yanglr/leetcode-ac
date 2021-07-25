@@ -1,6 +1,6 @@
 # [963. Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii)
 
-[中文文档](/solution/0900-0999/0963.Minimum%20Area%20Rectangle%20II/README.md)
+
 
 ## Description
 
@@ -20,7 +20,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/1a.png" style="width: 150px; height: 151px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/1a.png" style="width: 150px; height: 151px;" /></p>
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/2.png" style="width: 150px; height: 94px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/2.png" style="width: 150px; height: 94px;" /></p>
 
 
 
@@ -64,7 +64,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/3.png" style="width: 160px; height: 167px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/3.png" style="width: 160px; height: 167px;" /></p>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/4c.png" style="width: 160px; height: 155px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0963.Minimum%20Area%20Rectangle%20II/images/4c.png" style="width: 160px; height: 155px;" /></p>
 
 
 

@@ -1,6 +1,6 @@
 # [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)
 
-[中文文档](/solution/0900-0999/0941.Valid%20Mountain%20Array/README.md)
+
 
 ## Description
 
@@ -17,7 +17,7 @@
 	</ul>
 	</li>
 </ul>
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0900-0999/0941.Valid%20Mountain%20Array/images/hint_valid_mountain_array.png" width="500" />
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0900-0999/0941.Valid%20Mountain%20Array/images/hint_valid_mountain_array.png" width="500" />
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <pre><strong>Input:</strong> arr = [2,1]

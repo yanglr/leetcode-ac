@@ -1,6 +1,6 @@
 # [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii)
 
-[中文文档](/solution/0000-0099/0063.Unique%20Paths%20II/README.md)
+
 
 ## Description
 
@@ -14,7 +14,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0063.Unique%20Paths%20II/images/robot1.jpg" style="width: 242px; height: 242px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0063.Unique%20Paths%20II/images/robot1.jpg" style="width: 242px; height: 242px;" />
 <pre>
 <strong>Input:</strong> obstacleGrid = [[0,0,0],[0,1,0],[0,0,0]]
 <strong>Output:</strong> 2
@@ -25,7 +25,7 @@ There are two ways to reach the bottom-right corner:
 </pre>
 
 <p><strong>Example 2:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0000-0099/0063.Unique%20Paths%20II/images/robot2.jpg" style="width: 162px; height: 162px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0000-0099/0063.Unique%20Paths%20II/images/robot2.jpg" style="width: 162px; height: 162px;" />
 <pre>
 <strong>Input:</strong> obstacleGrid = [[0,1],[0,0]]
 <strong>Output:</strong> 1

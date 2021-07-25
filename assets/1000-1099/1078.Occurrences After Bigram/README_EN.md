@@ -1,6 +1,6 @@
 # [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram)
 
-[中文文档](/solution/1000-1099/1078.Occurrences%20After%20Bigram/README.md)
+
 
 ## Description
 

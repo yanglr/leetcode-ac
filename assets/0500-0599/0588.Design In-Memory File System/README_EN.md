@@ -1,6 +1,6 @@
 # [588. Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)
 
-[中文文档](/solution/0500-0599/0588.Design%20In-Memory%20File%20System/README.md)
+
 
 ## Description
 
@@ -50,7 +50,7 @@
 
 <b>Explanation:</b>
 
-<img alt="filesystem" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0588.Design%20In-Memory%20File%20System/images/filesystem.png" style="width: 640px;" />
+<img alt="filesystem" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0588.Design%20In-Memory%20File%20System/images/filesystem.png" style="width: 640px;" />
 
 </pre>
 

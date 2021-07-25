@@ -1,6 +1,6 @@
 # [1024. Video Stitching](https://leetcode.com/problems/video-stitching)
 
-[中文文档](/solution/1000-1099/1024.Video%20Stitching/README.md)
+
 
 ## Description
 

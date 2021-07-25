@@ -1,6 +1,6 @@
 # [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)
 
-[中文文档](/solution/0500-0599/0592.Fraction%20Addition%20and%20Subtraction/README.md)
+
 
 ## Description
 

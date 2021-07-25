@@ -1,6 +1,6 @@
 # [1575. Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes)
 
-[中文文档](/solution/1500-1599/1575.Count%20All%20Possible%20Routes/README.md)
+
 
 ## Description
 

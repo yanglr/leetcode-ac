@@ -1,6 +1,6 @@
 # [1528. Shuffle String](https://leetcode.com/problems/shuffle-string)
 
-[中文文档](/solution/1500-1599/1528.Shuffle%20String/README.md)
+
 
 ## Description
 
@@ -20,7 +20,7 @@
 
 <p><strong>Example 1:</strong></p>
 
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1500-1599/1528.Shuffle%20String/images/q1.jpg" style="width: 321px; height: 243px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1500-1599/1528.Shuffle%20String/images/q1.jpg" style="width: 321px; height: 243px;" />
 
 <pre>
 

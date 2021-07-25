@@ -1,6 +1,6 @@
 # [672. Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii)
 
-[中文文档](/solution/0600-0699/0672.Bulb%20Switcher%20II/README.md)
+
 
 ## Description
 

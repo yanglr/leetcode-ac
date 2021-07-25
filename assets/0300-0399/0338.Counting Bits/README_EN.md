@@ -1,6 +1,6 @@
 # [338. Counting Bits](https://leetcode.com/problems/counting-bits)
 
-[中文文档](/solution/0300-0399/0338.Counting%20Bits/README.md)
+
 
 ## Description
 

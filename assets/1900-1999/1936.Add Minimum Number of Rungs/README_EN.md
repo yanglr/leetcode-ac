@@ -1,6 +1,6 @@
 # [1936. Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs)
 
-[中文文档](/solution/1900-1999/1936.Add%20Minimum%20Number%20of%20Rungs/README.md)
+
 
 ## Description
 

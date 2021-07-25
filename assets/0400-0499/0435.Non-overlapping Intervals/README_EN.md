@@ -1,6 +1,6 @@
 # [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals)
 
-[中文文档](/solution/0400-0499/0435.Non-overlapping%20Intervals/README.md)
+
 
 ## Description
 

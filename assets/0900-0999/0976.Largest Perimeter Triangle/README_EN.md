@@ -1,6 +1,6 @@
 # [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)
 
-[中文文档](/solution/0900-0999/0976.Largest%20Perimeter%20Triangle/README.md)
+
 
 ## Description
 

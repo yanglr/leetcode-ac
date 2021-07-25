@@ -1,6 +1,6 @@
 # [1496. Path Crossing](https://leetcode.com/problems/path-crossing)
 
-[中文文档](/solution/1400-1499/1496.Path%20Crossing/README.md)
+
 
 ## Description
 
@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1400-1499/1496.Path%20Crossing/images/screen-shot-2020-06-10-at-123929-pm.png" style="width: 250px; height: 224px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1400-1499/1496.Path%20Crossing/images/screen-shot-2020-06-10-at-123929-pm.png" style="width: 250px; height: 224px;" /></p>
 
 <pre>
 <strong>Input:</strong> path = &quot;NES&quot;
@@ -21,7 +21,7 @@
 
 <p><strong>Example 2:</strong></p>
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/1400-1499/1496.Path%20Crossing/images/screen-shot-2020-06-10-at-123843-pm.png" style="width: 250px; height: 212px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/1400-1499/1496.Path%20Crossing/images/screen-shot-2020-06-10-at-123843-pm.png" style="width: 250px; height: 212px;" /></p>
 
 <pre>
 <strong>Input:</strong> path = &quot;NESWW&quot;

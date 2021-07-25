@@ -1,6 +1,6 @@
 # [1872. Stone Game VIII](https://leetcode.com/problems/stone-game-viii)
 
-[中文文档](/solution/1800-1899/1872.Stone%20Game%20VIII/README.md)
+
 
 ## Description
 

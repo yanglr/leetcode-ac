@@ -1,6 +1,6 @@
 # [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)
 
-[中文文档](/solution/0800-0899/0836.Rectangle%20Overlap/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [820. Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words)
 
-[中文文档](/solution/0800-0899/0820.Short%20Encoding%20of%20Words/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)
 
-[中文文档](/solution/0700-0799/0717.1-bit%20and%202-bit%20Characters/README.md)
+
 
 ## Description
 

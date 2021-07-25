@@ -1,6 +1,6 @@
 # [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle)
 
-[中文文档](/solution/0900-0999/0939.Minimum%20Area%20Rectangle/README.md)
+
 
 ## Description
 

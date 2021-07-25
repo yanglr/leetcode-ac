@@ -1,6 +1,6 @@
 # [627. Swap Salary](https://leetcode.com/problems/swap-salary)
 
-[中文文档](/solution/0600-0699/0627.Swap%20Salary/README.md)
+
 
 ## Description
 

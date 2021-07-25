@@ -1,6 +1,6 @@
 # [573. Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation)
 
-[中文文档](/solution/0500-0599/0573.Squirrel%20Simulation/README.md)
+
 
 ## Description
 
@@ -28,7 +28,7 @@ Nuts : [[3,0], [2,5]]
 
 <b>Explanation:</b>
 
-<img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0573.Squirrel%20Simulation/images/squirrel_simulation.png" style="width: 40%;" />​​​​​
+<img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0573.Squirrel%20Simulation/images/squirrel_simulation.png" style="width: 40%;" />​​​​​
 
 </pre>
 

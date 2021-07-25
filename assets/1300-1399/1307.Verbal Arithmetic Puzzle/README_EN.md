@@ -1,6 +1,6 @@
 # [1307. Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle)
 
-[中文文档](/solution/1300-1399/1307.Verbal%20Arithmetic%20Puzzle/README.md)
+
 
 ## Description
 

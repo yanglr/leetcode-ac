@@ -1,6 +1,6 @@
 # [1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)
 
-[中文文档](/solution/1800-1899/1833.Maximum%20Ice%20Cream%20Bars/README.md)
+
 
 ## Description
 

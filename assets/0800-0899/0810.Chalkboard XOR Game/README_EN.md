@@ -1,6 +1,6 @@
 # [810. Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game)
 
-[中文文档](/solution/0800-0899/0810.Chalkboard%20XOR%20Game/README.md)
+
 
 ## Description
 

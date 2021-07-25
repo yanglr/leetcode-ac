@@ -1,6 +1,6 @@
 # [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)
 
-[中文文档](/solution/0800-0899/0849.Maximize%20Distance%20to%20Closest%20Person/README.md)
+
 
 ## Description
 
@@ -14,7 +14,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0849.Maximize%20Distance%20to%20Closest%20Person/images/distance.jpg" style="width: 650px; height: 257px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0800-0899/0849.Maximize%20Distance%20to%20Closest%20Person/images/distance.jpg" style="width: 650px; height: 257px;" />
 <pre>
 <strong>Input:</strong> seats = [1,0,0,0,1,0,1]
 <strong>Output:</strong> 2

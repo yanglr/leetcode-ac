@@ -1,6 +1,6 @@
 # [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl)
 
-[中文文档](/solution/0500-0599/0535.Encode%20and%20Decode%20TinyURL/README.md)
+
 
 ## Description
 

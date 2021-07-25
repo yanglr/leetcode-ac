@@ -1,6 +1,6 @@
 # [883. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes)
 
-[中文文档](/solution/0800-0899/0883.Projection%20Area%20of%203D%20Shapes/README.md)
+
 
 ## Description
 
@@ -16,7 +16,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0800-0899/0883.Projection%20Area%20of%203D%20Shapes/images/shadow.png" style="width: 800px; height: 214px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0800-0899/0883.Projection%20Area%20of%203D%20Shapes/images/shadow.png" style="width: 800px; height: 214px;" />
 <pre>
 <strong>Input:</strong> grid = [[1,2],[3,4]]
 <strong>Output:</strong> 17

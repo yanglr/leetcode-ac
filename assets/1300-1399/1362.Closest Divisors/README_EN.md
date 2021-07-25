@@ -1,6 +1,6 @@
 # [1362. Closest Divisors](https://leetcode.com/problems/closest-divisors)
 
-[中文文档](/solution/1300-1399/1362.Closest%20Divisors/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [799. Champagne Tower](https://leetcode.com/problems/champagne-tower)
 
-[中文文档](/solution/0700-0799/0799.Champagne%20Tower/README.md)
+
 
 ## Description
 
@@ -16,7 +16,7 @@
 
 
 
-<p><img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0700-0799/0799.Champagne%20Tower/images/tower.png" style="height: 241px; width: 350px;" /></p>
+<p><img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0700-0799/0799.Champagne%20Tower/images/tower.png" style="height: 241px; width: 350px;" /></p>
 
 
 

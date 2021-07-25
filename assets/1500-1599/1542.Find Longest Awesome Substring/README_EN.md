@@ -1,6 +1,6 @@
 # [1542. Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring)
 
-[中文文档](/solution/1500-1599/1542.Find%20Longest%20Awesome%20Substring/README.md)
+
 
 ## Description
 

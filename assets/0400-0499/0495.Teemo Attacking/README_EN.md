@@ -1,6 +1,6 @@
 # [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking)
 
-[中文文档](/solution/0400-0499/0495.Teemo%20Attacking/README.md)
+
 
 ## Description
 

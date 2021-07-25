@@ -1,6 +1,6 @@
 # [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 
-[中文文档](/solution/1000-1099/1046.Last%20Stone%20Weight/README.md)
+
 
 ## Description
 

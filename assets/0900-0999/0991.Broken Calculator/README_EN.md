@@ -1,6 +1,6 @@
 # [991. Broken Calculator](https://leetcode.com/problems/broken-calculator)
 
-[中文文档](/solution/0900-0999/0991.Broken%20Calculator/README.md)
+
 
 ## Description
 

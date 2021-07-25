@@ -1,6 +1,6 @@
 # [775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions)
 
-[中文文档](/solution/0700-0799/0775.Global%20and%20Local%20Inversions/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds)
 
-[中文文档](/solution/1500-1599/1550.Three%20Consecutive%20Odds/README.md)
+
 
 ## Description
 

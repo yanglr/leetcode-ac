@@ -1,6 +1,6 @@
 # [306. Additive Number](https://leetcode.com/problems/additive-number)
 
-[中文文档](/solution/0300-0399/0306.Additive%20Number/README.md)
+
 
 ## Description
 

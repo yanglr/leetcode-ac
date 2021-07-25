@@ -1,6 +1,6 @@
 # [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)
 
-[中文文档](/solution/0100-0199/0172.Factorial%20Trailing%20Zeroes/README.md)
+
 
 ## Description
 

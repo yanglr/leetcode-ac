@@ -1,6 +1,6 @@
 # [866. Prime Palindrome](https://leetcode.com/problems/prime-palindrome)
 
-[中文文档](/solution/0800-0899/0866.Prime%20Palindrome/README.md)
+
 
 ## Description
 

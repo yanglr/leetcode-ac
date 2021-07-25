@@ -1,6 +1,6 @@
 # [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
 
-[中文文档](/solution/0200-0299/0201.Bitwise%20AND%20of%20Numbers%20Range/README.md)
+
 
 ## Description
 

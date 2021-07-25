@@ -1,6 +1,6 @@
 # [906. Super Palindromes](https://leetcode.com/problems/super-palindromes)
 
-[中文文档](/solution/0900-0999/0906.Super%20Palindromes/README.md)
+
 
 ## Description
 

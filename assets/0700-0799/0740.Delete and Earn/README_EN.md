@@ -1,6 +1,6 @@
 # [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn)
 
-[中文文档](/solution/0700-0799/0740.Delete%20and%20Earn/README.md)
+
 
 ## Description
 

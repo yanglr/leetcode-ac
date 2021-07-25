@@ -1,6 +1,6 @@
 # [283. Move Zeroes](https://leetcode.com/problems/move-zeroes)
 
-[中文文档](/solution/0200-0299/0283.Move%20Zeroes/README.md)
+
 
 ## Description
 

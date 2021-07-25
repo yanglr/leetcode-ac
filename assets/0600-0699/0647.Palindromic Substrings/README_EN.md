@@ -1,6 +1,6 @@
 # [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)
 
-[中文文档](/solution/0600-0699/0647.Palindromic%20Substrings/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [355. Design Twitter](https://leetcode.com/problems/design-twitter)
 
-[中文文档](/solution/0300-0399/0355.Design%20Twitter/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [447. Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs)
 
-[中文文档](/solution/0400-0499/0447.Number%20of%20Boomerangs/README.md)
+
 
 ## Description
 

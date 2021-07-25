@@ -1,6 +1,6 @@
 # [189. Rotate Array](https://leetcode.com/problems/rotate-array)
 
-[中文文档](/solution/0100-0199/0189.Rotate%20Array/README.md)
+
 
 ## Description
 

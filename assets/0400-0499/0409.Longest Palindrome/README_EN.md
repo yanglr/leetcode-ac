@@ -1,6 +1,6 @@
 # [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
 
-[中文文档](/solution/0400-0499/0409.Longest%20Palindrome/README.md)
+
 
 ## Description
 

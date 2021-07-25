@@ -1,6 +1,6 @@
 # [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)
 
-[中文文档](/solution/0800-0899/0888.Fair%20Candy%20Swap/README.md)
+
 
 ## Description
 

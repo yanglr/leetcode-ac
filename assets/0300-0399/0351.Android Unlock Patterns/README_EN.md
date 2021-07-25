@@ -1,6 +1,6 @@
 # [351. Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns)
 
-[中文文档](/solution/0300-0399/0351.Android%20Unlock%20Patterns/README.md)
+
 
 ## Description
 
@@ -13,7 +13,7 @@
 
 <p>Here are some example valid and invalid unlock patterns:</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0300-0399/0351.Android%20Unlock%20Patterns/images/android-unlock.png" style="width: 418px; height: 128px;" /></p>
+<p><img src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0300-0399/0351.Android%20Unlock%20Patterns/images/android-unlock.png" style="width: 418px; height: 128px;" /></p>
 
 <ul>
 	<li>The 1st pattern <code>[4,1,3,6]</code> is invalid because the line connecting dots <code>1</code> and <code>3</code> pass through dot <code>2</code>, but dot <code>2</code> did not previously appear in the sequence.</li>

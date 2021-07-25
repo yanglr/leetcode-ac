@@ -1,6 +1,6 @@
 # [1383. Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team)
 
-[中文文档](/solution/1300-1399/1383.Maximum%20Performance%20of%20a%20Team/README.md)
+
 
 ## Description
 

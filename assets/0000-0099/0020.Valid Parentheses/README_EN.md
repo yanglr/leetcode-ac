@@ -1,6 +1,6 @@
 # [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 
-[中文文档](/solution/0000-0099/0020.Valid%20Parentheses/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)
 
-[中文文档](/solution/0500-0599/0594.Longest%20Harmonious%20Subsequence/README.md)
+
 
 ## Description
 

@@ -1,6 +1,6 @@
 # [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string)
 
-[中文文档](/solution/0500-0599/0536.Construct%20Binary%20Tree%20from%20String/README.md)
+
 
 ## Description
 
@@ -12,7 +12,7 @@
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
-<img alt="" src="https://cdn.jsdelivr.net/gh/doocs/leetcode@main/solution/0500-0599/0536.Construct%20Binary%20Tree%20from%20String/images/butree.jpg" style="width: 382px; height: 322px;" />
+<img alt="" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac@master/assets/0500-0599/0536.Construct%20Binary%20Tree%20from%20String/images/butree.jpg" style="width: 382px; height: 322px;" />
 <pre>
 <strong>Input:</strong> s = &quot;4(2(3)(1))(6(5))&quot;
 <strong>Output:</strong> [4,2,6,3,1,5]

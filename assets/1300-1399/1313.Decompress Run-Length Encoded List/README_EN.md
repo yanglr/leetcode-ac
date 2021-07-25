@@ -1,6 +1,6 @@
 # [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)
 
-[中文文档](/solution/1300-1399/1313.Decompress%20Run-Length%20Encoded%20List/README.md)
+
 
 ## Description
 

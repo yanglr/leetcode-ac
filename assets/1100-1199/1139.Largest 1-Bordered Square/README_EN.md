@@ -1,6 +1,6 @@
 # [1139. Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square)
 
-[中文文档](/solution/1100-1199/1139.Largest%201-Bordered%20Square/README.md)
+
 
 ## Description
 

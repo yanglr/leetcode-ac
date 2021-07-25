@@ -1,6 +1,6 @@
 # [279. Perfect Squares](https://leetcode.com/problems/perfect-squares)
 
-[中文文档](/solution/0200-0299/0279.Perfect%20Squares/README.md)
+
 
 ## Description
 

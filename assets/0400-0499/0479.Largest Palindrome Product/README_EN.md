@@ -1,6 +1,6 @@
 # [479. Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product)
 
-[中文文档](/solution/0400-0499/0479.Largest%20Palindrome%20Product/README.md)
+
 
 ## Description
 

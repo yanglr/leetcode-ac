@@ -1,6 +1,6 @@
 # [228. Summary Ranges](https://leetcode.com/problems/summary-ranges)
 
-[中文文档](/solution/0200-0299/0228.Summary%20Ranges/README.md)
+
 
 ## Description
 

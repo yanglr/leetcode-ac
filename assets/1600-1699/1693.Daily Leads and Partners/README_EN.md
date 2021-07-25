@@ -1,6 +1,6 @@
 # [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners)
 
-[中文文档](/solution/1600-1699/1693.Daily%20Leads%20and%20Partners/README.md)
+
 
 ## Description
 

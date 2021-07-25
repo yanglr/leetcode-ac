@@ -1,6 +1,6 @@
 # [753. Cracking the Safe](https://leetcode.com/problems/cracking-the-safe)
 
-[中文文档](/solution/0700-0799/0753.Cracking%20the%20Safe/README.md)
+
 
 ## Description
 
