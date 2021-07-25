@@ -1,9 +1,26 @@
-# 算法刷题与练习
+# LeetCode原创题解
 
-本仓库**leetcode-ac**的口号是: AC一时爽, 一直AC一直爽。
+本仓库**leetcode-ac**提供LeetCode中文题大全、LeetCode **清晰易懂的代码** (C++/Java/C#/Python/Go), 并将**持续不断更新**, 助你早日斩获大厂Offer! 
 
-欢迎关注本项目的同名公众号【玩转力扣】
+如果想第一时间收到最新更新, 还请点个star/fork 或 watch, 如果有不错的解法也欢迎提PR~
 
 <br/>
 
-欢迎访问作者的个人网站: [极客中心](https://www.geekzl.com)
+
+本仓库**leetcode-ac**的口号是: AC一时爽, 一直AC一直爽。
+
+欢迎关注本项目的同名公众号 **「玩转力扣」**，极客学长带你 **轻松刷 LeetCode**！
+
+<br/>
+
+**ps**: 所有题解的代码将第一时间在本仓库更新, 而所有题解将第一时间在公众号 **「玩转力扣」** 更新!
+
+<br/>
+
+## 本人信息
+
+知乎 [极客学长Bravo](https://www.zhihu.com/people/legege007), 4.5万读者。
+
+B站 [极客学长呀](https://space.bilibili.com/1443957), 后续会用视频的形式来带大家刷LeetCode题，欢迎点个关注，敬请期待~
+
+本人的个人独立网站: [极客中心](https://www.geekzl.com)
