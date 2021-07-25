@@ -41,7 +41,7 @@
 
 [轻松刷Leetcode系列 - LeetCode38.外观数列(报数) C#版](https://zhuanlan.zhihu.com/p/86412518)
 
-[轻松刷LeetCode系列 Leetcode58 - 最后一个单词的长度 Python版](https://geekplayers.com/python-leetcode58-length-of-last-word.html)
+[轻松刷LeetCode系列 - Leetcode58 - 最后一个单词的长度 Python版](https://geekplayers.com/python-leetcode58-length-of-last-word.html)
 
 [轻松刷LeetCode系列 - LeetCode67 - 二进制数求和 Python版](https://geekplayers.com/python-leetcode67-add-binary.html)
 
