@@ -7,10 +7,11 @@
 [leetcode中文题401-2000](https://github.com/yanglr/leetcode-ac/tree/master/中文题1-2000/leetcode401-2000)
 
 
+
 快速搜索题号、题解、代码、标签等，请善用 `Ctrl`+`F`（或者 `Command`+`F`）。
 
 
-| 题号 | 题解(wx文章) | 代码 | 标签 | 难度 | 有无锁 | AC状态 |
+| 题号 | 题解 | 代码 | 标签 | 难度 | 有无锁 | AC状态 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [0001](https://leetcode-cn.com/problems/two-sum) | 两数之和 |  | `数组`,`哈希表` | 简单 |  |  |
 | [0002](https://leetcode-cn.com/problems/add-two-numbers) | 两数相加 |  | `递归`,`链表`,`数学` | 中等 |  |  |
@@ -20,11 +21,11 @@
 | [0006](https://leetcode-cn.com/problems/zigzag-conversion) | Z 字形变换 |  | `字符串` | 中等 |  |  |
 | [0007](https://leetcode-cn.com/problems/reverse-integer) | 整数反转 |  | `数学` | 简单 |  |  |
 | [0008](https://leetcode-cn.com/problems/string-to-integer-atoi) | 字符串转换整数 (atoi) |  | `字符串` | 中等 |  |  |
-| [0009](https://leetcode-cn.com/problems/palindrome-number) | 回文数 |  | `数学` | 简单 |  |  |
+| [0009](https://leetcode-cn.com/problems/palindrome-number) | 回文数 |  | `数学` | 简单 |  | ✅ |
 | [0010](https://leetcode-cn.com/problems/regular-expression-matching) | 正则表达式匹配 |  | `递归`,`字符串`,`动态规划` | 困难 |  |  |
 | [0011](https://leetcode-cn.com/problems/container-with-most-water) | 盛最多水的容器 |  | `贪心`,`数组`,`双指针` | 中等 |  |  |
 | [0012](https://leetcode-cn.com/problems/integer-to-roman) | 整数转罗马数字 |  | `哈希表`,`数学`,`字符串` | 中等 |  |  |
-| [0013](https://leetcode-cn.com/problems/roman-to-integer) | 罗马数字转整数 |  | `哈希表`,`数学`,`字符串` | 简单 |  |  |
+| [0013](https://leetcode-cn.com/problems/roman-to-integer) | 罗马数字转整数 |  | `哈希表`,`数学`,`字符串` | 简单 |  | ✅ |
 | [0014](https://leetcode-cn.com/problems/longest-common-prefix) | 最长公共前缀 |  | `字符串` | 简单 |  |  |
 | [0015](https://leetcode-cn.com/problems/3sum) | 三数之和 |  | `数组`,`双指针`,`排序` | 中等 |  |  |
 | [0016](https://leetcode-cn.com/problems/3sum-closest) | 最接近的三数之和 |  | `数组`,`双指针`,`排序` | 中等 |  |  |
@@ -49,7 +50,7 @@
 | [0035](https://leetcode-cn.com/problems/search-insert-position) | 搜索插入位置 |  | `数组`,`二分查找` | 简单 |  |  |
 | [0036](https://leetcode-cn.com/problems/valid-sudoku) | 有效的数独 |  | `数组`,`哈希表`,`矩阵` | 中等 |  |  |
 | [0037](https://leetcode-cn.com/problems/sudoku-solver) | 解数独 |  | `数组`,`回溯`,`矩阵` | 困难 |  |  |
-| [0038](https://leetcode-cn.com/problems/count-and-say) | 外观数列 |  | `字符串` | 中等 |  |  |
+| [0038](https://leetcode-cn.com/problems/count-and-say) | 外观数列 |  | `字符串` | 中等 |  | ✅ |
 | [0039](https://leetcode-cn.com/problems/combination-sum) | 组合总和 |  | `数组`,`回溯` | 中等 |  |  |
 | [0040](https://leetcode-cn.com/problems/combination-sum-ii) | 组合总和 II |  | `数组`,`回溯` | 中等 |  |  |
 | [0041](https://leetcode-cn.com/problems/first-missing-positive) | 缺失的第一个正数 |  | `数组`,`哈希表` | 困难 |  |  |
@@ -69,7 +70,7 @@
 | [0055](https://leetcode-cn.com/problems/jump-game) | 跳跃游戏 |  | `贪心`,`数组`,`动态规划` | 中等 |  |  |
 | [0056](https://leetcode-cn.com/problems/merge-intervals) | 合并区间 |  | `数组`,`排序` | 中等 |  |  |
 | [0057](https://leetcode-cn.com/problems/insert-interval) | 插入区间 |  | `数组` | 中等 |  |  |
-| [0058](https://leetcode-cn.com/problems/length-of-last-word) | 最后一个单词的长度 |  | `字符串` | 简单 |  |  |
+| [0058](https://leetcode-cn.com/problems/length-of-last-word) | 最后一个单词的长度 |  | `字符串` | 简单 |  | ✅ |
 | [0059](https://leetcode-cn.com/problems/spiral-matrix-ii) | 螺旋矩阵 II |  | `数组`,`矩阵`,`模拟` | 中等 |  |  |
 | [0060](https://leetcode-cn.com/problems/permutation-sequence) | 排列序列 |  | `递归`,`数学` | 困难 |  |  |
 | [0061](https://leetcode-cn.com/problems/rotate-list) | 旋转链表 |  | `链表`,`双指针` | 中等 |  |  |
@@ -78,7 +79,7 @@
 | [0064](https://leetcode-cn.com/problems/minimum-path-sum) | 最小路径和 |  | `数组`,`动态规划`,`矩阵` | 中等 |  |  |
 | [0065](https://leetcode-cn.com/problems/valid-number) | 有效数字 |  | `字符串` | 困难 |  |  |
 | [0066](https://leetcode-cn.com/problems/plus-one) | 加一 |  | `数组`,`数学` | 简单 |  |  |
-| [0067](https://leetcode-cn.com/problems/add-binary) | 二进制求和 |  | `位运算`,`数学`,`字符串`,`模拟` | 简单 |  |  |
+| [0067](https://leetcode-cn.com/problems/add-binary) | 二进制求和 |  | `位运算`,`数学`,`字符串`,`模拟` | 简单 |  | ✅ |
 | [0068](https://leetcode-cn.com/problems/text-justification) | 文本左右对齐 |  | `字符串`,`模拟` | 困难 |  |  |
 | [0069](https://leetcode-cn.com/problems/sqrtx) | x 的平方根 |  | `数学`,`二分查找` | 简单 |  |  |
 | [0070](https://leetcode-cn.com/problems/climbing-stairs) | 爬楼梯 |  | `记忆化搜索`,`数学`,`动态规划` | 简单 |  |  |
@@ -100,7 +101,7 @@
 | [0086](https://leetcode-cn.com/problems/partition-list) | 分隔链表 |  | `链表`,`双指针` | 中等 |  |  |
 | [0087](https://leetcode-cn.com/problems/scramble-string) | 扰乱字符串 |  | `字符串`,`动态规划` | 困难 |  |  |
 | [0088](https://leetcode-cn.com/problems/merge-sorted-array) | 合并两个有序数组 |  | `数组`,`双指针`,`排序` | 简单 |  |  |
-| [0089](https://leetcode-cn.com/problems/gray-code) | 格雷编码 |  | `位运算`,`数学`,`回溯` | 中等 |  |  |
+| [0089](https://leetcode-cn.com/problems/gray-code) | 格雷编码 |  | `位运算`,`数学`,`回溯` | 中等 |  | ✅ |
 | [0090](https://leetcode-cn.com/problems/subsets-ii) | 子集 II |  | `位运算`,`数组`,`回溯` | 中等 |  |  |
 | [0091](https://leetcode-cn.com/problems/decode-ways) | 解码方法 |  | `字符串`,`动态规划` | 中等 |  |  |
 | [0092](https://leetcode-cn.com/problems/reverse-linked-list-ii) | 反转链表 II |  | `链表` | 中等 |  |  |
@@ -147,7 +148,7 @@
 | [0133](https://leetcode-cn.com/problems/clone-graph) | 克隆图 |  | `深度优先搜索`,`广度优先搜索`,`图`,`哈希表` | 中等 |  |  |
 | [0134](https://leetcode-cn.com/problems/gas-station) | 加油站 |  | `贪心`,`数组` | 中等 |  |  |
 | [0135](https://leetcode-cn.com/problems/candy) | 分发糖果 |  | `贪心`,`数组` | 困难 |  |  |
-| [0136](https://leetcode-cn.com/problems/single-number) | 只出现一次的数字 |  | `位运算`,`数组` | 简单 |  |  |
+| [0136](https://leetcode-cn.com/problems/single-number) | 只出现一次的数字 |  | `位运算`,`数组` | 简单 |  | ✅ |
 | [0137](https://leetcode-cn.com/problems/single-number-ii) | 只出现一次的数字 II |  | `位运算`,`数组` | 中等 |  |  |
 | [0138](https://leetcode-cn.com/problems/copy-list-with-random-pointer) | 复制带随机指针的链表 |  | `哈希表`,`链表` | 中等 |  |  |
 | [0139](https://leetcode-cn.com/problems/word-break) | 单词拆分 |  | `字典树`,`记忆化搜索`,`哈希表`,`字符串`,`动态规划` | 中等 |  |  |
@@ -202,7 +203,7 @@
 | [0188](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | 买卖股票的最佳时机 IV |  | `数组`,`动态规划` | 困难 |  |  |
 | [0189](https://leetcode-cn.com/problems/rotate-array) | 旋转数组 |  | `数组`,`数学`,`双指针` | 中等 |  |  |
 | [0190](https://leetcode-cn.com/problems/reverse-bits) | 颠倒二进制位 |  | `位运算`,`分治` | 简单 |  |  |
-| [0191](https://leetcode-cn.com/problems/number-of-1-bits) | 位1的个数 |  | `位运算` | 简单 |  |  |
+| [0191](https://leetcode-cn.com/problems/number-of-1-bits) | 位1的个数 |  | `位运算` | 简单 |  | ✅ |
 | [0192](https://leetcode-cn.com/problems/word-frequency) | 统计词频 |  |  | 中等 |  |  |
 | [0193](https://leetcode-cn.com/problems/valid-phone-numbers) | 有效电话号码 |  |  | 简单 |  |  |
 | [0194](https://leetcode-cn.com/problems/transpose-file) | 转置文件 |  |  | 中等 |  |  |
@@ -213,9 +214,9 @@
 | [0199](https://leetcode-cn.com/problems/binary-tree-right-side-view) | 二叉树的右视图 |  | `树`,`深度优先搜索`,`广度优先搜索`,`二叉树` | 中等 |  |  |
 | [0200](https://leetcode-cn.com/problems/number-of-islands) | 岛屿数量 |  | `深度优先搜索`,`广度优先搜索`,`并查集`,`数组`,`矩阵` | 中等 |  |  |
 | [0201](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range) | 数字范围按位与 |  | `位运算` | 中等 |  |  |
-| [0202](https://leetcode-cn.com/problems/happy-number) | 快乐数 |  | `哈希表`,`数学`,`双指针` | 简单 |  |  |
+| [0202](https://leetcode-cn.com/problems/happy-number) | 快乐数 |  | `哈希表`,`数学`,`双指针` | 简单 |  | ✅ |
 | [0203](https://leetcode-cn.com/problems/remove-linked-list-elements) | 移除链表元素 |  | `递归`,`链表` | 简单 |  |  |
-| [0204](https://leetcode-cn.com/problems/count-primes) | 计数质数 |  | `数组`,`数学`,`枚举`,`数论` | 简单 |  |  |
+| [0204](https://leetcode-cn.com/problems/count-primes) | 计数质数 |  | `数组`,`数学`,`枚举`,`数论` | 简单 |  | ✅ |
 | [0205](https://leetcode-cn.com/problems/isomorphic-strings) | 同构字符串 |  | `哈希表`,`字符串` | 简单 |  |  |
 | [0206](https://leetcode-cn.com/problems/reverse-linked-list) | 反转链表 |  | `递归`,`链表` | 简单 |  |  |
 | [0207](https://leetcode-cn.com/problems/course-schedule) | 课程表 |  | `深度优先搜索`,`广度优先搜索`,`图`,`拓扑排序` | 中等 |  |  |
@@ -356,7 +357,7 @@
 | [0342](https://leetcode-cn.com/problems/power-of-four) | 4的幂 |  | `位运算`,`递归`,`数学` | 简单 |  |  |
 | [0343](https://leetcode-cn.com/problems/integer-break) | 整数拆分 |  | `数学`,`动态规划` | 中等 |  |  |
 | [0344](https://leetcode-cn.com/problems/reverse-string) | 反转字符串 |  | `递归`,`双指针`,`字符串` | 简单 |  |  |
-| [0345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) | 反转字符串中的元音字母 |  | `双指针`,`字符串` | 简单 |  |  |
+| [0345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) | 反转字符串中的元音字母 |  | `双指针`,`字符串` | 简单 |  | ✅ |
 | [0346](https://leetcode-cn.com/problems/moving-average-from-data-stream) | 数据流中的移动平均值 |  | `设计`,`队列`,`数组`,`数据流` | 简单 | 🔒 |  |
 | [0347](https://leetcode-cn.com/problems/top-k-frequent-elements) | 前 K 个高频元素 |  | `数组`,`哈希表`,`分治`,`桶排序`,`计数`,`快速选择`,`排序`,`堆（优先队列）` | 中等 |  |  |
 | [0348](https://leetcode-cn.com/problems/design-tic-tac-toe) | 设计井字棋 |  | `设计`,`数组`,`哈希表`,`矩阵` | 中等 | 🔒 |  |
@@ -604,7 +605,7 @@
 | [0590](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) | N 叉树的后序遍历 |  | `栈`,`树`,`深度优先搜索` | 简单 |  |  |
 | [0591](https://leetcode-cn.com/problems/tag-validator) | 标签验证器 |  | `栈`,`字符串` | 困难 |  |  |
 | [0592](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) | 分数加减运算 |  | `数学`,`字符串`,`模拟` | 中等 |  |  |
-| [0593](https://leetcode-cn.com/problems/valid-square) | 有效的正方形 |  | `几何`,`数学` | 中等 |  |  |
+| [0593](https://leetcode-cn.com/problems/valid-square) | 有效的正方形 |  | `几何`,`数学` | 中等 |  | ✅ |
 | [0594](https://leetcode-cn.com/problems/longest-harmonious-subsequence) | 最长和谐子序列 |  | `数组`,`哈希表`,`排序` | 简单 |  |  |
 | [0595](https://leetcode-cn.com/problems/big-countries) | 大的国家 |  | `数据库` | 简单 |  |  |
 | [0596](https://leetcode-cn.com/problems/classes-more-than-5-students) | 超过5名学生的课 |  | `数据库` | 简单 |  |  |
@@ -644,7 +645,7 @@
 | [0630](https://leetcode-cn.com/problems/course-schedule-iii) | 课程表 III |  | `贪心`,`数组`,`堆（优先队列）` | 困难 |  |  |
 | [0631](https://leetcode-cn.com/problems/design-excel-sum-formula) | 设计 Excel 求和公式 |  | `图`,`设计`,`拓扑排序` | 困难 | 🔒 |  |
 | [0632](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists) | 最小区间 |  | `贪心`,`数组`,`哈希表`,`排序`,`滑动窗口`,`堆（优先队列）` | 困难 |  |  |
-| [0633](https://leetcode-cn.com/problems/sum-of-square-numbers) | 平方数之和 |  | `数学`,`双指针`,`二分查找` | 中等 |  |  |
+| [0633](https://leetcode-cn.com/problems/sum-of-square-numbers) | 平方数之和 |  | `数学`,`双指针`,`二分查找` | 中等 |  | ✅ |
 | [0634](https://leetcode-cn.com/problems/find-the-derangement-of-an-array) | 寻找数组的错位排列 |  | `数学`,`动态规划` | 中等 | 🔒 |  |
 | [0635](https://leetcode-cn.com/problems/design-log-storage-system) | 设计日志存储系统 |  | `设计`,`哈希表`,`字符串`,`有序集合` | 中等 | 🔒 |  |
 | [0636](https://leetcode-cn.com/problems/exclusive-time-of-functions) | 函数的独占时间 |  | `栈`,`数组` | 中等 |  |  |
@@ -656,7 +657,7 @@
 | [0642](https://leetcode-cn.com/problems/design-search-autocomplete-system) | 设计搜索自动补全系统 |  | `设计`,`字典树`,`字符串`,`数据流` | 困难 | 🔒 |  |
 | [0643](https://leetcode-cn.com/problems/maximum-average-subarray-i) | 子数组最大平均数 I |  | `数组`,`滑动窗口` | 简单 |  |  |
 | [0644](https://leetcode-cn.com/problems/maximum-average-subarray-ii) | 子数组最大平均数 II |  | `数组`,`二分查找` | 困难 | 🔒 |  |
-| [0645](https://leetcode-cn.com/problems/set-mismatch) | 错误的集合 |  | `位运算`,`数组`,`哈希表`,`排序` | 简单 |  |  |
+| [0645](https://leetcode-cn.com/problems/set-mismatch) | 错误的集合 |  | `位运算`,`数组`,`哈希表`,`排序` | 简单 |  | ✅ |
 | [0646](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) | 最长数对链 |  | `贪心`,`数组`,`动态规划`,`排序` | 中等 |  |  |
 | [0647](https://leetcode-cn.com/problems/palindromic-substrings) | 回文子串 |  | `字符串`,`动态规划` | 中等 |  |  |
 | [0648](https://leetcode-cn.com/problems/replace-words) | 单词替换 |  | `字典树`,`数组`,`哈希表`,`字符串` | 中等 |  |  |
@@ -739,7 +740,7 @@
 | [0725](https://leetcode-cn.com/problems/split-linked-list-in-parts) | 分隔链表 |  | `链表` | 中等 |  |  |
 | [0726](https://leetcode-cn.com/problems/number-of-atoms) | 原子的数量 |  | `栈`,`哈希表`,`字符串` | 困难 |  |  |
 | [0727](https://leetcode-cn.com/problems/minimum-window-subsequence) | 最小窗口子序列 |  | `字符串`,`动态规划`,`滑动窗口` | 困难 | 🔒 |  |
-| [0728](https://leetcode-cn.com/problems/self-dividing-numbers) | 自除数 |  | `数学` | 简单 |  |  |
+| [0728](https://leetcode-cn.com/problems/self-dividing-numbers) | 自除数 |  | `数学` | 简单 |  | ✅ |
 | [0729](https://leetcode-cn.com/problems/my-calendar-i) | 我的日程安排表 I |  | `设计`,`线段树`,`有序集合` | 中等 |  |  |
 | [0730](https://leetcode-cn.com/problems/count-different-palindromic-subsequences) | 统计不同回文子序列 |  | `字符串`,`动态规划` | 困难 |  |  |
 | [0731](https://leetcode-cn.com/problems/my-calendar-ii) | 我的日程安排表 II |  | `设计`,`线段树`,`有序集合` | 中等 |  |  |
@@ -987,8 +988,8 @@
 | [0973](https://leetcode-cn.com/problems/k-closest-points-to-origin) | 最接近原点的 K 个点 |  | `几何`,`数组`,`数学`,`分治`,`快速选择`,`排序`,`堆（优先队列）` | 中等 |  |  |
 | [0974](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k) | 和可被 K 整除的子数组 |  | `数组`,`哈希表`,`前缀和` | 中等 |  |  |
 | [0975](https://leetcode-cn.com/problems/odd-even-jump) | 奇偶跳 |  | `栈`,`数组`,`动态规划`,`有序集合`,`单调栈` | 困难 |  |  |
-| [0976](https://leetcode-cn.com/problems/largest-perimeter-triangle) | 三角形的最大周长 |  | `贪心`,`数组`,`数学`,`排序` | 简单 |  |  |
-| [0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | 有序数组的平方 |  | `数组`,`双指针`,`排序` | 简单 |  |  |
+| [0976](https://leetcode-cn.com/problems/largest-perimeter-triangle) | 三角形的最大周长 |  | `贪心`,`数组`,`数学`,`排序` | 简单 |  | ✅ |
+| [0977](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | 有序数组的平方 |  | `数组`,`双指针`,`排序` | 简单 |  | ✅ |
 | [0978](https://leetcode-cn.com/problems/longest-turbulent-subarray) | 最长湍流子数组 |  | `数组`,`动态规划`,`滑动窗口` | 中等 |  |  |
 | [0979](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree) | 在二叉树中分配硬币 |  | `树`,`深度优先搜索`,`二叉树` | 中等 |  |  |
 | [0980](https://leetcode-cn.com/problems/unique-paths-iii) | 不同路径 III |  | `位运算`,`数组`,`回溯`,`矩阵` | 困难 |  |  |
