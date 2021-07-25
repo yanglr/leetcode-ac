@@ -1,11 +1,15 @@
 # LeetCode原创题解
 
-本仓库**leetcode-ac**提供LeetCode中文题大全、LeetCode **清晰易懂的代码** (C++/Java/C#/Python/Go), 并将**持续不断更新**, 助你早日斩获大厂Offer! 
+本仓库**leetcode-ac**提供LeetCode中文题大全、LeetCode**清晰易懂的代码**(含多种语言: C++/Java/C#/Python/Go) 及详细题解, 并将**持续不断更新**, 助你早日斩获大厂Offer! 
 
 如果想第一时间收到最新更新, 还请点个star/fork 或 watch, 如果有不错的解法也欢迎提PR~
 
+如果在本项目中发现问题, 欢迎给我提issue喔, 看到后会立刻回复的~
+
 <br/>
 
+
+## 我们的slogan
 
 本仓库**leetcode-ac**的口号是: AC一时爽, 一直AC一直爽。
 
@@ -17,7 +21,7 @@
 
 <br/>
 
-## 本人信息
+## 关于作者
 
 知乎 [极客学长Bravo](https://www.zhihu.com/people/legege007), 4.5万读者。
 
