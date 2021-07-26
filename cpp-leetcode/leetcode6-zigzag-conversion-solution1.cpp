@@ -8,7 +8,7 @@ public:
     string convert(string s, int numRows) {
         string res;
         // base case
-        if (s.size() == 0 || numRows <= 1)
+        if (s.empty() || numRows <= 1)
             return s;
 
         // handle first row

@@ -5,7 +5,7 @@ using namespace std;
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        if(nums.size() == 0)
+        if(nums.empty())
             return 0;
             
         // 双指针法

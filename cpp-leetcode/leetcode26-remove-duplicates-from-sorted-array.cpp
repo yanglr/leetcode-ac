@@ -5,7 +5,7 @@ using namespace std;
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        if(nums.size() == 0) return 0;  // Corner case
+        if(nums.empty()) return 0;  // Corner case
         int p = 0; // Use p always point to the position of last new value found
         for(int i=0; i<nums.size(); i++)
         {

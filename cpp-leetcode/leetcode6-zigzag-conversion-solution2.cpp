@@ -9,7 +9,7 @@ public:
     string convert(string s, int numRows)
     {
         string res(s.size(), ' ');
-        if (s.size() == 0 || numRows <= 1)
+        if (s.empty() || numRows <= 1)
             return s;
 
         int pos = 0;
