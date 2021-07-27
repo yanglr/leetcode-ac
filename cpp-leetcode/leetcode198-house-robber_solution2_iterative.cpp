@@ -5,6 +5,7 @@ class Solution {
 public:    
     int rob(vector<int>& nums) {
         int n = nums.size();
+        // opt[i] = x 表示：从第 i 间房子开始抢劫，最多能抢到的钱为 x
         vector<int> opt(n+2, 0);    /* base case: opt[n] = 0; 于是opt[n]和opt[n+1] 都应该初始化为0 */
         for (int i = n - 1; i >= 0; i--)
         {
