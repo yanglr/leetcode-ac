@@ -24,7 +24,7 @@ public:
 
         auto cmp = [](pair<int, int>& range1, pair<int, int>& range2)
         {
-            if (range1.first == range2.first) /* 相等时, flag为-1的放在前面 */
+            if (range1.first == range2.first) /* 相等时, flag为 1 的放在前面 */
                 return range1.second > range2.second;
             return range1.first < range2.first;
         };
