@@ -9,7 +9,7 @@
 <br/>
 
 
-## 我们的slogan
+## 📢我们的slogan
 
 本仓库**leetcode-ac**的口号是: AC一时爽, 一直AC一直爽。
 
