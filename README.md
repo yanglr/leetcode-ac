@@ -33,7 +33,7 @@
 
 **3、建议收藏我的在线网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
 
-Gitbook 地址：<https://yanglr.github.io/leetcode-ac>
+Gitbook 地址：<https://yanglr.gitbook.io/leetcode-ac>
 
 
 **4、欢迎关注 [我的知乎](https://www.zhihu.com/people/legege007)**。
