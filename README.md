@@ -1,6 +1,6 @@
 # LeetCode原创题解
 
-:octocat:仓库**leetcode-ac**提供LeetCode中文题大全、LeetCode**清晰易懂的代码**(含多种语言: C++/Java/C#/Python/Go) 及详细题解, 并将**持续不断更新**, 助你早日斩获大厂Offer! 
+ <img src='https://github.githubassets.com/images/icons/emoji/octocat.png' width='16px' height='16px'> 仓库**leetcode-ac**提供LeetCode中文题大全、LeetCode**清晰易懂的代码**(含多种语言: C++/Java/C#/Python/Go) 及详细题解, 并将**持续不断更新**, 助你早日斩获大厂Offer! 
 
 如果想第一时间收到最新更新, 还请点个star/fork 或 watch, 如果有不错的解法也欢迎提PR~
 
