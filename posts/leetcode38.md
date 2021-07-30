@@ -2,7 +2,7 @@
 
 ### 英文题目: Count and Say
 
-<table>    <tr>     <td bgcolor=white>&nbsp; ● &nbsp;难度: </td>    <td bgcolor=#F0AD4E width=8.5%><font color=white>中等</font></td> <td bgcolor=white　width=79%></td>  </tr></table>
+难度: <strong><font color='orange'>中等</font></strong>
 
 给定一个正整数 `n` ，输出外观数列的第 `n` 项。
 
