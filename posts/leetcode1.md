@@ -85,14 +85,43 @@ You can return the answer in any order.
 
 ### 分析:
 
-**方法1**: 暴力法，复杂度O(n^2)，会TLE(超时);
+**方法1**: 暴力法，复杂度O(n^2)，会TLE(超时).
 
-**方法2**: hashmap查表，在表中找 target - 当前循环变量i对应的那个数。用一个哈希表(C++中用unordered_map, C#中用dictionary, Python中用dict，Java中可以直接用HashMap)，存储每个数对应的下标，复杂度O(n);
+**方法2**: 双指针法, 固定一个, 找另一个. 发现第一次出现`nums[i] + nums[j] == target`就返回结果.
 
-**方法3**: 快排 + 双指针
+**方法3**: hashmap查表，在表中找 target - 当前循环变量i对应的那个数。用一个哈希表(C++中用unordered_map, C#中用dictionary, Python中用dict，Java中可以直接用HashMap)，存储每个数对应的下标，复杂度O(n);
+
+**方法4**: 快排 + 双指针
+
+<br/>
 ​
-
 ### 方法2 AC代码:
+
+```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {        
+        vector<int> res(2);
+        // 双指针, 先固定一个
+        for (int i = 0; i < nums.size(); i++)
+        {
+            for (int j = i + 1; j < nums.size(); j++)
+            {
+                if (nums[i] + nums[j] == target)
+                {
+                    res[0] = i;
+                    res[1] = j;
+                    return res;
+                }
+            }
+        }
+        return res;
+    }
+};
+```
+
+
+### 方法3 AC代码:
 ​
 ```cpp
 class Solution {
@@ -119,7 +148,7 @@ class Solution {
 };
 ```
 
-### 方法2的另一种写法:
+### 方法3的另一种写法:
 
 ```cpp
 class Solution {
@@ -135,7 +164,7 @@ public:
 			else {
 				res[1]=i;
 				res[0]=dict[query];
-				return res;	
+				return res;
 			}
 		}
 		return emptyVect;
@@ -144,7 +173,7 @@ public:
 ```
 ​
 
-### 方法3 AC代码:
+### 方法4 AC代码:
 
 - 定义一个struct, 存储 index 和 value
 - 使用两个指针, l 和 r, l++, r--
