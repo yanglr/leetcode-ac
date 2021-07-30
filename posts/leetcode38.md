@@ -211,7 +211,7 @@ B站 [极客学长呀](https://space.bilibili.com/1443957), 后续会用视频�
 
 <br/>
 
-更多清晰易懂的代码 (C++/Java/C#/Python/Go) 的 LeetCode 题解，会在我的 github 仓库 <https://github.com/yanglr/AlgoSolutions>中持续更新, 欢迎小伙伴们 star/fork，如果有不错的解法也欢迎提PR。
+更多清晰易懂的代码 (C++/Java/C#/Python/Go) 的 LeetCode 题解，会在我的 github 仓库 <https://github.com/yanglr/leetcode-ac>中持续更新, 欢迎小伙伴们 star/fork，如果有不错的解法也欢迎提PR。
 
 <br/>
 

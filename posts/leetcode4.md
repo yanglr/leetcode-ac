@@ -117,6 +117,3 @@ public:
 };
 ```
 
-
-参考:
-<https://leetcode-cn.com/submissions/detail/194261796/>
