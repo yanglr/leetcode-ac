@@ -1,4 +1,4 @@
-# LeetCode原创题解
+# 玩转力扣 | LeetCode原创题解
 
  <img src='https://github.githubassets.com/images/icons/emoji/octocat.png' width='16px' height='16px'> 仓库**leetcode-ac**提供LeetCode中文题大全、LeetCode**清晰易懂的代码**(含多种语言: C++/Java/C#/Python/Go) 及详细题解, 并将**持续不断更新**, 助你早日斩获大厂Offer! 
 
@@ -22,6 +22,21 @@
 **ps**: 所有题解的代码将第一时间在本仓库更新, 而所有题解将第一时间在公众号 **「玩转力扣」** 更新!
 
 <br/>
+
+## 🍖仓库食用指南
+
+**1、先给本仓库点个 star，满足一下我的虚荣心**，题解质量绝对值你一个 star。我还在继续创作，给我一点继续写文的动力，感谢。
+
+
+**2、建议关注我的公众号「大白技术控」，坚持高质量的文章输出。**
+
+
+**3、建议收藏我的在线网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
+
+Gitbook 地址：<https://yanglr.github.io/leetcode-ac>
+
+
+**4、欢迎关注 [我的知乎](https://www.zhihu.com/people/legege007)**。
 
 
 ## 🚀 题解进度表
