@@ -26,7 +26,7 @@ public:
         {
             if (x.second == y.second)
                 return x.first > y.first;
-            else return x.second > y.second;  /* 小顶堆 */
+            else return x.second > y.second;  /* 小顶堆, 这里y代表顶部值 */
         };
         priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(cmp)> q(cmp);
         for (pair<int, int> kvp : dict)
