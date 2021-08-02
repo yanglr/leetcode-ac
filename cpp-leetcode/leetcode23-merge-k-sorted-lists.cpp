@@ -30,26 +30,26 @@ public:
         };
 
         /* 使用node的val构造一个小顶堆 */
-        priority_queue<ListNode *, vector<ListNode *>, decltype(cmp)> nodes(cmp);
+        priority_queue<ListNode *, vector<ListNode *>, decltype(cmp)> nodesQ(cmp);
         for (auto list : lists)
         {
             if (list != NULL)
             {
-                nodes.push(list);
+                nodesQ.push(list);
             }
         }
 
         ListNode *fakeHead = new ListNode(-1);  /* 创建虚拟头结点 */
         ListNode *cur = fakeHead;
-        while (!nodes.empty()) 
+        while (!nodesQ.empty()) 
         {
-            cur->next = nodes.top();  /* 取出最小值对应的结点指针，挂接在游标指针上 */
+            cur->next = nodesQ.top();  /* 取出最小值对应的结点指针，挂接在游标指针上 */
             cur = cur->next;
-            nodes.pop();
+            nodesQ.pop();
 
             if (cur->next != NULL)  /* 只要挂接点后面还有结点，则将其压入栈，继续从中拿出最大值，循环往复 */
             {
-                nodes.push(cur->next);
+                nodesQ.push(cur->next);
             }
         }
 
