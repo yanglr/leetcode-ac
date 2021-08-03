@@ -3,6 +3,8 @@
 #include <iostream>
 using namespace std;
 
+/* 49 / 256 test cases passed. */
+
 class Solution {
 public:
     string simplifyPath(string path) {
