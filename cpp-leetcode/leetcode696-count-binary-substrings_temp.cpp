@@ -16,13 +16,21 @@ public:
         int count = 0;
         for (auto str : vect1)
         {
-            if (s.find(str) != string::npos)
+            int startPos = 0;
+            while (string::npos != (startPos = s.find(str, startPos)))
+            {
+                ++startPos;
                 count++;
+            }
         }
         for (auto str : vect2)
         {
-            if (s.find(str) != string::npos)
+            int startPos = 0;
+            while (string::npos != (startPos = s.find(str, startPos)))
+            {
+                ++startPos;
                 count++;
+            }
         }
         return count;
     }
