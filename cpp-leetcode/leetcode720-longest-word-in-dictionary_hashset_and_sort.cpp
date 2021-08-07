@@ -8,17 +8,18 @@ using namespace std;
 class Solution {
 public:
     string longestWord(vector<string>& words) {
-        if (words.empty()) return "";
-        auto cmp = [](const string& s1, const string& s2) /* 签名使用const string& 代替string会变快一点 */
-        {
+        if (words.empty()) return "";        
+        /* 按单词长度排序, 当发现长度相等的, 把字典序小的放靠前一点 */
+        auto cmp = [](const string& s1, const string& s2) 
+        {   /* 注意: 签名使用const string& 代替string会变快一点 */
             if (s1.size() != s2.size())
                 return s1.size() > s2.size();
             return s1 < s2;
         };        
         sort(words.begin(), words.end(), cmp);  
 
-        string best = "";  // best表示当前最长目标词
-        unordered_set<string> st(words.begin(), words.end());  // 取出所有的key 放进 set        
+        string best = "";  /* best表示当前最长目标词 */
+        unordered_set<string> st(words.begin(), words.end());  /* 取出所有的key 放进 set */
         for (auto& word : words)
         {           
             bool isValid = true;
