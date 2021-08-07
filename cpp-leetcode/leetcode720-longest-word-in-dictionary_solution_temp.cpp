@@ -8,7 +8,7 @@ class Solution {
 public:
     string longestWord(vector<string>& words) {
         if (words.empty()) return "";
-        auto cmp0 = [](string s1, string s2)
+        auto cmp0 = [](const string& s1, const string& s2)
         {
             return s1.size() < s2.size();
         };        
@@ -20,7 +20,7 @@ public:
             if (isAllSubstrExist(word, words) && isSubstrCountMeet(word, words))
                 kvVect.push_back(make_pair(word, word.size()));
         }
-        auto cmp = [](pair<string, int> p1, pair<string, int> p2)
+        auto cmp = [](const pair<string, int>& p1, const pair<string, int>& p2)
         {
             if (p1.second == p2.second) return p1.first < p2.first;
             return p1.second > p2.second;
