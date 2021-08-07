@@ -11,11 +11,11 @@ public:
         if (words.empty()) return "";
         
         string best = "";  // best表示当前最长目标词
-        unordered_set<string> dict(words.begin(), words.end());  // 取出所有的key 放进 set
+        unordered_set<string> st(words.begin(), words.end());  // 取出所有的key 放进 set
 
         for (auto& word : words)
         {
-            if ((word.size() < best.size()) || (word.size() == best.size() && word > best))
+            if ((word.size() < best.size()) || (word.size() == best.size() && word > best)) /* word > best 表示按题意来的留下字典序小的, 删掉字典序较大的 */
                 continue;       /* 剪枝 pruning */
             
             bool isValid = true;
@@ -23,7 +23,7 @@ public:
             for (int i = 0; i < word.length() - 1 && isValid; i++)
             {
                 prefix.push_back(word[i]);
-                if (dict.count(prefix) == 0)
+                if (st.count(prefix) == 0)  /* 如果一直有效, 其子串应该一直在set中 */
                     isValid = false;                
             }
             if (isValid)
