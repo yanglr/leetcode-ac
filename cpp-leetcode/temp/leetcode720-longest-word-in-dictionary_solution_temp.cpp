@@ -17,7 +17,7 @@ public:
         vector<pair<string, int>> kvVect;
         for (auto word : words)
         {
-            if (isAllSubstrExist(word, words) && isSubstrCountMeet(word, words))
+            if (isAllPrefixExist(word, words) && isSubstrCountMeet(word, words))
                 kvVect.push_back(make_pair(word, word.size()));
         }
         auto cmp = [](const pair<string, int>& p1, const pair<string, int>& p2)
@@ -29,7 +29,7 @@ public:
         return kvVect.front().first;
     }
 
-    bool isAllSubstrExist(string theWord, vector<string> words)
+    bool isAllPrefixExist(string theWord, vector<string> words)
     {
         int len = theWord.size();
         int containCount = 0;
