@@ -4,7 +4,6 @@
 #include <vector>
 #include <cmath>
 #include <string>
-#include <bitset>
 using namespace std;
 
 class Solution {
