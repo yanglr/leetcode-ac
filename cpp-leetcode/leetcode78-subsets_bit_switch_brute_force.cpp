@@ -3,7 +3,6 @@
 #include <string>
 #include <vector>
 #include <cmath>
-#include <string>
 using namespace std;
 
 class Solution {
