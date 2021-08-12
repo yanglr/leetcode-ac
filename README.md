@@ -15,7 +15,7 @@
 
 欢迎关注本项目的同名公众号 **「玩转力扣」**，极客学长带你 **轻松刷 LeetCode**！
 
-<a title="玩转力扣" alt="玩转LeetCode" target="_blank" href="https://github.com/yanglr/yanglr"><img width="400" height="400" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac/assets/images/leetcode-ac-qrcode.jpg"></a>
+<a title="玩转力扣" alt="玩转LeetCode" target="_blank" href="https://github.com/yanglr/yanglr"><img width="400" height="400" src="https://github.com/yanglr/leetcode-ac/blob/master/assets/images/leetcode-ac-qrcode.jpg?raw=true"></a>
 
 <br/>
 
@@ -38,6 +38,15 @@ Gitbook 地址：<https://yanglr.gitbook.io/leetcode-ac>
 
 **4、欢迎关注 [我的知乎](https://www.zhihu.com/people/legege007)**。
 
+<br/>
+
+## 🔧 代码快速查找
+
+为方便大家迅速找到代码, 本仓库提供了如下功能:
+
+在此页面找到"Go to File", 然后输入"leetcode+题目编号"(leetcode后面跟上编号, 中间这个"+"不需要, 中间也不要输入空格), 比如: `leetcode65`, 效果如下:
+
+![代码快速查找-玩转力扣](https://github.com/yanglr/leetcode-ac/blob/master/assets/images/leetcode-code-quick-find.gif?raw=true "代码快速查找-玩转力扣-极客学长")
 
 ## 🚀 题解进度表
 
