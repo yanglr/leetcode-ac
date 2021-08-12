@@ -44,7 +44,7 @@ Gitbook 地址：<https://yanglr.gitbook.io/leetcode-ac>
 
 为方便大家迅速找到代码, 本仓库提供了如下功能:
 
-在此页面找到"Go to File", 然后输入"leetcode+题目编号"(填入编号, 这个+不需要, 中间也不要输入空格), 比如: `leetcode65`, 效果如下:
+在此页面找到"Go to File", 然后输入"leetcode+题目编号"(leetcode后面跟上编号, 中间这个"+"不需要, 中间也不要输入空格), 比如: `leetcode65`, 效果如下:
 
 ![代码快速查找-玩转力扣](https://github.com/yanglr/leetcode-ac/blob/master/assets/images/leetcode-code-quick-find.gif "代码快速查找-玩转力扣-极客学长")
 
