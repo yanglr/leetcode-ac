@@ -15,7 +15,7 @@
 
 欢迎关注本项目的同名公众号 **「玩转力扣」**，极客学长带你 **轻松刷 LeetCode**！
 
-<a title="玩转力扣" alt="玩转LeetCode" target="_blank" href="https://github.com/yanglr/yanglr"><img width="400" height="400" src="https://cdn.jsdelivr.net/gh/yanglr/leetcode-ac/assets/images/leetcode-ac-qrcode.jpg"></a>
+<a title="玩转力扣" alt="玩转LeetCode" target="_blank" href="https://github.com/yanglr/yanglr"><img width="400" height="400" src="https://github.com/yanglr/leetcode-ac/blob/master/assets/images/leetcode-ac-qrcode.jpg?raw=true"></a>
 
 <br/>
 
