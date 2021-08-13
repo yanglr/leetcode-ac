@@ -3,7 +3,7 @@
  * 日期: 2021-08-13 11:27:23
 */
 #include <iostream>
-#include <vector>
+#include <cstdio>
 using namespace std;
 
 const int N = 1e6 + 10;  // 1e6表示 10^6
