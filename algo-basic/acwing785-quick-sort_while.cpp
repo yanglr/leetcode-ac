@@ -26,7 +26,11 @@ void quickSort(int A[], int l, int r)
         // while (A[i] < x) i++;
         // j--;
         // while (A[j] > x) j--;
-        if (i < j) swap(A[i], A[j]);
+
+        // Debug
+        // printf("%d ", i);  结束时i 最小为0(在迭代中没继续移动)
+        // printf("%d\n", j);
+        if (i < j) swap(A[i], A[j]);  // 此轮处理完时j 成了新的分界点
     }
     // 递归处理左侧
     quickSort(A, l, j);
