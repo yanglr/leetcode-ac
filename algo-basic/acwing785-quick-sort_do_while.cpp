@@ -32,10 +32,11 @@ int main()
     // scanf("%d", &n);
     // for (int i = 0; i < n; i++)
     //     scanf("%d", &A[i]);
-    int n = 5;
-    int A[] = {10, 7, 6, 2, 4};
+    n = 5;
+    int T[] = {10, 7, 6, 2, 4};  
+    copy(T, T + n, A);           // n = len(T) = 5
     
-    quickSort(A, 0, n - 1);          // 用具体的 l 和 r 值调用 quickSort(A, l, r);
+    quickSort(A, 0, n - 1);      // 用具体的 l 和 r 值调用 quickSort(A, l, r);
     
     for (int i = 0; i < n; i++)
         printf("%d ", A[i]);

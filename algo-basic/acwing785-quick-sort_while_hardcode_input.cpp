@@ -36,8 +36,8 @@ int main()
     // for (int i = 0; i < n; i++)
     //     scanf("%d", &A[i]);
     n = 5;
-    int T[] = {10, 7, 6, 2, 4};
-    copy(T, T + 5, A);          // std::copy
+    int T[] = {3, 2, 2, 5, 3}; /* 使用临时数组保存input中的数组, 之前为A设置了最大长度, 但具体使用时不一定需要用这么多空间, 于是这里使用std::copy给实际情况赋值  */
+    copy(T, T + n, A);          // std::copy, 而 n = len(T) = 5
     
     quickSort(A, 0, n - 1);     // 用具体的 l 和 r 值调用 quickSort(A, l, r);
     
