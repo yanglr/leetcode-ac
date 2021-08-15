@@ -7,7 +7,7 @@ using namespace std;
 class Solution {
 public:
     int myAtoi(string s) {
-        s.erase(0, s.find_first_not_of(' '));  //去前导空格
+        s.erase(0, s.find_first_not_of(' '));  //去掉前导空格
         if(s == "") return 0;
         if((s[0] == '-' && s[1] =='+') || (s[0]=='+' && s[0] == '-')) return 0; //两种符号直接特判
         bool is_neg = false;
