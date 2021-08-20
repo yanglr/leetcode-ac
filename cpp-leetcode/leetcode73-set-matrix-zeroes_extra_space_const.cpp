@@ -12,7 +12,7 @@ public:
         if (!cols) return;
 
         int flag = 2e3;  /* 1 <= m, n <= 200, 故设置一个范围外的flag即可 */
-        for (int i = 0; i < rows; i++)     /* 先把需要改的坐标都标上flag, 最后将标flag的位置进行一次性只0 */
+        for (int i = 0; i < rows; i++)     /* 先把需要改的坐标都标上flag, 最后将标flag的位置进行一次性置0 */
             for (int j = 0; j < cols; j++)
                 if (M[i][j] == 0)
                 {
