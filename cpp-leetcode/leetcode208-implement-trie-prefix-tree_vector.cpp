@@ -79,4 +79,6 @@ int main()
     cout << (trie->startsWith("app") == true ? "true" : "false") << endl; // return true
     trie->insert("app");
     cout << (trie->search("app") == true ? "true" : "false") << endl; // return true
+
+    return 0;
 }
