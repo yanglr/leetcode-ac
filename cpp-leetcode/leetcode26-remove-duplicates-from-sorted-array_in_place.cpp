@@ -1,7 +1,7 @@
 #include<cstdio>
 #include<vector>
 using namespace std;
-
+/* 本题要求原地in-place 操作 */
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
