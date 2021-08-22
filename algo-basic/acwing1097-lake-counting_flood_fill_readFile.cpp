@@ -19,11 +19,11 @@ char g[N][N];
 bool st[N][N];  // st: 代表state
 PII q[M];
 
-void bfs(int x, int y)
+void bfs(int startX, int startY)
 {
-    int hh = 0, tt = -1;   // 模拟一个队列, hh: 队头, tt: 队尾, q中装的是pair<x, y>
-    q[++tt] = {x, y};
-    st[x][y] = true;
+    int hh = 0, tt = -1;   // 模拟一个队列, hh: 队头, tt: 队尾, q中装的是pair<startX, startY>
+    q[++tt] = {startX, startY};
+    st[startX][startY] = true;
 
     while (hh <= tt)
     {
