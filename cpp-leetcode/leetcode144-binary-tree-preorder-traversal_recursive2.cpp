@@ -27,8 +27,8 @@ public:
         vector<int> left = preorderTraversal(root->left);
         vector<int> right = preorderTraversal(root->right);
         // 合并各个数组到res数组
-        res.insert(res.end(),left.begin(),left.end());
-        res.insert(res.end(),right.begin(),right.end());
+        res.insert(res.end(), left.begin(), left.end());
+        res.insert(res.end(), right.begin(), right.end());
 
         return res;        
     }
