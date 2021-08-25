@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+/** 如果有多种方法, 可以将文件名和class 名字都改为 Leetcode1_method2或Leetcode1b 这种格式 */
 class Leetcode1 {
     public int[] twoSum(int[] nums, int target) {
         int[] res = new int[2];
