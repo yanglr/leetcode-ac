@@ -27,10 +27,11 @@ public:
     }
 };
 
+// Test
 int main()
 {
     Solution sol;
-    vector<int> nums = { 0,1,0,1,0,1,99 };
+    vector<int> nums = {0, 1, 0, 1, 0, 1, 99};
     printf("%d ", sol.singleNumber(nums));
     return 0;
 }

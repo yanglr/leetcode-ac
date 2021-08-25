@@ -22,7 +22,7 @@ public:
         }
         
         int res = 0;
-        for (int i=0; i < 32; i++)
+        for (int i = 0; i < 32; i++)
         {
             res += ((bits2 >> i) & 1) << i;
         }
