@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Leetcode84 {
+class Leetcode84 {
     public int largestRectangleArea(int[] heights) {
         if (heights == null || heights.length == 0) return 0;
 
