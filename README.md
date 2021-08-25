@@ -117,13 +117,13 @@ Gitbook 地址：<https://yanglr.gitbook.io/leetcode-ac>
 ### Java代码:
 
 intelliJ idea 版:
-[java-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode_intelliJ_idea)
+[java-leetcode Idea](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode_intelliJ_idea)
 
 VS code 版:
-[java-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode_vscode)
+[java-leetcode vscode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode_vscode)
 
 
-Golang代码:
+### Golang代码:
 [go-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/go-leetcode)
 
 <br/>
