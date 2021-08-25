@@ -35,7 +35,7 @@ public:
             return nullptr;
         int rootVal = pre[preStart]; /* 不能写成 rootVal=pre.front();, 因为数组pre是不变的, 但实际上要处理的区间一直是缩小的, 即 preStart是递增变化的 */
         auto root = new TreeNode(rootVal);
-        int k = posDict[rootVal];
+        int k = posDict[rootVal]; // 找到当前的root结点在中序遍历中的位置
         root->left = build(preStart+1, k + preStart - inStart, inStart, k - 1);
         root->right = build(k+1+preStart - inStart, preEnd, k+1, inEnd);
 
