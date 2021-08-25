@@ -3,6 +3,7 @@ class Test2 {
         return a + b;
     }
 
+    // Test
     public static void main(String[] args) {
         Test2 sol = new Test2();
         int a = 2, b = 5;

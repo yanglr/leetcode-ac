@@ -17,6 +17,7 @@ class Leetcode1 {
         return res;
     }
 
+    // Test
     public static void main(String[] args) {
         Leetcode1 sol = new Leetcode1();
         int[] nums = { 2, 1, 5, 6, 2, 3 };
