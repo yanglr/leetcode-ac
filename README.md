@@ -115,7 +115,11 @@ Python代码:
 
 
 Java代码:
-[java-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode)
+intelliJ idea 版:
+[java-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode_intelliJ_idea)
+
+VS code 版:
+[java-leetcode](https://github.com/yanglr/leetcode-ac/tree/master/java-leetcode_vscode)
 
 
 Golang代码:
