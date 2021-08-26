@@ -25,7 +25,7 @@ public:
     }
 };
 
-// Below is testing
+// Test
 int main()
 {
     int n = 9;
