@@ -36,7 +36,6 @@ int main()
 {
 	Solution sol;
 	TreeNode* root = new TreeNode(1);    
-    root->left = NULL; 
     root->right = new TreeNode(3); 
     root->left = new TreeNode(2); 
     root->right->left = nullptr;
