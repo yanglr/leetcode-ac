@@ -37,7 +37,7 @@ public:
         return newHead;
     }
 
-    /* 左闭又开区间 */
+    /* 左闭右开区间 */
     ListNode* reverse(ListNode *head, ListNode *tail) {
         ListNode *pre = NULL;
         ListNode *nextP = NULL;
