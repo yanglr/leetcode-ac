@@ -11,19 +11,19 @@ public:
         for (int i = 1; i <= updates.size(); i++)
         {
             vector<int> group = updates[i - 1];
-            int l = group[0];
-            int r = group[1];
-            int c = group[2];
+            int startIndex = group[0];
+            int endIndex = group[1];
+            int inc = group[2];
 
-            rangeInc(diff, l, r, c);
+            rangeInc(diff, startIndex, endIndex, inc);
         }
         // 反推出前缀和
-        vector<int> A(length + 1, 0);
+        vector<int> preSum(length + 1, 0);
         for (int i = 0; i <= length - 1; i++)
-            A[i + 1] = A[i] + diff[i];
-        A.erase(A.begin()); // 删除前缀和数组多余的数: 第一个元素0
+            preSum[i + 1] = preSum[i] + diff[i];
+        preSum.erase(preSum.begin()); /* 删除前缀和数组多余的数: 第一个元素0 */
 
-        return A;
+        return preSum;
     }
     // [l, r]范围的差分数组的所有元素+c
     void rangeInc(vector<int>& diff, int l, int r, int c)
