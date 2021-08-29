@@ -10,17 +10,18 @@ public:
         vector<int> diff(length + 1, 0);
         for (int i = 1; i <= updates.size(); i++)
         {
-            vector<int> group = updates[i-1];
+            vector<int> group = updates[i - 1];
             int l = group[0];
             int r = group[1];
             int c = group[2];
-            
+
             rangeInc(diff, l, r, c);
         }
         // 反推出前缀和
-        vector<int> A(length+1, 0);
-        for (int i = 0; i <= length - 1; i++) A[i+1] = A[i] + diff[i];     
-        A.erase(A.begin()); // 删除前缀和数组第一个元素0
+        vector<int> A(length + 1, 0);
+        for (int i = 0; i <= length - 1; i++)
+            A[i + 1] = A[i] + diff[i];
+        A.erase(A.begin()); // 删除前缀和数组多余的数: 第一个元素0
 
         return A;
     }
