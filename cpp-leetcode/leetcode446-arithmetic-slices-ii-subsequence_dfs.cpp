@@ -72,8 +72,8 @@ public:
 int main()
 {
     Solution sol;
-    vector<int> nhashmap = { 1, 1, 2, 3, 4, 5 };
-    auto res = sol.numberOfArithmeticSlices(nhashmap);
+    vector<int> nums = { 1, 1, 2, 3, 4, 5 };
+    auto res = sol.numberOfArithmeticSlices(nums);
     cout << res << endl;
     
     return 0;
