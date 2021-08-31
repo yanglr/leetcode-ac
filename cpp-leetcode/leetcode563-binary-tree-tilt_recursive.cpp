@@ -20,7 +20,7 @@ public:
         dfs(root, tiltSum);
         return tiltSum;
     }
-    // dfs: 计算当前结点的所有孩子节点之和
+    // dfs: 计算当前结点的子树中所有孩子节点之和
     int dfs(TreeNode* root, int& tiltSum)
     {
         if (root == nullptr) return 0;
