@@ -51,7 +51,7 @@ int main()
     n4->left = n7;
     n4->right = n8;
     TreeNode *res = sol.lowestCommonAncestor(root, n1, n7); /* 输出2与3的LCA */
-    cout <<  res->val << endl;
-    
+    cout << res->val << endl;
+
     return 0;
 }
