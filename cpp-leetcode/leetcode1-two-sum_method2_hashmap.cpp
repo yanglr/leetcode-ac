@@ -34,7 +34,7 @@ int main()
     vector<int> res1= sol.twoSum(arr1, 6); 
     vector<int> res2= sol.twoSum(arr2, 6);
     for (int i : res1)
-    printf("%d ", i);
+        printf("%d ", i);
     printf("\n");
     for (int i : res2)
         printf("%d ", i);
