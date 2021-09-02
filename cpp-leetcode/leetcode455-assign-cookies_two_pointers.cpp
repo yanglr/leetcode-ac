@@ -20,11 +20,11 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
     vector<int> s = {1,2,3};  // cookies we have
     vector<int> g = {3};
         
-	int res = sol.findContentChildren(g, s);
+    int res = sol.findContentChildren(g, s);
     cout << res << endl;
 
     return 0;

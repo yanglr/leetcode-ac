@@ -6,9 +6,9 @@ using namespace std;
 class Solution {
 public:
     int maxCount(int m, int n, vector<vector<int>>& ops) {
-        /* 数组row 存储水平向右方向1 的累加和, 数组col 存储竖直向下方向1 的累加和*/		
-		vector<int> row(m);
-		vector<int> col(n);
+        /* 数组row 存储水平向右方向1 的累加和, 数组col 存储竖直向下方向1 的累加和*/        
+        vector<int> row(m);
+        vector<int> col(n);
         for (auto op : ops)
         {
             int maxRow = op[0];

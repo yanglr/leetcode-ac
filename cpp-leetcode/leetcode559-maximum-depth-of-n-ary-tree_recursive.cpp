@@ -35,9 +35,9 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
     
-	Node* root = new Node(1);  
+    Node* root = new Node(1);  
     auto child1 = new Node(3);
     auto child11= new Node(5);
     auto child12= new Node(6);
@@ -49,8 +49,8 @@ int main()
     auto child3 = new Node(4);
     root->children.push_back(child2);     
     root->children.push_back(child3); 
-	
-	auto res = sol.maxDepth(root);
+    
+    auto res = sol.maxDepth(root);
     cout << res << endl;
     
     return 0;

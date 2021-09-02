@@ -34,14 +34,14 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
 
-	TreeNode* root = new TreeNode(1);    
+    TreeNode* root = new TreeNode(1);    
     root->left = NULL; 
     root->right = new TreeNode(2); 
     root->right->left = new TreeNode(3); 
-	
-	vector<int> res = sol.inorderTraversal(root);
+    
+    vector<int> res = sol.inorderTraversal(root);
     for (auto num : res)
         cout << num << endl;    
 

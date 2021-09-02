@@ -35,10 +35,10 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
     string str = "5F3Z-2e-9-w";
     int k = 4;
-	auto res = sol.licenseKeyFormatting(str, k);
+    auto res = sol.licenseKeyFormatting(str, k);
     cout << res << endl;    
 
     return 0;

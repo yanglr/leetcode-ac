@@ -37,7 +37,7 @@ int main()
     int numRows = 5;
     vector<vector<int>> res = sol.generate(numRows);
 
-	for (int i = 0; i < res.size(); i++)
+    for (int i = 0; i < res.size(); i++)
     {
         for (int j = 0; j < res[i].size(); j++)
         {

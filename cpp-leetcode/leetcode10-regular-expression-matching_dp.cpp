@@ -34,10 +34,10 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
     string s = "aab", p = "c*a*b";
-	auto res = sol.isMatch(s, p);
+    auto res = sol.isMatch(s, p);
     cout << (res == true ? "true" : "false") << endl;
-        
+
     return 0;
 }

@@ -7,7 +7,7 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> res;        
-        const int len = nums.size();		
+        const int len = nums.size();        
         int cand1, cand2;           /* 最多有2个众数(出现超过 ⌊n/3⌋ 次), 后面打擂台更新 */
         int votes1 = 0, votes2 = 0; 
         // 第1阶段 - 成对抵销

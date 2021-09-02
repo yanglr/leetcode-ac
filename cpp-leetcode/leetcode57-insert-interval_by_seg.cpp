@@ -19,7 +19,7 @@ public:
             newInterval[0] = min(newInterval[0], intervals[k][0]);
 
             while (k < len && intervals[k][0] <= newInterval[1]) 
-				newInterval[1] = max(newInterval[1], intervals[k++][1]);
+                newInterval[1] = max(newInterval[1], intervals[k++][1]);
         }
         res.push_back(newInterval);
 

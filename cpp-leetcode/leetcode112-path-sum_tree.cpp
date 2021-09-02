@@ -34,20 +34,20 @@ public:
 // Test
 int main()
 {
-	Solution sol;
-	TreeNode* root = new TreeNode(1);    
+    Solution sol;
+    TreeNode* root = new TreeNode(1);    
     root->right = new TreeNode(3); 
     root->left = new TreeNode(2); 
     root->right->left = nullptr;
     root->right->right = nullptr;
     root->left->left = nullptr;
     root->left->right = nullptr;
-	int targetSum = 4;
-	bool res = sol.hasPathSum(root, targetSum);
+    int targetSum = 4;
+    bool res = sol.hasPathSum(root, targetSum);
     cout << (res == true ? "true" : "false") << endl;    
 
-	targetSum = 5;
-	res = sol.hasPathSum(root, targetSum);
+    targetSum = 5;
+    res = sol.hasPathSum(root, targetSum);
     cout << (res == true ? "true" : "false") << endl; 
 
     return 0;

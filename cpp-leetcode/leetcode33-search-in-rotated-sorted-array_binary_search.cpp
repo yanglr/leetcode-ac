@@ -13,7 +13,7 @@ public:
         {
             int mid = (left + right) / 2;
             if (nums[mid] == target) return mid;
-	        /* 比较 nums[right], nums[mid], nums[left], target 几处的值 */
+            /* 比较 nums[right], nums[mid], nums[left], target 几处的值 */
             if (nums[mid] < nums[right]) // 包括mid在内的后半段有序
             {
                 if (nums[mid] < target && nums[right] >= target) left = mid + 1;

@@ -19,10 +19,10 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
     int num = 10;
-	auto res = sol.arrangeCoins(num);
+    auto res = sol.arrangeCoins(num);
     cout << res << endl;
 
-	return 0;
+    return 0;
 }

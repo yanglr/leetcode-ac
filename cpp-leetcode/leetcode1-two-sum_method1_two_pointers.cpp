@@ -26,10 +26,10 @@ public:
 // 下面是测试
 int main()
 {
-	Solution sol;
-	vector<int> arr = {3, 2, 4};
-	vector<int> res = sol.twoSum(arr, 7);
-	for (int i : res)
-		printf("%d ", i);
-	return 0;
+    Solution sol;
+    vector<int> arr = {3, 2, 4};
+    vector<int> res = sol.twoSum(arr, 7);
+    for (int i : res)
+        printf("%d ", i);
+    return 0;
 }

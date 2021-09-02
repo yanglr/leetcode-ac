@@ -54,9 +54,9 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
 
-	TreeNode* root = new TreeNode(3);    
+    TreeNode* root = new TreeNode(3);    
     root->left = new TreeNode(9); 
     root->right = new TreeNode(20); 
     root->right->left = new TreeNode(15);     

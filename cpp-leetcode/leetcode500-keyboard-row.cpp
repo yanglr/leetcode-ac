@@ -49,9 +49,9 @@ public:
 // Test
 int main()
 {
-	Solution sol;
+    Solution sol;
     vector<string> words = {"a","b"};
-	auto res = sol.findWords(words);
+    auto res = sol.findWords(words);
     for (auto str : res)
         cout << str << endl;
         
