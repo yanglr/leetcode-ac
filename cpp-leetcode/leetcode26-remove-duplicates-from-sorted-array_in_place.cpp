@@ -23,7 +23,7 @@ public:
 int main()
 {
     Solution sol;
-    vector<int> arr={3,2,4,8,3};
+    vector<int> arr = {3, 2, 4, 8, 3};
     auto res = sol.removeDuplicates(arr);
     printf("%d ",res);
     return 0;
