@@ -5,7 +5,7 @@ using namespace std;
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        if(nums.empty()) return 0;
+        if (nums.empty()) return 0;
         int p = 0; // 用指针p 指向发现的新值的index
         for (int i = 0; i < nums.size(); i++)
         {
@@ -15,7 +15,7 @@ public:
                 nums[p] = nums[i];
             }
         }
-        return p+1;
+        return p + 1;
     }
 };
 
