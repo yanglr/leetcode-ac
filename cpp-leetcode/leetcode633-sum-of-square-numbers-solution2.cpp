@@ -2,11 +2,9 @@
 #include <cmath>
 using namespace std;
 
-class Solution
-{
+class Solution {
 public:
-    bool judgeSquareSum(int c)
-    {
+    bool judgeSquareSum(int c) {
         for (long i = 0; c - 2 * i * i >= 0; i++)
         {
             int diff = c - i * i;
