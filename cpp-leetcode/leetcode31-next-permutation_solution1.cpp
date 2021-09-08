@@ -14,7 +14,7 @@ public:
 int main()
 {
     Solution sol;
-    vector<int> nums = {1,1,5};
+    vector<int> nums = {1, 1, 5};
     sol.nextPermutation(nums);
 
     for (int num : nums)
