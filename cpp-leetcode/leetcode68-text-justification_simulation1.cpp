@@ -9,7 +9,7 @@ public:
     vector<string> fullJustify(vector<string>& words, int maxWidth) {
         vector<string> res;
         int n = words.size();
-        int p = 0;
+        int p = 0;           // p: word index
         while (p < n)
         {
             int j = p + 1;
@@ -24,26 +24,24 @@ public:
             }            
             if (j == p + 1) // 当前行只有一个单词时, 左对齐并补全空格
             {
-                string word = words[p];
+                string lineStr = words[p];
                 if (maxWidth > curLen)
-                    word += fillSpaces(maxWidth - curLen);
-                res.push_back(word);
+                    appendSpaces(lineStr, maxWidth - curLen);
+                res.push_back(lineStr);
             }
             else
             {
-                res.push_back("");
-                string lastLine = res.back();                
+                string curLine = "";                
                 int remainSpCount = maxWidth - curLen; // remainSpCount：最后一处填充空格数
                 int partsCount = j - 1 - p; /* partsCount: 单词之间能填充连续空格的位置个数（单词数 - 1） */
-                // 如果是最后一行, 左对齐, 且单词之间只能填充一个空格, 末尾填充剩余空格数
-                if (j == n)
+                if (j == n) /* 如果是最后一行, 左对齐, 且单词之间只能填充一个空格, 末尾填充剩余空格数 */
                 {
                     for (int i = 0; i <= partsCount; i++)
                     {
-                        lastLine.append(words[p + i]);
-                        if (i < partsCount) lastLine.push_back(' ');
+                        curLine.append(words[p + i]);
+                        if (i < partsCount) curLine.push_back(' ');
                     }
-                    lastLine.append(fillSpaces(remainSpCount));
+                    appendSpaces(curLine, remainSpCount);
                 }
                 else
                 {   // 非最后一行且有多个单词, aveSpCount: 单词之间平均填充空格数
@@ -51,23 +49,20 @@ public:
                     remainSpCount -= aveSpCount * partsCount;
                     for (int i = 0; i <= partsCount; i++)
                     {
-                        lastLine.append(words[p + i]);
-                        if (i < remainSpCount) lastLine.append(fillSpaces(aveSpCount + 2));
-                        else if (i < partsCount) lastLine.append(fillSpaces(aveSpCount + 1));
+                        curLine.append(words[p + i]);
+                        if (i < remainSpCount) appendSpaces(curLine, aveSpCount + 2);
+                        else if (i < partsCount) appendSpaces(curLine, aveSpCount + 1);
                     }
                 }
-                res.back() = lastLine;
+                res.push_back(curLine);
             }
             p = j;
         }
         return res;
     }
-    string fillSpaces(int n)
+    void appendSpaces(string& s, int n)
     {
-        string str = "";
-        for (int i = 0; i < n; i++)
-            str.push_back(' ');
-        return str;
+        s.insert(s.end(), n, ' ');
     }
 };
 
