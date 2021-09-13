@@ -9,12 +9,12 @@ public:
     bool validSquare(vector<int>& p1, vector<int>& p2, vector<int>& p3, vector<int>& p4) {
         unordered_set<int> set = 
         {
-            GetLenSquare(p1, p2),
-            GetLenSquare(p1, p3),
-            GetLenSquare(p1, p4),
-            GetLenSquare(p2, p3),
-            GetLenSquare(p2, p4),
-            GetLenSquare(p3, p4)
+            getLenSquare(p1, p2),
+            getLenSquare(p1, p3),
+            getLenSquare(p1, p4),
+            getLenSquare(p2, p3),
+            getLenSquare(p2, p4),
+            getLenSquare(p3, p4)
         };
 
         if (set.find(0) == set.end() && set.size() == 2)  // 所有邻边+对角线中，菱形有3种长度, 平行四边形(含长方形)有4种长度, 其他四边形有6种长度 
@@ -24,7 +24,7 @@ public:
 
         return false;
     }
-    int GetLenSquare(vector<int> point1, vector<int> point2) {
+    int getLenSquare(vector<int> point1, vector<int> point2) {
        return (point2[0] - point1[0]) * (point2[0] - point1[0]) + (point2[1] - point1[1]) * (point2[1] - point1[1]);
     }    
 };
