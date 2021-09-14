@@ -11,16 +11,16 @@ public:
     vector<vector<string>> solveNQueens(int n) {
         N = n;
         string curRow;
-        // 将棋盘 board 的格子全设置为.
+        // 将棋盘 board 的格子全初始化为空白格(题中要求用.表示)
         for (int i = 0; i < n; i++)
             curRow += ".";
         for (int i = 0; i < n; i++)
             board.push_back(curRow);
 
-        dfs(0);
+        dfs(0); // 从第1行(行索引为0)开始放置
         return res;
     }
-
+    /* dfs的作用: 外部接口是放置第i行, 内部操作是: 遍历当前行的每一列 */
     void dfs(int i)
     {
         if (i == N)
@@ -55,7 +55,7 @@ public:
             if (board[row - k][col - k] == 'Q') return false;
             k++;
         }
-        k = 1;
+        k = 1; // 复位
         while (row - k >= 0 && col + k < N)
         {
             /* / 斜线 (撇) 上出现了皇后, 返回false */
