@@ -35,7 +35,7 @@ public:
 int main()
 {
     Solution sol;
-    vector<int> nums = { 1,2,3 };
+    vector<int> nums = {1, 2, 1, 3};
     auto res = sol.subsetsWithDup(nums);
     for (auto& row : res) // 遍历每一行
     {
