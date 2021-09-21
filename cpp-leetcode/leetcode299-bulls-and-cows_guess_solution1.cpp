@@ -45,6 +45,7 @@ int main()
     Solution sol;
     string secret = "1122", guess = "2211";
     auto res = sol.getHint(secret, guess);
-    
     cout << res << endl;
+
+    return 0;
 }
