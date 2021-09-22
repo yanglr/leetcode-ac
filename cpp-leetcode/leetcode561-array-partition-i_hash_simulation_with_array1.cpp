@@ -1,5 +1,4 @@
 #include<vector>
-#include<array>
 #include<algorithm>
 #include<iostream>
 using namespace std;
@@ -7,32 +6,22 @@ using namespace std;
 class Solution {
 public:
     int arrayPairSum(vector<int>& nums) {
-        const int maxVal = 10000;
-        array<int, 2*maxVal + 1> countDict{};
-
-        for (int num : nums)
-            ++countDict[num + maxVal];
-
-        int ans = 0;
-        int n = -maxVal;
-        bool first = true;
-
-        while (n <= maxVal)
+        vector<int> countDict(20001);
+        for (int i = 0; i < nums.size(); i++)
+            countDict[nums[i] + 10000]++; /* 数组中的数全加上10000映射到index >= 0的范围内, 方便实现数组模拟哈希表 */
+        int res = 0;
+        bool odd = true; // 第1个元素(index = 0)的编号为1, 是奇数
+        for (int i = 0; i < countDict.size(); i++)
         {
-            if (countDict[n + maxVal] == 0)
+            while (countDict[i] > 0)
             {
-                ++n;
-                continue;
+                if (odd)
+                    res += (i - 10000);
+                odd = !odd;
+                --countDict[i];
             }
-            if (first)
-            {
-                ans += n;
-                first = false;
-            }
-            else first = true;
-            --countDict[n + maxVal];
         }
-        return ans;
+        return res;
     }
 };
 
