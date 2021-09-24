@@ -56,36 +56,38 @@ public:
         dfs(head);
         return head;
     }
-    // 由题意: 需要将h结点往后走的最后一个child指针(下方代码中的childEnd)指向撸直前的next指针指向的结点
+
     Node* dfs(Node* h)
     {
         if (h == nullptr) return nullptr;
+
+        Node* next = h->next;
         Node* child = h->child;
-        Node* nextP = h->next;
         h->child = nullptr;
-        if (child && nextP)
+
+        if (child == nullptr && next == nullptr)
+            return h;
+        else if (child != nullptr && next == nullptr)
         {
-            Node* childEnd = dfs(child);
-            Node* nextEnd = dfs(nextP);
             h->next = child;
             child->prev = h;
-            childEnd->next = nextP;  /* 核心语句 */
-            nextP->prev = childEnd;  // 配套语句
-            return nextEnd;
-        }
-        else if (!child && nextP) /* 特殊情况1: h的child指针为空, 只需dfs处理nextP, 没有child意味着不需要做最后一个child指针与nextP的挂接 */
-        {
-            Node* nextEnd = dfs(nextP);
-            return nextEnd;
-        }
-        else if (child && !nextP) /* 特殊情况2: h的next指针为空, 只需dfs处理child */
-        {
             Node* childEnd = dfs(child);
-            h->next = child;
-            child->prev = h;
             return childEnd;
         }
-        return h;
+        else if (child == nullptr && next != nullptr)
+        {
+            Node* nextEnd = dfs(next);
+            return nextEnd;
+        }
+        else
+        {
+            h->next = child;
+            child->prev = h;
+            Node* childEnd = dfs(child);
+            childEnd->next = next;
+            next->prev = childEnd;
+            return dfs(next);
+        }
     }
 };
 
