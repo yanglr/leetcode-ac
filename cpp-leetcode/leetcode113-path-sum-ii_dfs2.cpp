@@ -18,23 +18,28 @@ struct TreeNode
 class Solution {
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<vector<int>> paths;
+        vector<vector<int>> res;
         vector<int> curPath;
-        dfs(root, targetSum, paths, curPath);
-        return paths;
+        dfs(root, targetSum, curPath, res);
+        return res;
     }
-    /* 类似于two sum的做法, 下次调用dfs时传入dfs的新sum为sum - root->val */
-    void dfs(TreeNode* root, int sum, vector<vector<int>>& paths, vector<int> curPath)
+    void dfs(TreeNode* root, int sum, vector<int>& curPath, vector<vector<int>>& res)
     {
         if (root == nullptr) return;
-        curPath.push_back(root->val);  
-        if (root->val == sum && root->left == nullptr && root->right == nullptr)
-            paths.push_back(curPath);
-        else
+        if (root->left == nullptr && root->right == nullptr) /* 走到叶子节点, 就没法继续向下走了 */
         {
-            dfs(root->left, sum - root->val, paths, curPath);
-            dfs(root->right, sum - root->val, paths, curPath);
+            if (root->val == sum) /* 特殊情况, 当前结点的值就是需要找的sum */
+            {
+                curPath.push_back(root->val);
+                res.push_back(curPath);
+                curPath.pop_back();    /* Un-choose(回到选这个结点之前的状态), 尝试找下一个 */
+            }
+            return;
         }
+        curPath.push_back(root->val);
+        int newSum = sum - root->val;
+        dfs(root->left, newSum, curPath, res);
+        dfs(root->right, newSum, curPath, res);
         curPath.pop_back();
     }
 };

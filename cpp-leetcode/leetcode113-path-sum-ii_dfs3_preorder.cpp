@@ -16,25 +16,31 @@ struct TreeNode
 };
 
 class Solution {
+    vector<vector<int>> res;
+    int _targetSum;
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<vector<int>> paths;
+        _targetSum = targetSum;
         vector<int> curPath;
-        dfs(root, targetSum, paths, curPath);
-        return paths;
+        int sum = 0;
+        preOrder(root, _targetSum, curPath, sum);
+        return res;
     }
-    /* 类似于two sum的做法, 下次调用dfs时传入dfs的新sum为sum - root->val */
-    void dfs(TreeNode* root, int sum, vector<vector<int>>& paths, vector<int> curPath)
+    void preOrder(TreeNode* root, int targetSum, vector<int>& curPath, int curSum)
     {
         if (root == nullptr) return;
-        curPath.push_back(root->val);  
-        if (root->val == sum && root->left == nullptr && root->right == nullptr)
-            paths.push_back(curPath);
-        else
+        curSum += root->val;
+        curPath.push_back(root->val);
+
+        if (root->left == nullptr && root->right == nullptr)
         {
-            dfs(root->left, sum - root->val, paths, curPath);
-            dfs(root->right, sum - root->val, paths, curPath);
+            if (curSum == targetSum) res.emplace_back(curPath);
+            curPath.pop_back();
+            return;
         }
+
+        preOrder(root->left, targetSum, curPath, curSum);
+        preOrder(root->right, targetSum, curPath, curSum);
         curPath.pop_back();
     }
 };
