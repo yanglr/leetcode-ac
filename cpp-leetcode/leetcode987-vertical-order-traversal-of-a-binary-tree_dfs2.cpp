@@ -25,18 +25,18 @@ public:
         dfs(root, 0, 0);
         for (int i = 0; i < dict.size(); i++) /* i: 不同x值的个数 */
         {
-            int x = minX + i;
+            int x = minX + i; /* 遍历完x所在的区间 [minX, maxX] */
             auto cmp = [](pair<int, int>& p1, pair<int, int>& p2)
             {
                 if (p1.first != p2.first)
                     return (p1.first > p2.first);
                 return p1.second < p2.second;
             };
-            auto kvp = dict[x];  // array of (y, val) for given x               
-            sort(kvp.begin(), kvp.end(), cmp);
+            auto arr = dict[x];  // array of (y, val) for given x               
+            sort(arr.begin(), arr.end(), cmp);
             vector<int> vLine;             
-            for (int j = 0; j < kvp.size(); j++)
-                vLine.push_back(kvp[j].second);
+            for (int j = 0; j < arr.size(); j++)
+                vLine.push_back(arr[j].second);
             res.push_back(vLine);            
         }
         return res;

@@ -32,11 +32,11 @@ public:
                     return (p1.first > p2.first);
                 return p1.second < p2.second;
             };
-            auto kvp = dict[i];  // array of (y, val) for given x               
-            sort(kvp.begin(), kvp.end(), cmp);
+            auto arr = dict[i];  // array of (y, val) for given x               
+            sort(arr.begin(), arr.end(), cmp);
             vector<int> vLine;             
-            for (int j = 0; j < kvp.size(); j++)
-                vLine.push_back(kvp[j].second);
+            for (int j = 0; j < arr.size(); j++)
+                vLine.push_back(arr[j].second);
             res.push_back(vLine);            
         }
         return res;
@@ -45,7 +45,7 @@ public:
     {
         if (!root) return;
         dict[x].push_back({y, root->val});
-        minX = min(minX, x); /* 与主函数verticalTraversal()中的语句 int x = minX + i; 配合使用 */
+        minX = min(minX, x);
         dfs(root->left, x - 1, y - 1);
         dfs(root->right, x + 1, y - 1);
     }
