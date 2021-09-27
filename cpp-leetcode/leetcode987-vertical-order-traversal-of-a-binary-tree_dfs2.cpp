@@ -23,16 +23,16 @@ public:
     {
         vector<vector<int>> res;
         dfs(root, 0, 0);
-        int maxX = minX + dict.size();
-        for (int i = minX; i < maxX; i++)
+        for (int i = 0; i < dict.size(); i++) /* i: 不同x值的个数 */
         {
+            int x = minX + i;
             auto cmp = [](pair<int, int>& p1, pair<int, int>& p2)
             {
                 if (p1.first != p2.first)
                     return (p1.first > p2.first);
                 return p1.second < p2.second;
             };
-            auto kvp = dict[i];  // array of (y, val) for given x               
+            auto kvp = dict[x];  // array of (y, val) for given x               
             sort(kvp.begin(), kvp.end(), cmp);
             vector<int> vLine;             
             for (int j = 0; j < kvp.size(); j++)
