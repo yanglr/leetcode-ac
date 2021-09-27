@@ -23,8 +23,8 @@ public:
     {
         vector<vector<int>> res;
         dfs(root, 0, 0);
-        int maxX = minX + dict.size();
-        for (int i = minX; i < maxX; i++)
+        int maxX = minX + dict.size() - 1;
+        for (int i = minX; i <= maxX; i++)
         {
             auto cmp = [](pair<int, int>& p1, pair<int, int>& p2)
             {
