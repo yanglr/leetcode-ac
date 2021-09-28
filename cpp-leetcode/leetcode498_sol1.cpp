@@ -29,19 +29,19 @@ public:
         // path2: M[2][0] -> M[1][1] -> M[0][2]
         return res;
     }
-    vector<int> getPath(int sr, int sc, vector<vector<int>>& M, int maxR, int maxC)
+    vector<int> getPath(int x, int y, vector<vector<int>>& M, int maxR, int maxC)
     {
         vector<int> path;
-        bool isValid = sr >= 0 && sr < maxR && sc < maxC && sc >= 0;
+        bool isValid = x >= 0 && x < maxC && y < maxR && y >= 0;
         if (isValid)
-            path.push_back(M[sr][sc]);
-        for (int i = sr - 1; i >= 0; i--)
+            path.push_back(M[y][x]);
+        for (int i = x - 1; i >= 0; i--)
         {
-            int newX = sr - 1;
-            int newY = sc + 1;
-            isValid = newX >= 0 && newX < maxR && newY < maxC && newY >= 0;
+            int newX = x - 1;
+            int newY = y + 1;
+            isValid = newX >= 0 && newX < maxC && newY < maxR && newY >= 0;
             if (isValid)
-                path.push_back(M[newX][newY]);            
+                path.push_back(M[newY][newX]);            
         }
         return path;
     }
