@@ -10,7 +10,7 @@ public:
         int x = 0;
         int y = 0;
         int dirs[][2] = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
-        int d = 1; // N: {0, 1}
+        int d = 1; // 初始状态时方向应该朝北 N: {0, 1}
         unordered_map<int, unordered_set<int>> dict;
         for (const auto& obstacle : obstacles)
             dict[obstacle[0]].insert(obstacle[1]);
