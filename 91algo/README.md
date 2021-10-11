@@ -24,8 +24,8 @@
 
 ## 每日一题 汇总
 
--   [x] [【day-01】989.数组形式的整数加法](./daily/posts/day1.md)
--   [x] [【day-02】821.字符的最短距离](./daily/posts/day2.md)
+-   [x] [【day1】989.数组形式的整数加法](./daily/posts/day1.md)
+-   [x] [【day2】821.字符的最短距离](./daily/posts/day2.md)
 -   [x] [【day3】1381.设计一个支持增量操作的栈 09-12](./daily/posts/day3.md)
 -   [x] [【day4】394.字符串解码 09-13](./daily/posts/day4.md)
 -   [x] [【day5】232.用栈实现队列 09-14](./daily/posts/day5.md)
@@ -64,8 +64,8 @@
 
 #### 每日一题
 
--   [x] [【day-01】989.数组形式的整数加法](./daily/posts/day1.md)
--   [x] [【day-02】821.字符的最短距离](./daily/posts/day2.md)
+-   [x] [【day1】989.数组形式的整数加法](./daily/posts/day1.md)
+-   [x] [【day2】821.字符的最短距离](./daily/posts/day2.md)
 -   [x] [【day3】1381.设计一个支持增量操作的栈 09-12](./daily/posts/day3.md)
 -   [x] [【day4】394.字符串解码 09-13](./daily/posts/day4.md)
 -   [x] [【day5】232.用栈实现队列 09-14](./daily/posts/day5.md)
@@ -94,7 +94,7 @@
 
 #### 每日一题
 
--   [x] [【day-07】24.两两交换链表中的节点](./daily/posts/basic/linked-list/07.swap-nodes-in-pairs.md)
+-   [x] [【day7】24.两两交换链表中的节点](./daily/posts/basic/linked-list/07.swap-nodes-in-pairs.md)
 
 
 #### 链表拓展题目
