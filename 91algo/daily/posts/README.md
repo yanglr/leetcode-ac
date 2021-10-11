@@ -1,6 +1,6 @@
 # 相关文章
 
-相关文章会发表在博客 [玩转力扣 | 极客学长](https://www.geekzl.com/leetcode), 或直接以markdown格式上传到这.
+`91算法活动(第5期)`相关的打卡文章会发表在博客 [玩转力扣 | 极客学长](https://www.geekzl.com/leetcode), 或直接以markdown格式上传到这.
 
 <br>
 
