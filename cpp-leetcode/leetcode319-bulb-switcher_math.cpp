@@ -14,8 +14,8 @@ public:
 int main()
 {
     Solution sol;
-    int n = 3;
-    auto res = sol.bulbSwitch(89);
+    int n = 89;
+    auto res = sol.bulbSwitch(n);
     cout << res << endl;
 
     return 0;
