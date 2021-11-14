@@ -31,7 +31,7 @@ private:
 public:
     vector<vector<int>> multiSearch(string big, vector<string>& smalls) {
         unordered_map<string, vector<int>> cache;
-        const int n = big.length();
+        const int n = big.size();
         const int m = smalls.size();
         vector<vector<int>> res(m);
 
